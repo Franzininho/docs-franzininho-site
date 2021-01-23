@@ -1,18 +1,18 @@
 module.exports = {
   title: 'Franzininho',
-  tagline: 'O projeto Franzininho tem o objetivo de incentivar as pessoas na tecnologia através da cultura maker e do faça você mesmo. ',
+  tagline: 'Hardware, software e documentação abertos',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'Franzininho', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'docs-franzininho-site ', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Franzininho',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo do site',
         src: 'img/logo.svg',
       },
       items: [
@@ -24,7 +24,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Franzininho/docs-franzininho-site',
           label: 'GitHub',
           position: 'right',
         },
@@ -47,32 +47,57 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Comunidade',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Wikifactory',
+              href: 'https://wikifactory.com/+franzininho',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/H5kENmWGaz',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Grupo no Facebook',
+              href: 'https://www.facebook.com/groups/299236843857849/',
+            },
+            {
+              label: 'Fórum',
+              href: 'https://wikifactory.com/+franzininho/forum',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Redes Sociais',
           items: [
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/franzininho/',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://facebook.com/franzininho/',
+            },
+            {
+              label: 'Youtube',
+              href: 'https://www.youtube.com/channel/UCxyabOm4teS0kx0EgJW78_g',
+            },
+          ],
+        },
+        {
+          title: 'Mais',
+          items: [
+            {
+              label: 'Site',
+              href: 'https://franzininho.com.br/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/franzininho',
+            },  
+            {
+              label: 'Contato',
+              href: 'mailto:contato@franzininho.com.br',
             },
           ],
         },
