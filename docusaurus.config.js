@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'Franzininho', // Usually your GitHub org/user name.
-  projectName: 'documentacao', // Usually your repo name.
+  projectName: 'docs-franzininho-site', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Franzininho',
