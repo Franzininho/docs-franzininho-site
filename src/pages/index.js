@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Open hardware',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/openhardware.svg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: 'Open Source',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/code.svg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: 'Educação Aberta',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/community.svg',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can

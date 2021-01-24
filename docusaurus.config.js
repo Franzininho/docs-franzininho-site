@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Franzininho',
   tagline: 'Hardware, software e documentação abertos',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://franzininho.github.io.',
+  baseUrl: '/docs-franzininho-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'Franzininho', // Usually your GitHub org/user name.
-  projectName: 'docs-franzininho-site ', // Usually your repo name.
+  projectName: 'docs-franzininho-site', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Franzininho',
@@ -94,7 +94,7 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/franzininho',
-            },  
+            },
             {
               label: 'Contato',
               href: 'mailto:contato@franzininho.com.br',
