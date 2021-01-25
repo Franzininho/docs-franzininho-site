@@ -12,8 +12,8 @@ const features = [
     imageUrl: 'img/openhardware.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        O open hardware pode quebrar barreiras de entrada e possibilita que mais pessoas explorem 
+        e tenham acesso a projetos.
       </>
     ),
   },
@@ -22,8 +22,7 @@ const features = [
     imageUrl: 'img/code.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Trabalhamos com softwares open source e todo nossos materiais seguem esse formato.
       </>
     ),
   },
@@ -32,8 +31,8 @@ const features = [
     imageUrl: 'img/community.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Nosso meteriais contribuem para uma educação aberta e inclusiva e que são desenvolvidos colaborativamente
+        pela comunidade.
       </>
     ),
   },
@@ -60,7 +59,7 @@ function Home() {
   return (
     <Layout
       title={`Documentação ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Documentação do projeto Franzininho <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
@@ -68,11 +67,11 @@ function Home() {
           <div className={styles.buttons}>
             <Link
               className={clsx(
-                'button button--outline button--secondary button--lg',
+                'button button--secondary button--lg',
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Documentação
+              Explore
             </Link>
           </div>
         </div>
