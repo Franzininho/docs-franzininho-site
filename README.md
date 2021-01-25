@@ -1,33 +1,52 @@
-# Website
+# Documentação do projeto Franzininho
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+Documentação feita com [Docusaurus 2](https://v2.docusaurus.io/). 
 
-## Installation
+Aqui concentramos toda a documentação para uso das placas e projetos Franzininho
+
+
+
+## Contribuição
+
+Você pode contribuir com a documentação da seguinte forma:
+- Correção dos materiais já publicados;
+- Escrita de novos tópicos
+
+Para isso faça os seguintes passos:
+1. Crie uma Issue sobre a problema ou implementação;
+2. Faça Fork do projeto
+3. Crie uma nova branch: `git checkout -b nova-branch`
+4. Commit suas mudanças: `git commit -m 'Adicionei nome-do-projeto'`
+5. Push para a branch: `git push origin nova-branch`
+6. Abra um Pull Request
+7. Após a revisão e aprovação pelo time de documentação será feito o deploy
+8. Depois que o seu PR for unido ao projeto, você pode deletar a sua branch.
+
+
+## Usando o docusaurus
+
+Você precisará instalar no seu computador:
+- Node.js versão >= 10.15.1
+- Yarn versão >= 1.5
+
+Após o fork, entre na pasta do projeto:
+
+- Instale 
 
 ```console
 yarn install
 ```
 
-## Local Development
+- Teste localmente
 
 ```console
 yarn start
 ```
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+Este comando inicia um servidor de desenvolvimento local e abre uma janela do navegador. A maioria das alterações são refletidas ao vivo, sem a necessidade de reiniciar o servidor.
 
-## Build
 
-```console
-yarn build
-```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+para mais detalhes acesse a [documentação do Docusaurus V2](https://v2.docusaurus.io/docs/)
 
-## Deployment
 
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
