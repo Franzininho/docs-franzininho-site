@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: 'Open hardware',
-    imageUrl: 'img/openhardware.svg',
+    imageUrl: 'img/openhardware_2.svg',
     description: (
       <>
         O open hardware pode quebrar barreiras de entrada e possibilita que mais pessoas explorem 
