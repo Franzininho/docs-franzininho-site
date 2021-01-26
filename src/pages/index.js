@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: 'Open Source',
-    imageUrl: 'img/code.svg',
+    imageUrl: 'img/code_2.svg',
     description: (
       <>
         Trabalhamos com softwares open source e todo nossos materiais seguem esse formato.
