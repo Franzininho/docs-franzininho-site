@@ -12,8 +12,9 @@ const features = [
     imageUrl: 'img/openhardware_2.svg',
     description: (
       <>
-        O open hardware pode quebrar barreiras de entrada e possibilita que mais pessoas explorem 
-        e tenham acesso a projetos.
+        Os projetos projetos Franzininho são open source hardware, ou seja, são
+        disponibilizado ao público de modo que qualquer um pode construir, 
+        modificar, distribuir e utilizar a partir dos arquivos.
       </>
     ),
   },
@@ -22,7 +23,7 @@ const features = [
     imageUrl: 'img/code_2.svg',
     description: (
       <>
-        Trabalhamos com softwares open source e todo nossos materiais seguem esse formato.
+        Trabalhamos com softwares open source e todo os nossos materiais seguem esse formato.
       </>
     ),
   },
@@ -31,8 +32,8 @@ const features = [
     imageUrl: 'img/community_2.svg',
     description: (
       <>
-        Nosso meteriais contribuem para uma educação aberta e inclusiva e que são desenvolvidos colaborativamente
-        pela comunidade.
+        Nossos meteriais contribuem para uma educação aberta e inclusiva. 
+        São desenvolvidos de forma colaborativa e revisados pela comunidade.
       </>
     ),
   },
