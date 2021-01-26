@@ -25,7 +25,11 @@ module.exports = {
     {
       type: 'category',
       label: 'Franzininho DIY',
-      items: ['FranzininhoDIY/lista-de-materiais','FranzininhoDIY/pinagem', 'doc2', 'doc3'],
+      items: ['FranzininhoDIY/lista-de-materiais',
+              'FranzininhoDIY/identificando-componentes',
+              'FranzininhoDIY/pinagem', 
+              'doc2', 
+              'doc3'],
       collapsed: false
     },
   ],
