@@ -28,7 +28,7 @@ const features = [
   },
   {
     title: 'Educação Aberta',
-    imageUrl: 'img/community.svg',
+    imageUrl: 'img/community_2.svg',
     description: (
       <>
         Nosso meteriais contribuem para uma educação aberta e inclusiva e que são desenvolvidos colaborativamente
