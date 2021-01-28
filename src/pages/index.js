@@ -12,9 +12,8 @@ const features = [
     imageUrl: 'img/openhardware_2.svg',
     description: (
       <>
-        Os projetos projetos Franzininho são open source hardware, ou seja, são
-        disponibilizado ao público de modo que qualquer um pode construir, 
-        modificar, distribuir e utilizar a partir dos arquivos.
+        Os projetos Franzininho são open hardware, ou seja, são
+        disponibilizado ao público de modo que qualquer um pode construir, modificar, distribuir e utilizar a partir dos arquivos.
       </>
     ),
   },
