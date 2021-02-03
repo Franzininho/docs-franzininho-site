@@ -19,7 +19,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Sobre',
-      items: ['doc1', 'doc2', 'doc3'],
+      items: ['doc1',],
       collapsed: false
     },
     {
@@ -27,11 +27,19 @@ module.exports = {
       label: 'Franzininho DIY',
       items: ['FranzininhoDIY/lista-de-materiais',
               'FranzininhoDIY/identificando-componentes',
-              'FranzininhoDIY/pinagem', 
-              'doc2', 
-              'doc3'],
+              'FranzininhoDIY/montagem',
+              'FranzininhoDIY/pinagem',
+              'doc2',],
       collapsed: false
     },
+    {
+      type: 'category',
+      label: 'Programação',
+      items: [ 
+      	      'doc3',],
+      collapsed: false
+    },
+   
   ],
 };
 

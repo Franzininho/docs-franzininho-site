@@ -7,9 +7,10 @@ description: Confira os funções de cada pino da Franzininho
 
 
 
-![pinagem Franzininho DIY](pinagem-atualizada-2020.svg)
+![pinagem Franzininho DIY](franzininho-diy-pinout.png)
 
 :::tip Versões de placas
-O pinout das versões anteriores são iguais
+Houve uma alteração da numeração dos pinos 4 e 5 na ultima versão de placa.
+Ainda é necessario ajustar no software
 :::
 
