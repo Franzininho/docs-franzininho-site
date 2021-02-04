@@ -2,7 +2,7 @@
 
 Documentação feita com [Docusaurus 2](https://v2.docusaurus.io/). 
 
-Aqui concentramos toda a documentação para uso das placas e projetos Franzininho
+Aqui concentramos toda a documentação para os primeiros passos com placas e projetos Franzininho
 
 
 
@@ -47,6 +47,6 @@ Este comando inicia um servidor de desenvolvimento local e abre uma janela do na
 
 
 
-para mais detalhes acesse a [documentação do Docusaurus V2](https://v2.docusaurus.io/docs/)
+Para mais detalhes acesse a [documentação do Docusaurus V2](https://v2.docusaurus.io/docs/)
 
 
