@@ -63,8 +63,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Badges',
-      items: [ 
-      	      'doc3',],
+      items: [ 'Badge/badge',],
       collapsed: true
     },
     {
