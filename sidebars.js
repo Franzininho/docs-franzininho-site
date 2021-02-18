@@ -20,7 +20,7 @@ module.exports = {
       type: 'category',
       label: 'Sobre',
       items: ['doc1',],
-      collapsed: false
+      collapsed: true
     },
     {
       type: 'category',
@@ -30,28 +30,59 @@ module.exports = {
               'FranzininhoDIY/montagem',
               'FranzininhoDIY/pinagem',
               'FranzininhoDIY/bootloader',],
-      collapsed: false
+      collapsed: true
     },
     {
       type: 'category',
-      label: 'Programação',
+      label: 'Franzininho Tiny',
       items: [ 
       	      'doc3',],
-      collapsed: false
+      collapsed: true
+    },
+    {
+      type: 'category',
+      label: 'Franzininho WIFI',
+      items: [ 
+      	      'doc3',],
+      collapsed: true
+    },
+    {
+      type: 'category',
+      label: 'Franzino',
+      items: [ 
+      	      'doc3',],
+      collapsed: true
+    },
+    {
+      type: 'category',
+      label: 'FranzBoy',
+      items: [ 
+      	      'doc3',],
+      collapsed: true
+    },
+    {
+      type: 'category',
+      label: 'Badges',
+      items: [ 
+      	      'doc3',],
+      collapsed: true
+    },
+    {
+      type: 'category',
+      label: 'FranzMakey',
+      items: [ 
+      	      'doc3',],
+      collapsed: true
     },
    
   ],
+ /* programacao: [
+    {
+      type: 'category',
+      label: 'Arduino',
+      items: ['programacao/introducao',
+             ],
+      collapsed: false
+    },
+  ],*/
 };
-
-
-/*
-module.exports = {
-  firstSidebar: {
-    'Category A': ['doc1'],
-  },
-  secondSidebar: {
-    'Category A': ['doc2'],
-    'Category B': ['doc3'],
-  },
-};
-*/

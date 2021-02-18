@@ -19,9 +19,15 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Documentação',
+          label: 'Placas',
           position: 'left',
         },
+        /*{
+          to: 'programacao/',
+          activeBasePath: 'programacao',
+          label: 'Programação',
+          position: 'left',
+        },*/
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Franzininho/docs-franzininho-site',
@@ -34,7 +40,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Documentação',
+          title: 'Placas',
           items: [
             {
               label: 'Style Guide',

@@ -7,6 +7,10 @@ description: Lista de materiais (componentes) para montagem da Franzininho DIY
 
 Aqui você encontra a lista de materiais para montagem da Franzininho DIY. Confira a referência e descrição de cada componente. 
 
+
+<iframe src="/interactive_bom/Franzininho-DIY_ibom.html" width="100%" height="600" title="Watchy Interactive BOM" ></iframe>
+
+
 ## Lista de materiais \(BOM\)
 
 | Referência | Descrição |
