@@ -5,10 +5,9 @@ slug: /franzininho-diy/lista-de-materiais
 description: Lista de materiais (componentes) para montagem da Franzininho DIY
 ---
 
-Aqui você encontra a lista de materiais para montagem da Franzininho DIY. Confira a referência e descrição de cada componente. 
+Aqui você encontra a lista de materiais para montagem da Franzininho DIY.
 
-
-<iframe src="/interactive_bom/Franzininho-DIY_ibom.html" width="100%" height="600" title="Watchy Interactive BOM" ></iframe>
+Confira a referência e descrição de cada componente.
 
 
 ## Lista de materiais \(BOM\)
@@ -35,3 +34,12 @@ Aqui você encontra a lista de materiais para montagem da Franzininho DIY. Confi
 | RESET | Chave Táctil 6x6x5 mm |
 | USB | Conector USB Macho 90º com trava |
 | PCB | Placa de circuito impresso Franzininho V2 |
+
+
+
+
+:::note Ajuda
+
+Se tiver alguma dúvida sobre os componentes, consulte a comunidade Franzininho
+
+:::
