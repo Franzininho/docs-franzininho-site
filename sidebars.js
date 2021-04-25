@@ -27,8 +27,8 @@ module.exports = {
       label: 'Franzininho DIY',
       items: ['FranzininhoDIY/franzininho-diy',
               'FranzininhoDIY/lista-de-materiais',
-              /*'FranzininhoDIY/identificando-componentes',
-              'FranzininhoDIY/montagem',
+              'FranzininhoDIY/identificando-componentes',
+              /*'FranzininhoDIY/montagem',
               'FranzininhoDIY/pinagem',
               'FranzininhoDIY/bootloader',*/],
       collapsed: true
