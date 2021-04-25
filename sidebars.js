@@ -37,7 +37,7 @@ module.exports = {
       type: 'category',
       label: 'Franzininho Tiny',
       items: [
-      	      'doc3',],
+      	      'FranzininhoTiny/franzininho-tiny',],
       collapsed: true
     },
     {
