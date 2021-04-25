@@ -12,6 +12,8 @@ description: Para deixar claro todo o funcionamento da Franzininho, precisamos c
 
 A placa de circuito impresso é responsável por receber todos os componentes. Ela pode ser feita de fibra de vidro ou fenolite. Para a Franzininho DIY foi desenvolvido um projeto em face simples, o que permite a fabricação caseira.
 
+![PCB](img/componentes/componentes-placa.png)
+
 Na parte superior da placa \(TOP\) há os desenhos dos componentes, indicando a posição de cada um. Os componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior \(Bottom\).
 
 ![TOP e Bottom da placa Franzininho DIY V2](img/componentes/componentes-placa-top-botton.png)
