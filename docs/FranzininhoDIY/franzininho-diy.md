@@ -54,6 +54,8 @@ A Franzininho DIY está certificada na [OSHWA com UID BR000003](https://certific
 
 ![BR000003](img/franzininho-diy/OSHW_mark_BR000003.png)
 
+Para reprodução do projeto ou derivações, é importante verificar os requisitos da licença , copyright e boas práticas.
+
 ## Onde comprar
 
 ### Varejo:
