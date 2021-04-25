@@ -28,8 +28,8 @@ module.exports = {
       items: ['FranzininhoDIY/franzininho-diy',
               'FranzininhoDIY/lista-de-materiais',
               'FranzininhoDIY/identificando-componentes',
-              /*'FranzininhoDIY/montagem',
-              'FranzininhoDIY/pinagem',
+              'FranzininhoDIY/montagem',
+              /*'FranzininhoDIY/pinagem',
               'FranzininhoDIY/bootloader',*/],
       collapsed: true
     },
