@@ -44,6 +44,7 @@ Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. t
 - [Repositório do Hardware](https://github.com/Franzininho/franzininho-diy-board)
 - [e-book Franzininho - Monte e Programe seu Próprio Arduino](http://eepurl.com/gbR4P1)
 - [Livro impresso: Franzininho - Monte e Programe seu Próprio Arduino](https://www.amazon.com.br/Franzininho-F%C3%A1bio-Souza/dp/8595680531/)
+- [Componentes para Fritzing](https://github.com/Franzininho/franzininho-fritzing/blob/master/Franzininho-DIY/Franzininho-DIY-V2RV2.fzpz)
 
 
 ## Projeto Open Hardware
