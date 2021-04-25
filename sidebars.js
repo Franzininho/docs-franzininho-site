@@ -30,7 +30,8 @@ module.exports = {
               'FranzininhoDIY/identificando-componentes',
               'FranzininhoDIY/montagem',
               'FranzininhoDIY/pinagem',
-            /*'FranzininhoDIY/bootloader',*/],
+            'FranzininhoDIY/bootloader',
+          ],
       collapsed: true
     },
     {
