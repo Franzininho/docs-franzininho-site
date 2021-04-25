@@ -14,7 +14,7 @@ A placa de circuito impresso é responsável por receber todos os componentes. E
 
 Na parte superior da placa \(TOP\) há os desenhos dos componentes, indicando a posição de cada um. Os componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior \(Bottom\).
 
-![TOP e Bottom da placa Franzininho DIY V2]()
+![TOP e Bottom da placa Franzininho DIY V2](img/componentes/componentes-placa-top-botton.png)
 
 ## Resistores
 
