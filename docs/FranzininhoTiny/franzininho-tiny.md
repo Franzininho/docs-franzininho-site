@@ -38,7 +38,9 @@ Conforme definido no “how to” da licença, no repositório do projeto estão
 - COPYRIGHT.TXT
 - PRODUCT.TXT
 
+:::important Importante
 Para reprodução do projeto ou derivações, é importante verificar os requisitos da licença , copyright e boas práticas.
+:::
 
 ## Onde comprar
 

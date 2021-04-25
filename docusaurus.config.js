@@ -22,18 +22,22 @@ module.exports = {
           label: 'Placas',
           position: 'left',
         },
-        /*{
-          to: 'programacao/',
-          activeBasePath: 'programacao',
-          label: 'Programação',
-          position: 'left',
-        },*/
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/Franzininho/docs-franzininho-site',
-          label: 'GitHub',
-          position: 'right',
+          to: 'tutoriais/',
+          activeBasePath: 'tutoriais',
+          label: 'Tutoriais',
+          position: 'left',
         },
+    /*    {
+         label: "Tutoriais",
+         position: "left",
+         items: [
+           { label: "Montagem Franzininho DIY", to: "docs/documenting/standards" },
+           { label: "Programação Franzininho DIY Arduino", to: "docs/documenting/yaml-style-guide"},
+           { label: "Create a new page", to: "docs/documenting/create-page",
+           },
+         ],
+       },*/
       ],
     },
     footer: {

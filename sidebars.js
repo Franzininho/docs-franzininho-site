@@ -19,7 +19,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Sobre',
-      items: ['doc1',],
+      items: ['sobre',],
       collapsed: true
     },
     {
@@ -40,7 +40,7 @@ module.exports = {
       	      'FranzininhoTiny/franzininho-tiny',],
       collapsed: true
     },
-    {
+  /*  {
       type: 'category',
       label: 'Franzininho WIFI',
       items: [
@@ -74,8 +74,9 @@ module.exports = {
       	      'doc3',],
       collapsed: true
     },
-
+    */
   ],
+
  /* programacao: [
     {
       type: 'category',
