@@ -22,13 +22,13 @@ module.exports = {
           label: 'Placas',
           position: 'left',
         },
-        {
+    /*  {
           to: 'tutoriais/',
           activeBasePath: 'tutoriais',
           label: 'Tutoriais',
           position: 'left',
         },
-    /*    {
+        {
          label: "Tutoriais",
          position: "left",
          items: [
