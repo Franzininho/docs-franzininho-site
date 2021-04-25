@@ -29,8 +29,8 @@ module.exports = {
               'FranzininhoDIY/lista-de-materiais',
               'FranzininhoDIY/identificando-componentes',
               'FranzininhoDIY/montagem',
-              /*'FranzininhoDIY/pinagem',
-              'FranzininhoDIY/bootloader',*/],
+              'FranzininhoDIY/pinagem',
+            /*'FranzininhoDIY/bootloader',*/],
       collapsed: true
     },
     {
