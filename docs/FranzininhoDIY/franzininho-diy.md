@@ -1,0 +1,67 @@
+---
+id: franzininho-diy
+title: Placa Franzininho DIY
+slug: /franzininho-diy/franzininho-diy
+description: Detalhes da Franzininho DIY
+---
+
+A Franzininho DIY foi desenvolvida com a proposta de “Faça você mesmo” e com base na plataforma Arduino. O objetivo é que as pessoas que a adquirem, trilhem a jornada do Maker de eletrônica, montando e programando a sua própria placa compatível com Arduino.
+
+![Placa Franzininho DIY](img/franzininho-diy/placa-franzininho-diy.png)
+
+Ela é fornecida em formato de Kit para soldar, não recomendamos que você adquira a Franzininho DIY já soldada, pois o objetivo pedagógico compreende a jornada de montagem.
+
+![Kit Franzininho DIY](img/franzininho-diy/kit-franzininho-diy.png)
+
+É uma excelente opção para oficinas de Soldagem eletrônica e primeiros passos com a programação Arduino. Com componentes fáceis de identificar e também de soldar, permite que qualquer pessoa com pouco ou nenhum conhecimento em soldagem consiga montar a sua placa tranquilamente e criar em pouco tempo projetos como, automação, robôs, jogos entre outros(Veja os exemplos em nossa documentação).
+
+![Oficina Franzininho DIY](img/franzininho-diy/oficina-franzininho-diy.jpg)
+
+
+A placa é baseada no microcontrolador ATtiny85 e foi criada para fins educacionais, é voltada para estudantes de curso técnico e engenharia, makers e hobbistas que desejam aprender sobre prototipagem, soldagem, eletrônica e programação em uma verdadeira experiência DIY.
+
+A placa possui 5 pinos de I/O, LED indicador de Alimentação, LED de uso geral, conector USB para alimentação e gravação, conector para alimentação externa e botão de Reset.
+
+![Pinout Franzininho DIY](img/franzininho-diy/Pinagem-completa-Franzininho-DIY-V2RV2-fundo-branco.png)
+
+O projeto é open hardware e toda a documentação está aberta e disponível em português.
+
+Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. também pode ser programada em linguagem C usando IDE mais avançadas.
+
+## Resumo de recursos
+
+- Microcontrolador: ATtiny85
+- Pinos de I/O: até 6
+- Entradas Analógicas: até 4
+- PWM: 3
+- I2C: 1
+- SPI: 1
+- Tensão de funcionamento: 5V
+- Alimentação: USB(5V) ou externa (de 7,5V à 9V)
+
+## Documentação
+
+- [Repositório do Hardware](https://github.com/Franzininho/franzininho-diy-board)
+- [e-book Franzininho - Monte e Programe seu Próprio Arduino](http://eepurl.com/gbR4P1)
+- [Livro impresso: Franzininho - Monte e Programe seu Próprio Arduino](https://www.amazon.com.br/Franzininho-F%C3%A1bio-Souza/dp/8595680531/)
+
+
+## Projeto Open Hardware
+
+O projeto é open hardware e foi publicado em [CC-BY-SA-4.0](https://github.com/Franzininho/franzininho-diy-board/blob/main/LICENSE)
+
+A Franzininho DIY está certificada na [OSHWA com UID BR000003](https://certification.oshwa.org/br000003.html)
+
+![BR000003](img/franzininho-diy/OSHW_mark_BR000003.png)
+
+## Onde comprar
+
+### Varejo:
+
+- [Robocore](https://www.robocore.net/loja/embarcados/franzininho-diy)
+- [FilipeFlop](https://www.robocore.net/loja/embarcados/franzininho-diy)
+
+
+### Atacado:
+
+Entrar em contato: [contato@franzininho.com.br](mailto:contato@franzininho.com.br)

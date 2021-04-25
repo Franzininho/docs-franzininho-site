@@ -1,4 +1,4 @@
-  
+
   /*
   module.exports = {
   someSidebar: {
@@ -25,38 +25,39 @@ module.exports = {
     {
       type: 'category',
       label: 'Franzininho DIY',
-      items: ['FranzininhoDIY/lista-de-materiais',
+      items: ['FranzininhoDIY/franzininho-diy',
+              /*'FranzininhoDIY/lista-de-materiais',
               'FranzininhoDIY/identificando-componentes',
               'FranzininhoDIY/montagem',
               'FranzininhoDIY/pinagem',
-              'FranzininhoDIY/bootloader',],
+              'FranzininhoDIY/bootloader',*/],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzininho Tiny',
-      items: [ 
+      items: [
       	      'doc3',],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzininho WIFI',
-      items: [ 
+      items: [
       	      'doc3',],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzino',
-      items: [ 
+      items: [
       	      'doc3',],
       collapsed: true
     },
     {
       type: 'category',
       label: 'FranzBoy',
-      items: [ 
+      items: [
       	      'doc3',],
       collapsed: true
     },
@@ -69,11 +70,11 @@ module.exports = {
     {
       type: 'category',
       label: 'FranzMakey',
-      items: [ 
+      items: [
       	      'doc3',],
       collapsed: true
     },
-   
+
   ],
  /* programacao: [
     {
