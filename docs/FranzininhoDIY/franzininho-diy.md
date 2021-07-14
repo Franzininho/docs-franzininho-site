@@ -1,7 +1,7 @@
 ---
 id: franzininho-diy
 title: Placa Franzininho DIY
-slug: /franzininho-diy/franzininho-diy
+slug: /franzininho-diy/sobre
 description: Detalhes da Franzininho DIY
 ---
 
@@ -16,7 +16,6 @@ Ela é fornecida em formato de Kit para soldar, não recomendamos que você adqu
 É uma excelente opção para oficinas de Soldagem eletrônica e primeiros passos com a programação Arduino. Com componentes fáceis de identificar e também de soldar, permite que qualquer pessoa com pouco ou nenhum conhecimento em soldagem consiga montar a sua placa tranquilamente e criar em pouco tempo projetos como, automação, robôs, jogos entre outros(Veja os exemplos em nossa documentação).
 
 ![Oficina Franzininho DIY](img/franzininho-diy/oficina-franzininho-diy.jpg)
-
 
 A placa é baseada no microcontrolador ATtiny85 e foi criada para fins educacionais, é voltada para estudantes de curso técnico e engenharia, makers e hobbistas que desejam aprender sobre prototipagem, soldagem, eletrônica e programação em uma verdadeira experiência DIY.
 
@@ -46,7 +45,6 @@ Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. t
 - [Livro impresso: Franzininho - Monte e Programe seu Próprio Arduino](https://www.amazon.com.br/Franzininho-F%C3%A1bio-Souza/dp/8595680531/)
 - [Componentes para Fritzing](https://github.com/Franzininho/franzininho-fritzing/blob/master/Franzininho-DIY/Franzininho-DIY-V2RV2.fzpz)
 
-
 ## Projeto Open Hardware
 
 O projeto é open hardware e foi publicado em [CC-BY-SA-4.0](https://github.com/Franzininho/franzininho-diy-board/blob/main/LICENSE)
@@ -61,12 +59,11 @@ Para reprodução do projeto ou derivações, é importante verificar os requisi
 
 ## Onde comprar
 
-### Varejo:
+### Varejo
 
 - [Robocore](https://www.robocore.net/loja/embarcados/franzininho-diy)
 - [FilipeFlop](https://www.robocore.net/loja/embarcados/franzininho-diy)
 
-
-### Atacado:
+### Atacado
 
 Entrar em contato: [contato@franzininho.com.br](mailto:contato@franzininho.com.br)

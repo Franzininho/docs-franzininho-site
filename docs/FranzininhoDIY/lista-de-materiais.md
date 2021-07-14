@@ -9,7 +9,6 @@ Aqui você encontra a lista de materiais para montagem da Franzininho DIY.
 
 Confira a referência e descrição de cada componente.
 
-
 ## Lista de materiais \(BOM\)
 
 | Referência | Descrição |
@@ -33,13 +32,10 @@ Confira a referência e descrição de cada componente.
 | R5 | Resistor 1K - 5% 1/4 W |
 | RESET | Chave Táctil 6x6x5 mm |
 | USB | Conector USB Macho 90º com trava |
-| PCB | Placa de circuito impresso Franzininho V2 |
-
-
-
+| PCB | [Placa de circuito impresso Franzininho V2](https://github.com/Franzininho/franzininho-diy-board) |
 
 :::note Ajuda
 
-Se tiver alguma dúvida sobre os componentes, consulte a comunidade Franzininho
+Se tiver alguma dúvida sobre os componentes, consulte a comunidade Franzininho no [Discord](https://discord.gg/H5kENmWGaz)
 
 :::

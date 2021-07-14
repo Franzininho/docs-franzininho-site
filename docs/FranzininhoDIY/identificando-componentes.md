@@ -2,11 +2,8 @@
 id: identificando-componentes
 title: Identificando os componentes
 slug: /franzininho-diy/identificando-componentes
-description: Para deixar claro todo o funcionamento da Franzininho, precisamos conhecer um pouco dos componentes que compõem o projeto, assim poderemos fazer mudanças e aprimorar ainda mais este projeto.
+description: Para deixar claro todo o funcionamento da Franzininho DIY, precisamos conhecer um pouco dos componentes que compõem o projeto, assim poderemos fazer mudanças e aprimorar ainda mais este projeto.
 ---
-
-
-# Identificando os componentes
 
 ## Placa de Circuito impresso
 
@@ -14,7 +11,7 @@ A placa de circuito impresso é responsável por receber todos os componentes. E
 
 ![PCB](img/componentes/componentes-placa.png)
 
-Na parte superior da placa \(TOP\) há os desenhos dos componentes, indicando a posição de cada um. Os componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior \(Bottom\).
+Na parte superior da placa \(**TOP**\) há os desenhos dos componentes, indicando a posição de cada um. Os componentes são encaixados em seus respectivos locais e depois são soldados através da parte inferior \(**Bottom**\).
 
 ![TOP e Bottom da placa Franzininho DIY V2](img/componentes/componentes-placa-top-botton.png)
 
@@ -26,7 +23,7 @@ Os resistores são componentes passivos que se opõem à passagem de corrente el
 
 Fonte: [http://blog.render.com.br/eletronica/como-calcular-o-valor-de-um-resistor/](http://blog.render.com.br/eletronica/como-calcular-o-valor-de-um-resistor/)
 
-Na Franzininho usamos 5 resistores, com as seguintes referências e valores:
+Na Franzininho DIY usamos 5 resistores, com as seguintes referências e valores:
 
 - R1 e R2 - 68 R \(Azul, Cinza, Preto, Dourado\)
 
@@ -42,7 +39,7 @@ R4 e R5 - 1K \(Marrom, Preto, Vermelho, Dourado\)
 
 ## Capacitores
 
-Capacitores são dispositivos elétricos capazes de armazenar carga elétrica em um campo elétrico. Na Franzininho temos 2 tipos de capacitores:
+Capacitores são dispositivos elétricos capazes de armazenar carga elétrica em um campo elétrico. Na Franzininho DIY temos 2 tipos de capacitores:
 
 C1 - Capacitor Cerâmico 100 nF x 50 V
 
@@ -56,7 +53,7 @@ C2 - Capacitor eletrolítico 10uF x 35V
 
 O LED \(Light Emitting Diode\) é usado para a emissão de luz em locais e instrumentos onde se torna mais conveniente a sua utilização no lugar de uma lâmpada.
 
-Na Franzininho são usados dois leds difusos de 3 mm
+Na Franzininho DIY são usados dois leds difusos de 3 mm
 
 ON - LED Verde, LED - LED Amarelo
 
@@ -64,17 +61,17 @@ ON - LED Verde, LED - LED Amarelo
 
 ## Chave táctil
 
-É um botão de contato momentâneo. Na Franzininho usamos uma chave táctil NA \(normalmente aberta\) de 4,3 x 6 x 6 mm que tem a função de botão de Reset.
+É um botão de contato momentâneo. Na Franzininho DIY usamos uma chave táctil NA \(normalmente aberta\) de 4,3 x 6 x 6 mm que tem a função de botão de Reset.
 
 Chave - RESET
 
-![Chave tactil](img/componentes/componentes-chave.png)
+![Chave táctil](img/componentes/componentes-chave.png)
 
 ## Soquete
 
 O soquete é usado para o encaixe de circuitos integrados, facilitando a sua troca na placa.
 
-Na Franzininho usamos um soquete de 8 pinos para acomodar o Microcontrolador attiny85
+Na Franzininho DIY usamos um soquete de 8 pinos para acomodar o Microcontrolador ATtiny85
 
 IC1 - Soquete
 
@@ -82,16 +79,16 @@ IC1 - Soquete
 
 ## Barra de pinos
 
-São usadas para expansão de pinos e entrada de alimentação na placa. Na Franzininho usamos 3 vias para o conector de alimentação e 8 vias para o conector de expansão da placa
+São usadas para expansão de pinos e entrada de alimentação na placa. Na Franzininho DIY usamos 3 vias para o conector de alimentação e 8 vias para o conector de expansão da placa
 
-* J1 - Barra de 3 pinos
-* P0, P1...GND - Barra de 8 pinos
+- J1 - Barra de 3 pinos
+- P0, P1...GND - Barra de 8 pinos
 
 ![Barra de pinos](img/componentes/componentes-barra.png)
 
 ## Regulador de Tensão
 
-Usado para abaixar a tensão de entrada para um nível em que o circuito possa trabalhar. Na Franzininho usamos um regulador de tensão de 5V, o 78L05
+Usado para abaixar a tensão de entrada para um nível em que o circuito possa trabalhar. Na Franzininho DIY usamos um regulador de tensão de 5V, o 78L05
 
 IC2 - 78L05 - Regulador de tensão 5V
 
@@ -99,12 +96,12 @@ IC2 - 78L05 - Regulador de tensão 5V
 
 ## Conector USB
 
-Usado para conectar a placa ao computador ou a um circuito de alimentação com conector USB. Na Franzininho usamos um Conector USB Macho 90º com trava
+Usado para conectar a placa ao computador ou a um circuito de alimentação com conector USB. Na Franzininho DIY usamos um Conector USB Macho 90º com trava
 
 ![Conector USB Macho 90&#xBA; com trava](img/componentes/componentes-usb.png)
 
 ## ATtiny85
 
-É o cerebro da Franzininho DIY e o componente mais caro. Tenha cuidado na hora de encaixar no soquete. Siga as orientações de montagem.
+É o cérebro da Franzininho DIY e o componente mais caro. Tenha cuidado na hora de encaixar no soquete. Siga as orientações de montagem.
 
-![Attiny85](img/componentes/attiny85.jpeg)
+![ATtiny85](img/componentes/attiny85.jpeg)
