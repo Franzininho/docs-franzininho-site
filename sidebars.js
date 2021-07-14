@@ -21,30 +21,37 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Franzininho WiFi',
+      items: [
+      	      'FranzininhoWifi/franzininho-wifi',],
+      collapsed: true
+    },
+    {
+      type: 'category',
+      label: 'FranzMakey',
+      items: [
+      	      'FranzMakey/franzmakey',],
+      collapsed: true
+    },
+    {
+      type: 'category',
       label: 'Franzininho Tiny',
       items: [
       	      'FranzininhoTiny/franzininho-tiny',],
-      collapsed: true
-    },
-  /*  {
-      type: 'category',
-      label: 'Franzininho WIFI',
-      items: [
-      	      'doc3',],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzino',
       items: [
-      	      'doc3',],
+      	      'Franzino/franzino',],
       collapsed: true
     },
     {
       type: 'category',
       label: 'FranzBoy',
       items: [
-      	      'doc3',],
+      	      'FranzBoy/franzboy',],
       collapsed: true
     },
     {
@@ -53,14 +60,6 @@ module.exports = {
       items: [ 'Badge/badge',],
       collapsed: true
     },
-    {
-      type: 'category',
-      label: 'FranzMakey',
-      items: [
-      	      'doc3',],
-      collapsed: true
-    },
-    */
   ],
 
  /* programacao: [
