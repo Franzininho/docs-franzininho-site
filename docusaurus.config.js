@@ -19,7 +19,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Placas',
+          label: 'Documentação',
           position: 'left',
         },
     /*  {
@@ -44,7 +44,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Placas',
+          title: 'Documentação',
           items: [
             {
               label: 'Style Guide',
