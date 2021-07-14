@@ -1,36 +1,21 @@
-
-  /*
-  module.exports = {
-  someSidebar: {
-    'Franzininho': ['doc1', 'doc2', 'doc3'],
-    'Franzininho DIY': ['mdx'],
-    'Franzininho Tiny': ['mdx'],
-    'Franzininho WIFI': ['mdx'],
-    'Franzino': ['mdx'],
-    'FranzMakey': ['mdx'],
-    'FranzBoy': ['mdx'],
-    'Badges': ['mdx'],
-  },
-}; */
-
-
 module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Sobre',
-      items: ['sobre',],
+      label: 'Comece aqui',
+      items: ['Seja bem vindo',],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzininho DIY',
-      items: ['FranzininhoDIY/franzininho-diy',
+      items: [
+              'FranzininhoDIY/franzininho-diy',
               'FranzininhoDIY/lista-de-materiais',
               'FranzininhoDIY/identificando-componentes',
               'FranzininhoDIY/montagem',
               'FranzininhoDIY/pinagem',
-            'FranzininhoDIY/bootloader',
+              'FranzininhoDIY/bootloader',
           ],
       collapsed: true
     },
