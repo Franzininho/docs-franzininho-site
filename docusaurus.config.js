@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Franzininho',
-  tagline: 'Hardware, software e documentação abertos',
+  tagline: 'Aqui você encontra toda documentação do projeto',
   url: 'https://franzininho.github.io.',
   baseUrl: '/docs-franzininho-site/',
   onBrokenLinks: 'throw',
