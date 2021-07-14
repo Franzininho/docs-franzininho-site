@@ -1,8 +1,29 @@
 ---
 id: sobre
-title: Sobre
-sidebar_label: Sobre
+title: Seja bem vindo a documentação do projeto Franzininho
+sidebar_label: Seja bem vindo!
 slug: /
 ---
 
-Nessa seção você encontra a documentação para trabalhar com todas as placas e Kits Franzininho. Selecione a placa que deseja explorar e lei a sua documentação.
+Aqui você encontra a documentação (**em Desenvolvimento**) para trabalhar com todas as placas e Kits Franzininho.
+
+Caso precise de ajuda e não encontre aqui, fique a vontade para participar da comunidade no [Discord](https://discord.gg/H5kENmWGaz)
+
+Se não conheçe o projeto Franzininho, segue um breve resumo:
+
+## Sobre o projeto Franzininho
+
+O projeto [Franzininho](https://franzininho.com.br/) nasceu com o objetivo de incentivare capacitar os brasileiros para se tornarem protagonistas no desenvolvimento de projetos eletrônicos que envolvam sistemas embarcados e IoT. 
+
+Buscamos tornar os estudo das tecnologias atuais acessíveis para a sociedade brasileira através de conteúdos, materiais didáticos, ferramentas de desenvolvimento, projetos compartilhados e uma comunidade envolvida.
+
+Trabalhamos baseados nos seguintes pilares: Open source software e hardware, materiais didáticos abertos, comunidade, compartilhamento de conhecimento, colaboração.
+
+## Participe da Comunidade
+- [Servidor no Discord](https://discord.gg/H5kENmWGaz)
+- [Grupo no Facebook](https://www.facebook.com/groups/299236843857849/)
+
+## Entre em contato com os organizadores
+- [site](https://franzininho.com.br/)
+- [e-mail](mailto:contato@franzininho.com.br)
+
