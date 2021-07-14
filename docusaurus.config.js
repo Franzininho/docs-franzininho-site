@@ -60,20 +60,12 @@ module.exports = {
           title: 'Comunidade',
           items: [
             {
-              label: 'Wikifactory',
-              href: 'https://wikifactory.com/+franzininho',
-            },
-            {
               label: 'Discord',
               href: 'https://discord.gg/H5kENmWGaz',
             },
             {
               label: 'Grupo no Facebook',
               href: 'https://www.facebook.com/groups/299236843857849/',
-            },
-            {
-              label: 'Fórum',
-              href: 'https://wikifactory.com/+franzininho/forum',
             },
           ],
         },
