@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Franzininho",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Site": {
+    "message": "Site",
+    "description": "Navbar item with label Site"
+  }
+}
