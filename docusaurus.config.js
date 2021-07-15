@@ -1,14 +1,19 @@
 module.exports = {
   title: 'Franzininho',
-  tagline: 'Aqui você encontra toda documentação do projeto',
-  url: 'https://franzininho.github.io.',
+  tagline: 'O projeto Franzininho tem o objetivo de incentivar as pessoas na tecnologia através da cultura maker e do faça você mesmo.',
+  url: 'https://franzininho.github.io',
   baseUrl: '/docs-franzininho-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'Franzininho', // Usually your GitHub org/user name.
-  projectName: 'docs-franzininho-site', // Usually your repo name.
+  organizationName: 'Franzininho',
+  projectName: 'docs-franzininho-site',
   themeConfig: {
+    image: 'img/logo.svg',
+    metadatas: [
+      { property: 'og:image:width', content: '1200' },
+      { property: 'og:image:height', content: '630' },
+    ],
     navbar: {
       title: 'Franzininho',
       logo: {
@@ -17,12 +22,16 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
+          to: '/docs',
+          activeBasePath: '/docs',
           label: 'Documentação',
           position: 'left',
         },
-    /*  {
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+     /* {
           to: 'tutoriais/',
           activeBasePath: 'tutoriais',
           label: 'Tutoriais',
@@ -47,12 +56,12 @@ module.exports = {
           title: 'Documentação',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Projeto',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/',
+              label: 'Badge',
+              to: 'docs/badge/badge',
             },
           ],
         },
@@ -113,15 +122,8 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/Franzininho/docs-franzininho-site/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -129,4 +131,16 @@ module.exports = {
       },
     ],
   ],
+  i18n: {
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR', 'en'],
+    localeConfigs: {
+      'pt-BR': {
+        label: 'Português (Brasil)',
+      },
+      en: {
+        label: 'English',
+      },
+    },
+  },
 };

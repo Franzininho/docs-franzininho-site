@@ -1,9 +1,8 @@
 ---
-id: identificando-componentes
-title: Identificando os componentes
-slug: /franzininho-diy/identificando-componentes
+id: tutoriais-entradas-saidas-digitais
+title: Entradas e Saídas Digitais
+slug: /franzininho-diy/tutoriais-entradas-saidas-digitais
 description: Para deixar claro todo o funcionamento da Franzininho, precisamos conhecer um pouco dos componentes que compõem o projeto, assim poderemos fazer mudanças e aprimorar ainda mais este projeto.
 ---
 
-
-## Placa de Circuito impresso
+## Entradas e Saídas Digitais

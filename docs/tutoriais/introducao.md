@@ -1,8 +1,8 @@
 ---
-id: introducao-arduino
+id: tutoriais-introducao
 title: Introdução
-slug: /programacao/introducao-arduino
+slug: /programacao/tutoriais-introducao
 description: Introdução a programação Arduino com as placas Franzininho
 ---
 
-# introdução
+# Introdução

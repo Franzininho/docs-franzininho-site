@@ -10,49 +10,54 @@ module.exports = {
       type: 'category',
       label: 'Franzininho DIY',
       items: [
-              'FranzininhoDIY/franzininho-diy',
-              'FranzininhoDIY/lista-de-materiais',
-              'FranzininhoDIY/identificando-componentes',
-              'FranzininhoDIY/montagem',
-              'FranzininhoDIY/pinagem',
-              'FranzininhoDIY/bootloader',
-              'FranzininhoDIY/pacote',
-          ],
+        'FranzininhoDIY/franzininho-diy',
+        'FranzininhoDIY/lista-de-materiais',
+        'FranzininhoDIY/identificando-componentes',
+        'FranzininhoDIY/montagem',
+        'FranzininhoDIY/pinagem',
+        'FranzininhoDIY/bootloader',
+        'FranzininhoDIY/pacote',        
+      ],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzininho WiFi',
       items: [
-      	      'FranzininhoWifi/franzininho-wifi',],
+        'FranzininhoWifi/franzininho-wifi',
+      ],
       collapsed: true
     },
     {
       type: 'category',
       label: 'FranzMakey',
       items: [
-      	      'FranzMakey/franzmakey',],
+        'FranzMakey/franzmakey',
+      ],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzininho Tiny',
       items: [
-      	      'FranzininhoTiny/franzininho-tiny',],
+        'FranzininhoTiny/franzininho-tiny',
+      ],
       collapsed: true
     },
     {
       type: 'category',
       label: 'Franzino',
       items: [
-      	      'Franzino/franzino',],
+        'Franzino/franzino',
+      ],
       collapsed: true
     },
     {
       type: 'category',
       label: 'FranzBoy',
       items: [
-      	      'FranzBoy/franzboy',],
+        'FranzBoy/franzboy',
+      ],
       collapsed: true
     },
     {
@@ -62,14 +67,4 @@ module.exports = {
       collapsed: true
     },
   ],
-
- /* programacao: [
-    {
-      type: 'category',
-      label: 'Arduino',
-      items: ['programacao/introducao',
-             ],
-      collapsed: false
-    },
-  ],*/
 };
