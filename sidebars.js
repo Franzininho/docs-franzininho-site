@@ -69,7 +69,10 @@ module.exports = {
     {
       type: 'category',
       label: 'Franzininho WiFi-ESP-IDF',
-      items: [ 'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-00',],
+      items: [ 
+        'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-00',
+        'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-01',
+      ],
       collapsed: true
     },
   ],
