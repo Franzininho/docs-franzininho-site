@@ -66,5 +66,11 @@ module.exports = {
       items: [ 'Badge/badge',],
       collapsed: true
     },
+    {
+      type: 'category',
+      label: 'Franzininho WiFi-ESP-IDF',
+      items: [ 'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-00',],
+      collapsed: true
+    },
   ],
 };
