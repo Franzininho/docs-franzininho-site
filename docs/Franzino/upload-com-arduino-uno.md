@@ -1,7 +1,7 @@
 ---
 id: upload-com-arduino-uno
 title: Gravando a Franzino com um placa Arduino UNO
-slug: /Franzino/upload-conversor-serial
+slug: /Franzino/upload-com-arduino-uno
 description: Veja como usar um Arduino Uno como programador para a Franzino
 ---
 Se você não possui um conversor USB/Serial você pode gravar a Franzino através de um Arduino. Para isso vamos configurar a placa Arduino UNO com programador.
