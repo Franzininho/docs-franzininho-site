@@ -49,7 +49,8 @@ module.exports = {
       label: 'Franzino',
       items: [
         'Franzino/franzino',
-        'Franzino/upload-conversor-serial'
+        'Franzino/upload-conversor-serial',
+        'Franzino/upload-com-arduino-uno',
       ],
       collapsed: true
     },
