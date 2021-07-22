@@ -16,6 +16,7 @@ module.exports = {
         'FranzininhoDIY/montagem',
         'FranzininhoDIY/pinagem',
         'FranzininhoDIY/bootloader',
+        'FranzininhoDIY/drivers-micronucleus',
         'FranzininhoDIY/pacote',        
       ],
       collapsed: true
