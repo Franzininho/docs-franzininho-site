@@ -18,7 +18,7 @@ Ao final, você saberá como ler sinais digitais externos a Franzininho DIY.
 - Placa Franzininho DIY(com Micronucleus)
 - Chave Tactil
 - Jumpers
-- Computador com as ferramentas de [software instaladas](/docs-franzininho-site/docs/franzininho-diy/exemplos-avr-libc/exemplos-avr-libc#ferramentas-necess%C3%A1rias)
+- Computador com as ferramentas de software instaladas
 
 ## Entrada Digital
 

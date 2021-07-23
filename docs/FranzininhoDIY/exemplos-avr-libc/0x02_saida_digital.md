@@ -16,7 +16,7 @@ Nesse artigo vamos explorar os pinos de I/O como saída digital. Ao final, você
 
 ## Recursos Necessários
 - Placa Franzininho DIY(com Micronucleus)
-- Computador com as ferramentas de [software instaladas](/docs-franzininho-site/docs/franzininho-diy/exemplos-avr-libc/exemplos-avr-libc#ferramentas-necess%C3%A1rias)
+- Computador com as ferramentas de software instaladas
 
 ## Pinos do ATtiny85
 
