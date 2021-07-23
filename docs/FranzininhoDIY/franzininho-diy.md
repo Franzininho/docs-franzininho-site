@@ -21,11 +21,16 @@ A placa é baseada no microcontrolador ATtiny85 e foi criada para fins educacion
 
 A placa possui 5 pinos de I/O, LED indicador de Alimentação, LED de uso geral, conector USB para alimentação e gravação, conector para alimentação externa e botão de Reset.
 
-![Pinout Franzininho DIY](img/franzininho-diy/Pinagem-completa-Franzininho-DIY-V2RV2-fundo-branco.png)
+## Pinout
 
-O projeto é open hardware e toda a documentação está aberta e disponível em português.
+![pinagem Franzininho DIY](img/franzininho-diy/franzininho-diy-pinout.png)
 
-Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. também pode ser programada em linguagem C usando IDE mais avançadas.
+:::tip Versões de placas
+Houve uma alteração da numeração dos pinos 4 e 5 no silk a partir da V2RV2.
+Ainda é necessário ajustar no software
+:::
+
+
 
 ## Resumo de recursos
 
@@ -39,6 +44,8 @@ Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. t
 - Alimentação: USB(5V) ou externa (de 7,5V à 9V)
 
 ## Documentação
+
+Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. também pode ser programada em linguagem C usando IDE mais avançadas.
 
 - [Repositório do Hardware](https://github.com/Franzininho/franzininho-diy-board)
 - [e-book Franzininho - Monte e Programe seu Próprio Arduino](http://eepurl.com/gbR4P1)
