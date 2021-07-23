@@ -11,13 +11,33 @@ module.exports = {
       label: 'Franzininho DIY',
       items: [
         'FranzininhoDIY/franzininho-diy',
-        'FranzininhoDIY/lista-de-materiais',
-        'FranzininhoDIY/identificando-componentes',
-        'FranzininhoDIY/montagem',
-        'FranzininhoDIY/pinagem',
-        'FranzininhoDIY/bootloader',
-        'FranzininhoDIY/drivers-micronucleus',
-        'FranzininhoDIY/pacote',
+        {
+          type: 'category',
+          label: 'Montagem',
+          items: [
+            'FranzininhoDIY/lista-de-materiais',
+            'FranzininhoDIY/identificando-componentes',
+            'FranzininhoDIY/montagem',
+          ],
+          collapsed: true
+        },
+        {
+          type: 'category',
+          label: 'Bootloader',
+          items: [
+              'FranzininhoDIY/bootloader',
+              'FranzininhoDIY/drivers-micronucleus',
+          ],
+          collapsed: true
+        },
+        {
+          type: 'category',
+          label: 'Exemplos Arduino',
+          items: [
+            'FranzininhoDIY/pacote',
+          ],
+          collapsed: true
+        },
         {
           type: 'category',
           label: 'Exemplos AVR Libc',
