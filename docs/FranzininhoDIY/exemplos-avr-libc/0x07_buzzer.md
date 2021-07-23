@@ -8,7 +8,7 @@ date: 05/06/2020
 some_url: https://github.com/EduardoDuenas
 ---
 
-## **Introdução**
+## **Introdução**s
 
 Nesse exemplo vamos criar um programa que lê uma partitura e toca a música escrita através de um buzzer na Franzininho DIY. Vamos aprender como se usar um buzzer passivo para gerar cada nota musical com ajuda do timer0.
 
@@ -32,6 +32,7 @@ As notas musicais ocidentais em uma escala maior são *Do Do# Re Re# Mi Fa Fa# S
 Olhando pela frequência temos que partindo de *Lá* da terceira oitava, 440Hz, cada *Lá* uma oitava acima tem o dobro da frequência e cada oitava a baixo tem metade da frequência. Já para subir cada semitom, basta multiplicar por 2^(1/12), ou para x semitons, 2^(x/12).
 
 ### **Código**
+
 ```c
 /***********************************************
  * @file main.c
@@ -129,13 +130,13 @@ Dependendo do buzzer é necessário conectar os jumpers diretamente nos pinos do
 
 Para compilar o programa, acesse a pasta do exemplo e dê o comando `make`:
 
-```
+```bash
 exemplos-avr-libc/exemplos/buzzer$ make
 ```
 
 Como já temos o makerfile configurado na pasta, será feita compilação e deve aparecer a seguinte mensagem:
 
-```
+```bash
 ../../micronucleus/2.0a4/launcher  -cdigispark --timeout 60 -Uflash:w:main.hex:i
 Running Digispark Uploader...
 Plug in device now... (will timeout in 60 seconds)
@@ -144,15 +145,15 @@ Plug in device now... (will timeout in 60 seconds)
 
 Conecte a placa em uma entrada USB ou, caso a Franzininho já esteja conectada, aperte o botão de reset para iniciar o upload.
 
-
 ### **Resultado**
 
 O buzzer deve tocar Parabéns para você e deve continuar em loop até a placa ser desligada.
 
+[Simule esse exemplo no WokWi](https://wokwi.com/arduino/projects/302834828095521293)
+
 ## **Conclusão**
 
 O buzzer passivo é um componente muito versátil com o qual podemos, não só, tocar músicas como também gerar diversos tipos de efeitos sonoros, tudo que precisamos é entender como gerar o som que queremos. Além disso vimos como podemos usar interrupções de timer para funções que precisam de Real Time, ou seja, que precisam de precisão de tempo.
-
 
 ## Glossário
 
@@ -160,7 +161,6 @@ O buzzer passivo é um componente muito versátil com o qual podemos, não só, 
 - Resetar: reiniciar
 - Timer: circuito eletrônico dedicado a contagem de tempo
 - Lookup table: tabela de consulta, no contexto de programação é um vetor com informações necessárias para o programa.
-
 
 | Autor | [Eduardo Dueñas](https://github.com/EduardoDuenas) |
 |-------|-------------|
