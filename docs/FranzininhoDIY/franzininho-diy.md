@@ -46,7 +46,7 @@ Ainda é necessário ajustar no software
 ## Documentação
 
 Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. também pode ser programada em linguagem C usando IDE mais avançadas.
-
+- [Esquemático](https://github.com/Franzininho/franzininho-diy-board/raw/main/Franzininho.pdf)
 - [Repositório do Hardware](https://github.com/Franzininho/franzininho-diy-board)
 - [e-book Franzininho - Monte e Programe seu Próprio Arduino](http://eepurl.com/gbR4P1)
 - [Livro impresso: Franzininho - Monte e Programe seu Próprio Arduino](https://www.amazon.com.br/Franzininho-F%C3%A1bio-Souza/dp/8595680531/)
