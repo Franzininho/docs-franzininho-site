@@ -8,8 +8,6 @@ date: 05/06/2020
 some_url: https://github.com/EduardoDuenas
 ---
 
-## **Introdução**s
-
 Nesse exemplo vamos criar um programa que lê uma partitura e toca a música escrita através de um buzzer na Franzininho DIY. Vamos aprender como se usar um buzzer passivo para gerar cada nota musical com ajuda do timer0.
 
 Boa prática!
