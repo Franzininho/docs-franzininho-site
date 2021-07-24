@@ -8,7 +8,6 @@ date: 05/05/2021
 some_url: https://github.com/EduardoDuenas
 ---
 
-## **Introdução**
 Nesses três exemplos vamos explorar gradativamente como fazer um contador de eventos externos no Franzininho DIY. Vamos explorar as formas mais simples e as mais complexas de contar eventos e as vantagens de cada uma. Nesses exemplos vamos aprender a usar o timer e a fazer debounce, necessário para lermos apenas eventos válidos e não ler o mesmo evento mais de uma vez.
 
 Boa prática!

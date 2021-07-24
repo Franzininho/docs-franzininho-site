@@ -8,8 +8,6 @@ date: 24/04/2021
 some_url: https://github.com/FBSeletronica
 ---
 
-## Introdução
-
 No exemplo anterior conhecemos os registradores responsáveis pela configuração e manipulação dos pinos de I/O. Nesse exemplo vamos concentrar no uso dos pinos como entradas digitais.
 
 Ao final, você saberá como ler sinais digitais externos a Franzininho DIY.

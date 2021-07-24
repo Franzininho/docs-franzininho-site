@@ -8,8 +8,6 @@ date: 24/04/2021
 some_url: https://github.com/FBSeletronica
 ---
 
-## Introdução
-
 Nesse exemplo vamos dar os nossos primeiros passos na programação da Franzininho DIY usando a [AVR Libc](https://nongnu.org/avr-libc/).
 
 Como de costume o nosso "Hello, World!" na eletrônica será um blink LED. Ao final desse experimento você terá uma estrutura mínima para desenvolver aplicações para o ATtiny85 em C.

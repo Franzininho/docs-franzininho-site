@@ -8,8 +8,6 @@ date: 24/04/2021
 some_url: https://github.com/FBSeletronica
 ---
 
-## Introdução
-
 Agora que já estamos com as ferramentas instaladas e a placa Franzininho DIY em mãos, vamos dar início aos estudos dos periféricos internos do ATtiny85.
 
 Nesse artigo vamos explorar os pinos de I/O como saída digital. Ao final, você saberá como acionar dispositivos externos a Franzininho DIY.
