@@ -61,6 +61,18 @@ module.exports = {
       label: 'Franzininho WiFi',
       items: [
         'FranzininhoWifi/franzininho-wifi',
+        {
+          type: 'category',
+          label: 'Exemplos ESP-IDF',
+          items: [
+            'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-00',
+            'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-01',
+            'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-02',
+            'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-03',
+            'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-04',
+          ],
+          collapsed: true
+        },
       ],
       collapsed: true
     },
@@ -104,17 +116,6 @@ module.exports = {
       items: [ 'Badge/badge',],
       collapsed: true
     },
-    {
-      type: 'category',
-      label: 'Franzininho WiFi-ESP-IDF',
-      items: [
-        'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-00',
-        'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-01',
-        'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-02',
-        'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-03',
-        'FranzininhoWiFi_ESPIDF/franzininho-wifi-espidf-04',
-      ],
-      collapsed: true
-    },
+    
   ],
 };

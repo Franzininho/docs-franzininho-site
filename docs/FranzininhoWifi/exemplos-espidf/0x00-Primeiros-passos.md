@@ -1,7 +1,7 @@
 ---
 id: franzininho-wifi-espidf-00
 title: Primeiros Passos com ESP-IDF
-slug: /franzininho-wifi-espidf/primeiros-passos
+slug: /franzininho-wifi/exemplos-espidf/primeiros-passos
 description: Este documento tem como objetivo ajudá-lo a configurar o ESP-IDF
 author: Fábio Souza
 ---

@@ -1,7 +1,7 @@
 ---
 id: franzininho-wifi-espidf-03
 title:  Entrada Analógica
-slug: /franzininho-wifi-espidf/entrada-analogica
+slug: /franzininho-wifi/exemplos-espidf/entrada-analogica
 description: Neste exemplo vamos entender como usar o conversor AD para leitura de sinais analógico
 author: Kayann Soares
 ---

@@ -1,7 +1,7 @@
 ---
 id: franzininho-wifi-espidf-04
 title:  PWM com LEDC
-slug: /franzininho-wifi-espidf/ledc
+slug: /franzininho-wifi/exemplos-espidf/ledc
 description: Neste exemplo utilizou-se um botão táctil (entrada digital) para acionar um LED (saída digital)
     e mostra seu estado no terminal.
 author: Halysson Junior

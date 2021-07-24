@@ -1,7 +1,7 @@
 ---
 id: franzininho-wifi-espidf-02
 title:  Entrada digital
-slug: /franzininho-wifi-espidf/entrada-digital
+slug: /franzininho-wifi/exemplos-espidf/entrada-digital
 description: Neste exemplo utilizou-se um botão táctil (entrada digital) para acionar um LED (saída digital)
     e mostra seu estado no terminal.
 author: Halysson Junior

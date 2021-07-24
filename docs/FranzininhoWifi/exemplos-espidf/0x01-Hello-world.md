@@ -1,12 +1,10 @@
 ---
 id: franzininho-wifi-espidf-01
 title: Hello World! ESP-IDF
-slug: /franzininho-wifi-espidf/hello-world-esp-idf
+slug: /franzininho-wifi/exemplos-espidf/hello-world-esp-idf
 description: Este texto tem como objetivo fazer o primeiro programa no ESP-IDF para a Franzininho WIFI
 author: Halysson Junior
 ---
-
-## Introdução
 
 O artigo proposto dará início a uma série de projetos utilizando o framework oficial da Espressif, o IDF. O objetivo deste artigo é apresentar um exemplo de projeto que sirva como base para aqueles que estão dando seus primeiros passos na família de microcontroladores ESP32.
 
@@ -19,14 +17,10 @@ Ao final desse exemplo você saberá como é a estrutura básica de um programa 
 Para esse exemplo você precisará dos seguintes recursos:
 
 - Placa Franzininho WiFi;
-
 - Protoboard;
-
 - LED;
-
 - Resistor 220R ou 150R;
-
-- Computador com ESP-IDF instalado e configurado(link)
+- Computador com ESP-IDF instalado e configurado
 
 ## Desenvolvimento
 
