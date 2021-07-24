@@ -89,6 +89,22 @@ module.exports = {
           ],
           collapsed: true
         },
+        {
+          type: 'category',
+          label: 'Exemplos CircuitPython',
+          items: [
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython',
+          ],
+          collapsed: true
+        },
+        {
+          type: 'category',
+          label: 'Exemplos Arduino',
+          items: [
+            'FranzininhoWifi/exemplos-arduino/arduino',
+          ],
+          collapsed: true
+        },
       ],
       collapsed: true
     },
