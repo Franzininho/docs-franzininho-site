@@ -69,7 +69,7 @@ Se receber uma mensagem de erro, verifique as conexões elétricas e envie novam
 
 Pronto, o ATtiny85 está pronto para ser encaixado na sua Franzininho DIY. Retire-o com cuidado da matriz de contatos e encaixe-o corretamente na Franzininho DIY, conforme imagem abaixo
 
-![Placa Franzininho DIY](img/franzininho-diy/placa-franzininho-diy.png)
+![Placa Franzininho DIY](img/bootloader/placa-franzininho-diy.png)
 
 
 ## Próximos passos

@@ -15,9 +15,9 @@ module.exports = {
           type: 'category',
           label: 'Montagem',
           items: [
-            'FranzininhoDIY/lista-de-materiais',
-            'FranzininhoDIY/identificando-componentes',
-            'FranzininhoDIY/montagem',
+            'FranzininhoDIY/montagem/lista-de-materiais',
+            'FranzininhoDIY/montagem/identificando-componentes',
+            'FranzininhoDIY/montagem/montagem',
           ],
           collapsed: true
         },
@@ -25,8 +25,8 @@ module.exports = {
           type: 'category',
           label: 'Bootloader',
           items: [
-              'FranzininhoDIY/bootloader',
-              'FranzininhoDIY/drivers-micronucleus',
+              'FranzininhoDIY/bootloader/bootloader',
+              'FranzininhoDIY/bootloader/drivers-micronucleus',
           ],
           collapsed: true
         },
@@ -34,7 +34,7 @@ module.exports = {
           type: 'category',
           label: 'Exemplos Arduino',
           items: [
-            'FranzininhoDIY/pacote',
+            'FranzininhoDIY/exemplos-arduino/pacote',
           ],
           collapsed: true
         },
