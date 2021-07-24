@@ -15,9 +15,9 @@ module.exports = {
           type: 'category',
           label: 'Montagem',
           items: [
-            'FranzininhoDIY/montagem/lista-de-materiais',
-            'FranzininhoDIY/montagem/identificando-componentes',
-            'FranzininhoDIY/montagem/montagem',
+            'FranzininhoDIY/lista-de-materiais',
+            'FranzininhoDIY/identificando-componentes',
+            'FranzininhoDIY/montagem',
           ],
           collapsed: true
         },
