@@ -53,6 +53,22 @@ module.exports = {
           ],
           collapsed: true
         },
+        {
+          type: 'category',
+          label: 'Simulador Wokwi',
+          items: [
+            'FranzininhoDIY/wokwi/wokwi-intro'
+          ],
+          collapsed: true
+        },
+        {
+          type: 'category',
+          label: 'Simulador PICSimLab',
+          items: [
+            'FranzininhoDIY/picsimlab/picsimlab-intro'
+          ],
+          collapsed: true
+        },
       ],
       collapsed: true
     },
