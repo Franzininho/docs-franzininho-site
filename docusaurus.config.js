@@ -123,7 +123,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/Franzininho/docs-franzininho-site/edit/master/',
+            'https://github.com/Franzininho/docs-franzininho-site/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
