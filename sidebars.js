@@ -113,6 +113,7 @@ module.exports = {
       label: 'FranzMakey',
       items: [
         'FranzMakey/franzmakey',
+        'FranzMakey/primeiros-passos',
       ],
       collapsed: true
     },
