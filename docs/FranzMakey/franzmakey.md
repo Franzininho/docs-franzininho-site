@@ -31,9 +31,9 @@ Pensamento computacional, criatividade, programação em blocos no caso o Scratc
 
 ## Veja o funcionamento:
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/1Ef_uA7mybc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/1Ef_uA7mybc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="750" height="422" src="https://www.youtube.com/embed/KfDgfVB0vzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/KfDgfVB0vzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Onde comprar?
 
