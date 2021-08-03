@@ -191,7 +191,7 @@ Essa configuração permitirá que usemos a USB no próximo upload.
 
     
 Para mais detalhes acesse:
-<iframe width="420" height="315" src="https://www.youtube.com/embed/zg9IMDaoImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/zg9IMDaoImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Compilando o projeto em modo DFU
 
@@ -249,4 +249,4 @@ Maravilha, você configurou o ambiente para trabalhar com o ESP-IDF.
 
 Caso queira trabalhar com a extensão para VSCODE, confira o video:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/rxMg_zxO0q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/rxMg_zxO0q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
