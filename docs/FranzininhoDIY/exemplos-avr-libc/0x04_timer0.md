@@ -154,8 +154,8 @@ int main(void)
 }
 ```
 ### Simulação do exemplo
-- Wokwi: 
+- **Wokwi: **
 
 <iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/305410400451560001?view=diagram"></iframe>
 
-- PICSimLab:
+- **PICSimLab:** <https://lcgamboa.github.io/picsimlab_examples/board_Franzininho_DIY.html#board_Franzininho_DIY_attiny85>
