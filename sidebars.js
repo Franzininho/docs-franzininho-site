@@ -50,6 +50,7 @@ module.exports = {
             'FranzininhoDIY/exemplos-avr-libc/timer0-int',
             'FranzininhoDIY/exemplos-avr-libc/contadores',
             'FranzininhoDIY/exemplos-avr-libc/buzzer',
+            'FranzininhoDIY/exemplos-avr-libc/avr-libc-todo',
           ],
           collapsed: true
         },
