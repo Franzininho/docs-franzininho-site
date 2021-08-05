@@ -1,7 +1,7 @@
 ---
-id: 0x06_contadores
-title: 06 - Contador de pulsos externos
-slug: /franzininho-diy/exemplos-avr-libc/0x06_contadores
+id: contadores
+title: Contador de pulsos externos
+slug: /franzininho-diy/exemplos-avr-libc/contadores
 description: Nesses três exemplos vamos explorar gradativamente como fazer um contador de eventos externos no Franzininho DIY
 authors: Eduardo Dueñas
 date: 05/05/2021

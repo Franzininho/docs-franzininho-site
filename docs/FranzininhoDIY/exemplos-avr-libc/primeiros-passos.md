@@ -1,7 +1,7 @@
 ---
-id: exemplos-avr-libc
+id: primeiros-passos
 title: Primeiros Passos
-slug: /franzininho-diy/exemplos-avr-libc/exemplos-avr-libc
+slug: /franzininho-diy/exemplos-avr-libc/primeiros-passos
 description: Primeiros passos para programação da Franzininho DIY usando usando a AVR Libc
 ---
 

@@ -1,7 +1,7 @@
 ---
-id: 0x07_buzzer
-title: 07 - Instrumento musical com Buzzer
-slug: /franzininho-diy/exemplos-avr-libc/0x07_buzzer
+id: buzzer
+title: Instrumento musical com Buzzer
+slug: /franzininho-diy/exemplos-avr-libc/buzzer
 description: Nesse exemplo vamos criar um programa que lê uma partitura e toca a música escrita através de um buzzer no Franzininho DIY
 authors: Eduardo Dueñas
 date: 05/06/2020

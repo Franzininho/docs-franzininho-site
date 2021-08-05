@@ -1,7 +1,7 @@
 ---
-id: 0x01_hello
-title: 01 - Hello, World!
-slug: /franzininho-diy/exemplos-avr-libc/0x01_hello
+id: hello-world
+title: Hello, World!
+slug: /franzininho-diy/exemplos-avr-libc/hello-world
 description: Nesse primeiros exemplo vamos dar os primeiros passos na programação da Franzininho DIY
 authors: Fábio Souza
 date: 24/04/2021

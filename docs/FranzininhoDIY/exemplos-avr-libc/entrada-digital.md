@@ -1,7 +1,7 @@
 ---
-id: 0x03_entrada_digital
-title: 03 - Entrada Digital
-slug: /franzininho-diy/exemplos-avr-libc/0x03_entrada_digital
+id: entrada-digital
+title: Entrada Digital
+slug: /franzininho-diy/exemplos-avr-libc/entrada-digital
 description: Vamos entender como trabalhar com as Entradas Digitais
 authors: Fábio Souza
 date: 24/04/2021

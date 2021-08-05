@@ -1,7 +1,7 @@
 ---
-id: 0x02_saida_digital
-title: 02 - Saída Digital
-slug: /franzininho-diy/exemplos-avr-libc/0x02_saida_digital
+id: saida-digital
+title: Saída Digital
+slug: /franzininho-diy/exemplos-avr-libc/saida-digital
 description: Vamos entender como trabalhar com as saídas Digitais
 authors: Fábio Souza
 date: 24/04/2021
