@@ -37,3 +37,7 @@ Legenda:
 - 🟢 Feito
 - 🟡 Em progresso
 - 🔴 Ainda não implementado
+
+## Repositório de Exemplos
+
+- [Exemplos AVR LibC](https://github.com/Franzininho/exemplos-avr-libc)
