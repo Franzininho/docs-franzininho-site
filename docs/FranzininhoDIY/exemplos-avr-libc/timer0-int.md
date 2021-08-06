@@ -34,7 +34,7 @@ Assim, precisaremos contar a quantidade de interrupções e quando atingir 63, i
 
 - Placa Franzininho DIY(com Micronucleus);
 - LED;
-- Resistor de 330 ohm;
+- Resistor de 470 Ohm;
 - Jumpers;
 - Computador com as ferramentas de software instaladas.
 
