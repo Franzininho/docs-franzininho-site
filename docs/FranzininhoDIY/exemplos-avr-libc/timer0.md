@@ -84,6 +84,14 @@ Portanto, para ter um delay de 1 segundo precisamos ter:
 -   **Passo 3:** Repetir passos 1 e 2 63 vezes para atingir 1 segundo
 -   **Passo 4:** Passou um segundo – Inverter LED
 
+### Recursos necessários
+
+- Placa Franzininho DIY(com Micronucleus)
+- LED 
+- Resistor de 330 ohm
+- Jumpers
+- Computador com as ferramentas de software instaladas
+
 ### Código exemplo
 
 ```c
