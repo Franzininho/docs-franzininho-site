@@ -8,7 +8,7 @@ date: 24/04/2021
 some_url: https://github.com/FBSeletronica
 ---
 
-Nesse exemplo vamos entender como usar a interrupção do Timer0 para verificar o overflow. Dessa forma não precisaremos ficar monitorando o flag de overflow no loop principal da aplicação.
+Nesse exemplo vamos entender como usar a interrupção do Timer0 para verificar o seu overflow. Dessa forma não precisaremos ficar monitorando o flag de overflow no loop principal da aplicação.
 
 ## Interrupção do Timer0
 
