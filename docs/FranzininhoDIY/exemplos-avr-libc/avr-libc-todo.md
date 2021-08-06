@@ -16,7 +16,7 @@ Fique a vontade para colaborar na construção dos materiais e códigos.
 | Saída Digital                  |    🟢   |                                         |
 | Entrada Digital                |    🟢   |                                         |
 | Timer 0                        |    🟢   |                                         |
-| Timer 0 - Interrupção          |    🟠   | Fabio Souza: Exemplo feito. Falta texto |
+| Timer 0 - Interrupção          |    🟢   |                                         |
 | Contador de pulsos externos    |    🟢   |                                         |
 | Instrumento musical com Buzzer |    🟢   |                                         |
 | Interrupção externa            |    🔴   |                                         |
