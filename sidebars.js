@@ -94,7 +94,10 @@ module.exports = {
           type: 'category',
           label: 'Exemplos CircuitPython',
           items: [
-            'FranzininhoWifi/exemplos-circuitpython/circuitpython',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-primeiros-passos',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-ferramentas',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-hello-world',
+
           ],
           collapsed: true
         },
@@ -103,6 +106,7 @@ module.exports = {
           label: 'Exemplos Arduino',
           items: [
             'FranzininhoWifi/exemplos-arduino/arduino',
+            'FranzininhoWifi/exemplos-arduino/arduino-blink',
           ],
           collapsed: true
         },
@@ -150,6 +154,6 @@ module.exports = {
       items: [ 'Badge/badge',],
       collapsed: true
     },
-    
+
   ],
 };
