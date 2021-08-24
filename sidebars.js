@@ -106,6 +106,7 @@ module.exports = {
           label: 'Exemplos Arduino',
           items: [
             'FranzininhoWifi/exemplos-arduino/arduino',
+            'FranzininhoWifi/exemplos-arduino/arduino-blink',
           ],
           collapsed: true
         },
