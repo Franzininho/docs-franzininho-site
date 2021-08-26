@@ -49,30 +49,60 @@ Passo 4: Aguarde até terminar o download e após isso clique em abrir o arquivo
 
 ![imagem4](img/instalando-ferramentas/0x03_Baixando_MU.png)
 
-Passo 5: Ao abrir o programa, irá aparecer uma tela onde você terá que aceitar os termos de uso do software, clique na caixa de seleção.
+Passo 5: Após baixar o programa, dê dois cliques e então irá aparecer uma tela onde você terá que aceitar os termos de uso do software, clique na caixa de seleção e pressione Install e aguarde a instalação.
 
-![imagem5](img/instalando-ferramentas/0x04_Instalando_MU.png)
+![imagem5](img/instalando-ferramentas/0x04_instalando_Mu-editor.gif)
 
-Passo 6: então o botão install será ativado, clique nele.
+Passo 8: Procure em seu computador: Mu Editor
 
-![imagem6](img/instalando-ferramentas/0x05_Instalando_MU.png)
+![imagem8](img/instalando-ferramentas/0x07-mu-editor.png)
 
-Passo 7: aguarde a instalação.
+Passo 9: Ao abrir o programa aguarde, está é a tela de inicio do Mu Editor.
 
-![imagem7](img/instalando-ferramentas/0x06_Instalando_MU.png)
+![imagem-extra](img/instalando-ferramentas/tela-mu-editor.png)
 
-Passo 8: Procure em seu computador Mu Editor
+Após isso escolha CircuitPython, conforme a imagem abaixo:
+ se por acaso ele não abrir, clique em "Modo".
 
-![imagem8](img/instalando-ferramentas/0x07_Abrindo_MU.png)
-
-Passo 9: Então ao abrir uma janela, escolha CircuitPython, conforme a imagem abaixo:
-
-
-![imagem9](img/instalando-ferramentas/0x08_CircuitPython.png)
+![imagem9](img/instalando-ferramentas/0x08-selecione-modo-CircuitPython.png)
 
 Passo 10: Pronto, agora é só se divertir!
 
 ![imagem10](img/instalando-ferramentas/0x09_Interface_MU.png)
+
+## Instalação de terminais seriais para acesso ao REPL
+
+A seguir apresentaremos a instalação de terminais seriais para acesso ao REPL através da comunicação serial.
+
+
+Instalaremos o terminal serial Putty para nossos exemplos. Faça o download em: [https://www.putty.org/](https://www.putty.org/)
+
+No site, clique na primeira opção
+
+![imagem1](img/instalando-ferramentas/0x11_download_PuTTY.png)
+
+Veja qual é o seu sistema. No meu caso é de 64bits por isso vou clicar na opção de 64 bits x86. Após isso é só salvar.
+
+![imagem2](img/instalando-ferramentas/0x12_download_PuTTY.png)
+
+
+Após realizar o download, dê dois cliques no arquivo. Será aberta a janela conforme a figura abaixo. Clique em next e depois em install:
+
+![imagem4](img/instalando-ferramentas/0x13_instalando_PuTTY.png)
+
+
+![imagem3](img/instalando-ferramentas/0x14_instalando_PuTTY.png)
+
+Novamente clique em install:
+
+![imagem4](img/instalando-ferramentas/0x15_instalando_PuTTY.png)
+
+Aguarde e clique em finish:
+
+![imagem5](img/instalando-ferramentas/0x16_instalando_PuTTY.png)
+
+Pronto finalizamos a etapa de configuração. O próximo passo é abrir o programa PuTTy em seu computador, mais abaixo estarei explicando os primeiros passos com ele.
+
 
 
 ### Linux
@@ -108,40 +138,8 @@ Passo 5: Pronto, agora é só se divertir!
 
 ## Instalação de terminais seriais para acesso ao REPL
 
-A seguir apresentaremos a instalação de terminais seriais para acesso ao REPL através da comunicação serial. Verifique qual Sistema operacional você está usando.
+A seguir apresentaremos a instalação de terminais seriais para acesso ao REPL através da comunicação serial.
 
-### Windows
-
-Instalaremos o terminal serial Putty para nossos exemplos. Faça o download em: [https://www.putty.org/](https://www.putty.org/)
-
-No site, clique na primeira opção
-
-![imagem1](img/instalando-ferramentas/0x11_download_PuTTY.png)
-
-Veja qual é o seu sistema. No meu caso é de 64bits por isso vou clicar na opção de 64 bits x86. Após isso é só salvar.
-
-![imagem2](img/instalando-ferramentas/0x12_download_PuTTY.png)
-
-
-Após realizar o download, dê dois cliques no arquivo. Será aberta a janela conforme a figura abaixo. Clique em next e depois em install:
-
-![imagem4](img/instalando-ferramentas/0x13_instalando_PuTTY.png)
-
-
-![imagem3](img/instalando-ferramentas/0x14_instalando_PuTTY.png)
-
-Novamente clique em install:
-
-![imagem4](img/instalando-ferramentas/0x15_instalando_PuTTY.png)
-
-Aguarde e clique em finish:
-
-![imagem5](img/instalando-ferramentas/0x16_instalando_PuTTY.png)
-
-Pronto finalizamos a etapa de configuração. O próximo passo é abrir o programa PuTTy em seu computador, mais abaixo estarei explicando os primeiros passos com ele.
-
-
-### Linux
 
 Instale um terminal, por exemplo, para instalar o picocom, digite os comandos abaixo:
 
