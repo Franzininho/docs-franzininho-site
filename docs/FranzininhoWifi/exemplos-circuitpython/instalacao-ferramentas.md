@@ -14,13 +14,11 @@ O CircuitPython não exige ferramentas específicas para programação. Um simpl
 Recomendamos as seguintes ferramentas para trabalhar com o CircuitPython:
 
 -   [Mu Editor](https://codewith.mu/)
-
 -   [Thonny IDE](https://thonny.org/)
-
 -   [VS Code](https://code.visualstudio.com/)
 
 
-Nesse tutorial focaremos no Mu Editor pela simplicidade e facilidade do seu uso. Abaixo exibimos o processo de instalação para os sistemas operacionais Windows e Linux.
+Nesse tutorial focaremos no Mu Editor pela simplicidade e facilidade do seu uso. Abaixo exibimos o processo de instalação para os sistemas operacionais [Windows](#windows) e [Linux](#linux).
 
 ## Windows
 
