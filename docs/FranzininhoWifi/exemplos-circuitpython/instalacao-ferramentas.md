@@ -20,15 +20,11 @@ Recomendamos as seguintes ferramentas para trabalhar com o CircuitPython:
 -   [VS Code](https://code.visualstudio.com/)
 
 
-Nesse tutorial focaremos no Mu Editor pela simplicidade e facilidade do seu uso.
+Nesse tutorial focaremos no Mu Editor pela simplicidade e facilidade do seu uso. Abaixo exibimos o processo de instalação para os sistemas operacionais Windows e Linux.
 
+## Windows
 
-
-# Instalando o Mu Editor
-
-Abaixo exibimos o processo de instalação para os sistemas operacionais Windows e Linux.
-
-### Windows
+### Instalando o Mu Editor
 
 
 Para a instalação do Mu Editor no Windows você deve seguir os seguintes passos:
@@ -49,68 +45,31 @@ Passo 4: Aguarde até terminar o download e após isso clique em abrir o arquivo
 
 ![imagem4](img/instalando-ferramentas/0x03_Baixando_MU.png)
 
-Passo 5: Ao abrir o programa, irá aparecer uma tela onde você terá que aceitar os termos de uso do software, clique na caixa de seleção.
+Passo 5: Após baixar o programa, dê dois cliques e então irá aparecer uma tela onde você terá que aceitar os termos de uso do software, clique na caixa de seleção e pressione Install e aguarde a instalação.
 
-![imagem5](img/instalando-ferramentas/0x04_Instalando_MU.png)
+![imagem5](img/instalando-ferramentas/0x04_instalando_Mu-editor.gif)
 
-Passo 6: então o botão install será ativado, clique nele.
+Passo 8: Procure em seu computador: Mu Editor
 
-![imagem6](img/instalando-ferramentas/0x05_Instalando_MU.png)
+![imagem8](img/instalando-ferramentas/0x07-mu-editor.png)
 
-Passo 7: aguarde a instalação.
+Passo 9: Ao abrir o programa aguarde, está é a tela de inicio do Mu Editor.
 
-![imagem7](img/instalando-ferramentas/0x06_Instalando_MU.png)
+![imagem-extra](img/instalando-ferramentas/tela-mu-editor.png)
 
-Passo 8: Procure em seu computador Mu Editor
+Passo 10: Após isso escolha CircuitPython, conforme a imagem abaixo:
+ se por acaso ele não abrir, clique em "Modo".
 
-![imagem8](img/instalando-ferramentas/0x07_Abrindo_MU.png)
+![imagem9](img/instalando-ferramentas/0x08-selecione-modo-CircuitPython.png)
 
-Passo 9: Então ao abrir uma janela, escolha CircuitPython, conforme a imagem abaixo:
-
-
-![imagem9](img/instalando-ferramentas/0x08_CircuitPython.png)
-
-Passo 10: Pronto, agora é só se divertir!
+Passo 11: Pronto, agora é só se divertir!
 
 ![imagem10](img/instalando-ferramentas/0x09_Interface_MU.png)
 
+### Instalação de terminal serial para acesso ao REPL
 
-### Linux
+A seguir apresentaremos a instalação de terminal serial para acesso ao REPL através da comunicação serial.
 
-Para a instalar o Mu Editor no Linux você deve seguir os passos a seguir:
-
-Passo 1: Acesse o site [https://codewith.mu/](https://codewith.mu/) e clique em Download:
-
-
-![imagem1](img/instalando-ferramentas/0x00-Editor_MU.png)
-
-Passo 2: Clique na opção Python Package (Linux or Native Python)
-
-![imagem2](img/instalando-ferramentas/0x10_download_MU_Linux.png)
-
-Passo 3: Abra seu terminal e digite o comando abaixo, ele vai instalar bibliotecas do python, aguarde até finalizar:
-
-pip3 install mu-editor==1.1.0b5
-
-
-
-Passo 4: Agora digite este comando:
-
-```
-mu-editor
-```
-
-
-Passo 5: Pronto, agora é só se divertir!
-
-![imagem3](img/instalando-ferramentas/0x09_Interface_MU.png)
-
-
-## Instalação de terminais seriais para acesso ao REPL
-
-A seguir apresentaremos a instalação de terminais seriais para acesso ao REPL através da comunicação serial. Verifique qual Sistema operacional você está usando.
-
-### Windows
 
 Instalaremos o terminal serial Putty para nossos exemplos. Faça o download em: [https://www.putty.org/](https://www.putty.org/)
 
@@ -140,19 +99,6 @@ Aguarde e clique em finish:
 
 Pronto finalizamos a etapa de configuração. O próximo passo é abrir o programa PuTTy em seu computador, mais abaixo estarei explicando os primeiros passos com ele.
 
-
-### Linux
-
-Instale um terminal, por exemplo, para instalar o picocom, digite os comandos abaixo:
-
-```
-sudo apt-get update  
-sudo apt-get install picocom
-```
-
-## Acessando o REPL através de terminais seriais
-
-### Windows
 
 Como citei acima, abra o programa PuTTY
 
@@ -215,7 +161,51 @@ Para editar códigos maiores e projetos que você precisa salvar, recomendamos q
 Para acessar esse arquivo, abra o dispositivo de armazenamento (CIRCUITPY):
 
 
-### Linux
+
+
+## Linux
+
+### Instalando o Mu Editor
+
+Para a instalar o Mu Editor no Linux você deve seguir os passos a seguir:
+
+Passo 1: Acesse o site [https://codewith.mu/](https://codewith.mu/) e clique em Download:
+
+
+![imagem1](img/instalando-ferramentas/0x00-Editor_MU.png)
+
+Passo 2: Clique na opção Python Package (Linux or Native Python)
+
+![imagem2](img/instalando-ferramentas/0x10_download_MU_Linux.png)
+
+Passo 3: Abra seu terminal e digite o comando abaixo, ele vai instalar bibliotecas do python, aguarde até finalizar:
+
+pip3 install mu-editor==1.1.0b5
+
+
+
+Passo 4: Agora digite este comando:
+
+```
+mu-editor
+```
+
+Passo 5: Pronto, agora é só se divertir!
+
+![imagem3](img/instalando-ferramentas/0x09_Interface_MU.png)
+
+
+### Instalação de terminal serial para acesso ao REPL
+
+A seguir apresentaremos a instalação de terminal serial para acesso ao REPL através da comunicação serial.
+
+
+Instale um terminal, por exemplo, para instalar o picocom, digite os comandos abaixo:
+
+```
+sudo apt-get update  
+sudo apt-get install picocom
+```
 
 Para acessar a Franzininho WiFi através do REPL usando o terminal serial no Linux, o primeiro passo é conectar a placa Franzininho Wifi em seu computador e logo irá aparecer algo parecido com um dispositivo de pendrive, conforme a imagem abaixo:
 
@@ -247,7 +237,6 @@ Agora digite o seguinte código no terminal:
 import board  
 dir(board)
 ```
-
 
 Então aparecerá o conjunto de pinos disponíveis na Franzininho Wifi.
 
