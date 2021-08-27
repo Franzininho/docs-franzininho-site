@@ -80,7 +80,7 @@ module.exports = {
         'FranzininhoWifi/franzininho-wifi',
         {
           type: 'category',
-          label: 'Exemplos ESP-IDF',
+          label: 'ESP-IDF',
           items: [
             'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-00',
             'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-01',
@@ -92,7 +92,7 @@ module.exports = {
         },
         {
           type: 'category',
-          label: 'Exemplos CircuitPython',
+          label: 'CircuitPython',
           items: [
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-primeiros-passos',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-ferramentas',
@@ -103,7 +103,7 @@ module.exports = {
         },
         {
           type: 'category',
-          label: 'Exemplos Arduino',
+          label: 'Arduino',
           items: [
             'FranzininhoWifi/exemplos-arduino/arduino',
             'FranzininhoWifi/exemplos-arduino/arduino-blink',
