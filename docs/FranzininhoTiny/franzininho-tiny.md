@@ -7,7 +7,7 @@ description: Detalhes da Franzininho Tiny
 
 A Franzininho Tiny veio para dar squencia ao excelente trabalho feito pela Franzininho DIY. Em muitas aplicações a soldagem não é viável, assim, muitas vezes foram solicitadas placas Franzininho DIY soldadas, o que não era a proposta da placa no formato DIY.
 
-Para facilitar, escolhemos um microcontrolador que mantenha a compatibilidade com a Franzininho DI, porém com mais opções de pinos e no formato SMD.
+Para facilitar, escolhemos um microcontrolador que mantenha a compatibilidade com a Franzininho DIY, porém com mais opções de pinos e no formato SMD.
 
 A Franzininho Tiny tem um form factor compatível com protoboard e já vem montada e pronta para programar:
 
