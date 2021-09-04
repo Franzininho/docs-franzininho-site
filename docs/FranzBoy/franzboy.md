@@ -1,6 +1,6 @@
 ---
 id: franzboy
-title: Placa FranBoy
+title: Placa FranzBoy
 slug: /FranzBoy/franzboy
 description: Detalhes da placa Franzboy
 ---
