@@ -31,7 +31,8 @@ Obs. Provavelmente você encontrará outro código no arquivo code.py. Apague-o 
 ```python
 """ Hello, World! (Pisca LED)"""
 import board
-import timefrom digitalio import DigitalInOut, Direction
+import time
+from digitalio import DigitalInOut, Direction
 
 # Configurando o pino do LED, o led que configurei foi o pino 4 = IO4
 led = DigitalInOut(board.IO4)
