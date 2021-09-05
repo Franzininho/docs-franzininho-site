@@ -31,7 +31,7 @@ const features = [
     imageUrl: 'img/community_2.svg',
     description: (
       <>
-        Nossos meteriais contribuem para uma educação aberta e inclusiva. 
+        Nossos materiais contribuem para uma educação aberta e inclusiva. 
         São desenvolvidos de forma colaborativa e revisados pela comunidade.
       </>
     ),
