@@ -250,3 +250,8 @@ Para acessar esse arquivo, abra o dispositivo de armazenamento (CIRCUITPY):
 
 
 Agora veremos o que é possível fazer com o CircuitPyhton. Bora lá?
+
+| Autor | Diana Santos |
+|-------|--------------|
+| Autor | [Fábio Souza](https://github.com/FBSeletronica) |
+| Data: | 16/09/201    |

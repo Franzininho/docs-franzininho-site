@@ -104,3 +104,8 @@ Neste exemplo, fizemos uma aplicação simples para leitura de uma entrada digit
 :::tip Desafio
 Inclua mais um botão e mais um LED no circuito com funcionamento igual ao que fizemos.
 :::
+
+| Autor | Diana Santos |
+|-------|--------------|
+| Autor | [Fábio Souza](https://github.com/FBSeletronica) |
+| Data: | 16/09/201    |

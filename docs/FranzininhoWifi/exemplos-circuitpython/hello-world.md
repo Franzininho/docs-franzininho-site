@@ -98,4 +98,10 @@ Altere o tempo de intervalo para 0.1 e 1 e observe o efeito.
 ## Conclusão
 
 Neste primeiro exemplo de programação da  Franzininho WiFi com o CircuitPython fizemos um código simples em Python para piscar o LED em intervalos de 0,5 segundos. Esse exemplo serviu para nos ensinar como importar as bibliotecas, configurar o pino como saída digital e criar um loop infinito para piscar o LED. Você pode alterar o intervalo de tempo alterando o parâmetro na função sleep.
+
 Com esse exemplo dominado, podemos passar para a próxima etapa.
+
+| Autor | Diana Santos |
+|-------|--------------|
+| Autor | [Fábio Souza](https://github.com/FBSeletronica) |
+| Data: | 16/09/201    |

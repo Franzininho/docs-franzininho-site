@@ -46,3 +46,7 @@ Bora! Colocar a mão na massa?
 
 
 Ferramenta de gravação: [https://franzininho.github.io/webdfu-franzininho-wifi/dfu-util/](https://franzininho.github.io/webdfu-franzininho-wifi/dfu-util/)
+
+| Autor | [Fábio Souza](https://github.com/FBSeletronica) |
+|-------|--------------|
+| Data: | 16/09/201    |
