@@ -32,12 +32,13 @@ A placa Franzininho WiFi foi [adicionada ao CircuitPython](https://circuitpython
 
 Antes de começar a diversão de programar a Franzininho WIFI com o CircuitPython, precisamos realizar alguns passos para configuração. Nesta etapa gravaremos o firmware do CircuitPython na Franzininho WiFi e prepararemos o ambiente para você usar sua placa.
 
+:::info
+Se sua placa já está com o CircuitPython, você não precisa fazer essa etapa. Para verificar se sua placa está com CircuitPython plugue-a no computador e veja se é criado um dispositivo de armazenamento chamado CIRCUITPY. Caso contrário, faça o procedimento abaixo.
+:::
+
 Nesse momento você precisará apenas de um computador com o sistema operacional que você está acostumado a usar e a placa Franzininho WiFi.
 
 Bora! Colocar a mão na massa?
-
-
-
 ## Gravação do CircuitPython na Franzininho WiFi
 
 
