@@ -64,7 +64,9 @@ Passo 11: Pronto, agora é só se divertir!
 
 ![imagem10](img/instalando-ferramentas/0x09_Interface_MU.png)
 
-### Instalação de terminal serial para acesso ao REPL
+Passo 12: Abra o arquivo code.py e comece a se divertir.
+
+### Instalação de terminal serial para acesso ao REPL (Opcional)
 
 A seguir apresentaremos a instalação de terminal serial para acesso ao REPL através da comunicação serial.
 
@@ -193,7 +195,7 @@ Passo 5: Pronto, agora é só se divertir!
 ![imagem3](img/instalando-ferramentas/0x09_Interface_MU.png)
 
 
-### Instalação de terminal serial para acesso ao REPL
+### Instalação de terminal serial para acesso ao REPL (Opcional)
 
 A seguir apresentaremos a instalação de terminal serial para acesso ao REPL através da comunicação serial.
 
