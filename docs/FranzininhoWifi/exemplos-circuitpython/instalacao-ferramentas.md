@@ -20,6 +20,10 @@ Recomendamos as seguintes ferramentas para trabalhar com o CircuitPython:
 
 Nesse tutorial focaremos no Mu Editor pela simplicidade e facilidade do seu uso. Abaixo exibimos o processo de instalação para os sistemas operacionais [Windows](#windows) e [Linux](#linux).
 
+
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/BIs9uYHytJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Windows
 
 ### Instalando o Mu Editor
