@@ -64,7 +64,7 @@ Passo 11: Pronto, agora é só se divertir!
 
 ![imagem10](img/instalando-ferramentas/0x09_Interface_MU.png)
 
-Passo 12: Abra o arquivo code.py e comece a se divertir.
+Passo 12: Abra o arquivo code.py e comece a se divertir com o Hello, World! apresentado na próxima seção. 
 
 ### Instalação de terminal serial para acesso ao REPL (Opcional)
 
@@ -193,6 +193,8 @@ mu-editor
 Passo 5: Pronto, agora é só se divertir!
 
 ![imagem3](img/instalando-ferramentas/0x09_Interface_MU.png)
+
+Passo 6: Abra o arquivo code.py e comece a se divertir com o Hello, World! apresentado na próxima seção. 
 
 
 ### Instalação de terminal serial para acesso ao REPL (Opcional)
