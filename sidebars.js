@@ -36,6 +36,7 @@ module.exports = {
           items: [
             'FranzininhoDIY/exemplos-arduino/pacote',
             'FranzininhoDIY/exemplos-arduino/entradas-saidas-digitais',
+            'FranzininhoDIY/exemplos-arduino/entradas-analogicas',
           ],
           collapsed: true
         },

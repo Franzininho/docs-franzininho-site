@@ -7,7 +7,7 @@ description: Nesse exemplo vamos aprender a trabalhar com as entradas e saídas 
 
 Na Franzininho DIY temos **6 pinos** que podem ser usados como entradas ou saídas digitais\( P0 a P5\), conforme pinout:
 
-![Pinagem Franzininho DIY](img/entradas-saidas-digitais/pinagem-V2.png)
+![Pinagem Franzininho DIY](img/pinagem-V2.png)
 
 :::warning
 Verificar limitações de uso dos pinos
