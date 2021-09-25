@@ -91,6 +91,10 @@ void loop(){
 }
 ```
 
+### Simulação
+
+<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/310738934055305794?view=diagram"></iframe>
+
 A função `delay(ms)` espera um tempo em milissegundos. No caso do exemplo acima, 1000 ms = 1 segundo;
 
 ## Leitura de um pino digital
@@ -142,3 +146,7 @@ void loop (){
   digitalWrite(LED, val); //aciona LED conforme valor lido do botão
 }
 ```
+
+### Simulação
+
+<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/310739108383162946?view=diagram"></iframe>
