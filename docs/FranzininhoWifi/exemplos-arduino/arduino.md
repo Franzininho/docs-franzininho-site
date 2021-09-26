@@ -13,7 +13,7 @@ Nesse tutorial aprenderemos configurar a Arduino IDE e fazer o upload de código
 Usamos como base para esse tutorial a documentação da Espressif para Arduino: [https://docs.espressif.com/projects/arduino-esp32/en/latest/](https://docs.espressif.com/projects/arduino-esp32/en/latest/)  
 
 ## Video com a configuração
-<iframe width="100%" height="422" src="https://youtu.be/Ka6nfYmEaXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/Ka6nfYmEaXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Arduino IDE  
 
