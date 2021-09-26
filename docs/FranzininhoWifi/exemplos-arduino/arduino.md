@@ -12,6 +12,9 @@ Nesse tutorial aprenderemos configurar a Arduino IDE e fazer o upload de código
 
 Usamos como base para esse tutorial a documentação da Espressif para Arduino: [https://docs.espressif.com/projects/arduino-esp32/en/latest/](https://docs.espressif.com/projects/arduino-esp32/en/latest/)  
 
+## Video com a configuração
+<iframe width="100%" height="422" src="https://youtu.be/Ka6nfYmEaXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Arduino IDE  
 
 Arduino é uma plataforma de prototipação de projetos eletrônicos composta por placas e uma interface de programação chamada Arduino.  
@@ -55,7 +58,9 @@ Abra o exemplo GetChipID:
 
 Agora faremos o upload para a placa. Se for a primeira vez que você usará a Arduino IDE para programar a Franzininho WiFi você deverá colocar a placa em modo DFU para carregar o código. Após isso não precisará mais fazer esse procedimento.
 
-Isso deverá sempre ser feito se você programar a placa com outras plataformas como ESP-IDF, CircuitPython, etc.
+:::tip Dica
+Isso deverá sempre ser feito se você programar a placa com outras plataformas como ESP-IDF, CircuitPython, etc. Apos esse procedimento é só programar a placa pressionando upload, como estamos acostumado a fazer com outras placas.
+:::
 
 Colocando a placa em modo DFU
 
