@@ -39,6 +39,7 @@ module.exports = {
             'FranzininhoDIY/exemplos-arduino/entradas-analogicas',
             'FranzininhoDIY/exemplos-arduino/saidas-pwm',
             'FranzininhoDIY/exemplos-arduino/pisca-led',
+            'FranzininhoDIY/exemplos-arduino/brilho-led',
           ],
           collapsed: true
         },
