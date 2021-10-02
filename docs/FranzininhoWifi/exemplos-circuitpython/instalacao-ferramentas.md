@@ -259,6 +259,16 @@ Para acessar esse arquivo, abra o dispositivo de armazenamento (CIRCUITPY):
 
 Agora veremos o que é possível fazer com o CircuitPyhton. Bora lá?
 
+
+## Ferramentas Alternativas
+
+### Franzininho WiFi: Configurando o Thonny IDE para trabalhar com CircuitPython
+
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/Yetzf8qK4II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 | Autor | Diana Santos |
 |-------|--------------|
 | Autor | [Fábio Souza](https://github.com/FBSeletronica) |
