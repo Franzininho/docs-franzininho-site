@@ -42,6 +42,7 @@ module.exports = {
             'FranzininhoDIY/exemplos-arduino/brilho-led',
             'FranzininhoDIY/exemplos-arduino/leitura-tecla',
             'FranzininhoDIY/exemplos-arduino/tecla-liga-desliga',
+            'FranzininhoDIY/exemplos-arduino/led-rgb',
           ],
           collapsed: true
         },
