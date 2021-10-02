@@ -40,6 +40,7 @@ module.exports = {
             'FranzininhoDIY/exemplos-arduino/saidas-pwm',
             'FranzininhoDIY/exemplos-arduino/pisca-led',
             'FranzininhoDIY/exemplos-arduino/brilho-led',
+            'FranzininhoDIY/exemplos-arduino/leitura-tecla',
           ],
           collapsed: true
         },
