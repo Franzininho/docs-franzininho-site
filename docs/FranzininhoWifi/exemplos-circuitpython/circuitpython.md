@@ -50,4 +50,4 @@ Ferramenta de gravação: [https://franzininho.github.io/webdfu-franzininho-wifi
 
 | Autor | [Fábio Souza](https://github.com/FBSeletronica) |
 |-------|--------------|
-| Data: | 16/09/201    |
+| Data: | 16/09/2021    |

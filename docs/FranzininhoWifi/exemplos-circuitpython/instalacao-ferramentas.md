@@ -272,4 +272,4 @@ Agora veremos o que é possível fazer com o CircuitPyhton. Bora lá?
 | Autor | Diana Santos |
 |-------|--------------|
 | Autor | [Fábio Souza](https://github.com/FBSeletronica) |
-| Data: | 16/09/201    |
+| Data: | 16/09/2021    |

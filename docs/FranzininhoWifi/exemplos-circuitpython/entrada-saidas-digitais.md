@@ -108,4 +108,4 @@ Inclua mais um botão e mais um LED no circuito com funcionamento igual ao que f
 | Autor | Diana Santos |
 |-------|--------------|
 | Autor | [Fábio Souza](https://github.com/FBSeletronica) |
-| Data: | 16/09/201    |
+| Data: | 16/09/2021    |
