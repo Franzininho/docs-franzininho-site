@@ -46,6 +46,7 @@ module.exports = {
             'FranzininhoDIY/exemplos-arduino/elefante-colorido',
             'FranzininhoDIY/exemplos-arduino/sensor-luz-ldr',
             'FranzininhoDIY/exemplos-arduino/semaforo',
+            'FranzininhoDIY/exemplos-arduino/theremim',
           ],
           collapsed: true
         },
