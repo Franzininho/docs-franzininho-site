@@ -173,4 +173,4 @@ Faça a leitura de outro potenciômetro usando outra entrada analógica. Exiba n
 | Autor | Diana Santos |
 |-------|--------------|
 | Autor | [Fábio Souza](https://github.com/FBSeletronica) |
-| Data: | 16/09/201    |
+| Data: | 16/09/2021    |
