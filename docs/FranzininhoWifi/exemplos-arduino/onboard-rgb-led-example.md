@@ -1,26 +1,28 @@
 ---
-id: arduino-neo-pixel-onboard-led-example
-title: Onboard RGB
-slug: /franzininho-wifi/exemplos-arduino/onboardrgb
-description: Exemplo de uso do led RGB onboard do Franzininho
+id: arduino-neopixel
+title: Neopixel RGB LED Onboard
+slug: /franzininho-wifi/exemplos-arduino/neopixel-onboard
+description: Exemplo de uso do led RGB onboard do Franzininho WiFi
 author: Henrique Vilela 
 ---
+
+Nesse exemplo vamos aprender usar o LED RGB Neopixel onboard na Franzininho WiFi.
 
 ## Instalação da biblioteca
 
 Na IDE Arduino, clique em **Sketch -> Incluir Biblioteca -> Gerenciar Bibliotecas**
 
-<img src="img/onboard-rgb-led-example/neopixel01.PNG" height="400">
+![Neopixel](img/onboard-rgb-led-example/neopixel01.PNG)
 
 Selecione: "Adafruit NeoPixel by Adafruit Versão X.X.X" e clique em **Instalar**
 
-<img src="img/onboard-rgb-led-example/neopixel02.PNG" height="400">
+![Neopixel](img/onboard-rgb-led-example/neopixel02.PNG)
 
 Após selecionar a placa Franzininho conforme os outros tutoriais, poderá ser usado o código de exemplo abaixo:
 
 ## Código de Exemplo
-```C++
 
+```cpp
 // inclui biblioteca NeoPixel
 #include <Adafruit_NeoPixel.h>
 
@@ -45,8 +47,6 @@ Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 // uint32_t é o tipo retornado pela função Color
 uint32_t   cores[MAXCOLORS] = {RED, GREEN, BLUE, WHITE};
 
-
-
 void setup() {
   
   // Inicializa o NeoPixel
@@ -65,6 +65,4 @@ void loop() {
     delay(300);  // tempo para exibição da cor
   }
 }
-
-
 ```
