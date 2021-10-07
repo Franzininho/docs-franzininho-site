@@ -8,7 +8,15 @@ author: Henrique Vilela
 
 ## Instalação da biblioteca
 
-:warning: (adicionar imagens)
+Na IDE Arduino, clique em **Sketch -> Incluir Biblioteca -> Gerenciar Bibliotecas**
+
+<img src="img/onboard-rgb-led-example/neopixel01.PNG" height="400">
+
+Selecione: "Adafruit NeoPixel by Adafruit Versão X.X.X" e clique em **Instalar**
+
+<img src="img/onboard-rgb-led-example/neopixel02.PNG" height="400">
+
+Após selecionar a placa Franzininho conforme os outros tutoriais, poderá ser usado o código de exemplo abaixo:
 
 ## Código de Exemplo
 ```C++
