@@ -66,3 +66,14 @@ void loop() {
   }
 }
 ```
+
+Tente exibir outras cores e animações. Compartilhe seus resultados com a comunidade. 
+
+:::info
+Se tiver alguma dúvida consulte a comunidade Franzininho no [Discord](https://discord.gg/H5kENmWGaz)
+:::
+
+
+| Autor | Henrique Vilela |
+|-------|--------------|
+| Data: | 07/10/2021   |
