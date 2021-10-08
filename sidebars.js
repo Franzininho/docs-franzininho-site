@@ -106,6 +106,7 @@ module.exports = {
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-primeiros-passos',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-ferramentas',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-hello-world',
+			'FranzininhoWifi/exemplos-circuitpython/circuitpython-serial-console',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-entradas-saidas-digitais',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-entradas-analogicas',
           ],
