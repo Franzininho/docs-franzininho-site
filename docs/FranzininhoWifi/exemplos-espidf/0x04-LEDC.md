@@ -141,9 +141,9 @@ O programa desenvolvido possui uma estrutura bem simples e não é necessário a
 
 Ao criar um novo projeto no IDF automaticamente já temos arquivos configurados e prontos para programação do dispositivo, desta forma digite e comente as linhas do seguinte código no arquivo **main.c :**
 
-Você encontra o projeto completo na documentação da Franzininho: **PWM**
+Você encontra o projeto completo na documentação da Franzininho: [**PWM_LEDC**](https://github.com/Franzininho/exemplos-esp-idf/tree/main/exemplos/PWM_LEDC)
 
-Caso ainda não tenha instalado e configurado o IDF no seu computador ou tenha dúvidas sobre as ferramentas, acesse o tutorial de instalação ([Clique Aqui](https://franzininho.github.io/exemplos-esp-idf/)).
+Caso ainda não tenha instalado e configurado o IDF no seu computador ou tenha dúvidas sobre as ferramentas, acesse o tutorial de instalação ([Clique Aqui](https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi/exemplos-espidf/primeiros-passos)).
 
 ### **Compilação**
 

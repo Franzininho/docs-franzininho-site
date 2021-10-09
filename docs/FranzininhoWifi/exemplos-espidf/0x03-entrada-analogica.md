@@ -81,6 +81,8 @@ void app_main(){
 
 ```
 
+Você encontra o projeto completo em: [Entrada Analógica](https://github.com/Franzininho/exemplos-esp-idf/tree/main/exemplos/EntradaAnalogica)
+
 ### Compilação
 
 Após a codificação vamos compilar o código, mas antes selecione o set-target para ESP 32-S2:
