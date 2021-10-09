@@ -57,8 +57,8 @@ Em uma protoboard, conecte os três fios do potenciômetro na Franzininho WIFI. 
 // Main
 void app_main(){
 
-  // Configurando a resolução do ADC para 12bits        
-  adc1_config_width(ADC_WIDTH_BIT_12);
+  // Configurando a resolução do ADC para 13bits        
+  adc1_config_width(ADC_WIDTH_BIT_13);
   // Configurando o Channel do ADC para o Channel 0
   adc1_config_channel_atten(ADC1_CHANNEL_0,ADC_ATTEN_DB_11);
 
@@ -78,7 +78,6 @@ void app_main(){
 
   }
 }
-
 
 ```
 
