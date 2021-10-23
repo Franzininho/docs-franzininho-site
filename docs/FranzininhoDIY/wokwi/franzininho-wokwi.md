@@ -209,3 +209,9 @@ Caso queira saber mais sobre outras funcionalidades do simulador, dê uma olhada
 - [Contador de pulsos externos](https://wokwi.com/arduino/projects/302199144424931848)
 - [Relógio](https://wokwi.com/arduino/projects/301738586036765194), usando dois 74HC595 e RTC DS1307.
 - [Letreiro](https://wokwi.com/arduino/projects/304826828859638336), com quatro MAX7219, um RTC DS1307 e um sensor DHT22.
+- [LCD 4 bits com 74HC595](https://wokwi.com/arduino/projects/313076832346833472)
+- [Simulação de 6 portas lógicas com Franzininho DIY](https://wokwi.com/arduino/projects/311202006419112513)
+- [LED Bar Graph](https://wokwi.com/arduino/projects/310022133947302466)
+- [LED RGB ](https://wokwi.com/arduino/projects/306670612160447042)
+- [Simon Game](https://wokwi.com/arduino/projects/311426763532010048)
+- [Semáforo](https://wokwi.com/arduino/projects/301931601583931913)
