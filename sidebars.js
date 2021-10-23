@@ -124,6 +124,8 @@ module.exports = {
             'FranzininhoWifi/exemplos-arduino/arduino',
             'FranzininhoWifi/exemplos-arduino/arduino-blink',
             'FranzininhoWifi/exemplos-arduino/arduino-neopixel',
+            'FranzininhoWifi/exemplos-arduino/arduino-dht11',
+            
             
           ],
           collapsed: true
