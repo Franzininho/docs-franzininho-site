@@ -114,6 +114,7 @@ module.exports = {
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-entradas-analogicas',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-display-oled-i2c',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-dht11',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-sensor-hcsr04'
           ],
           collapsed: true
         },
