@@ -34,13 +34,13 @@ A tabela abaixo resume as conexões entre o sensor e a Franzininho:
 
 ## Código
 
-Neste exemplo, vamos faze o uso de uma biblioteca que implementa os métodos necessários para uso do sensor.
+Neste exemplo, vamos fazer o uso de uma biblioteca que implementa os métodos necessários para uso do sensor.
 
 As bibliotecas para o CircuitPython podem ser obtidas através do endereço <https://circuitpython.org/libraries>. Escolha e baixe o arquivo de acordo com a versão do CircuitPyhthon que você tem instalado na Franzininho WiFi.
 
 ![Bibliotecas](img/display-oled-i2c/libraries.png)
 
-Em seguida, copie os seguintes arquivos diretamente para a posta lib do sistema de arquivos da Franzininho WiFi:
+Em seguida, copie o arquivo diretamente para a pasta lib do sistema de arquivos da Franzininho WiFi:
 - adafruit_hcsr04.mpy
 
 Implemente o programa abaixo no arquivo **code.py** que está localizado na pasta raiz da Franzininho WiFi.
