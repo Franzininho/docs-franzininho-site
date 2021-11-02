@@ -36,7 +36,7 @@ import board
 from digitalio import DigitalInOut, Direction, Pull
 
 # Configura o pino do botão
-btn = DigitalInOut(board.IO5)      	# mapea para pino 6 
+btn = DigitalInOut(board.IO5)      	# mapea para pino 5 
 btn.direction = Direction.INPUT  	# configura como entrada
 btn.pull = Pull.UP                  # habilita pull-up interno
 
@@ -73,7 +73,7 @@ from digitalio import DigitalInOut, Direction
 O botão deve ser configurado como uma entrada digital no pino 5. Além disso, como não usamos resistor de pull-up externo devemos configurar o pull-up interno:
 ```python
 # Configura o pino do botão
-btn = DigitalInOut(board.IO5)      	# mapea para pino 6 
+btn = DigitalInOut(board.IO5)      	# mapea para pino 5 
 btn.direction = Direction.INPUT  	# configura como entrada
 btn.pull = Pull.UP                  # habilita pull-up interno
 ```
