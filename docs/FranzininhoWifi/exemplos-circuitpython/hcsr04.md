@@ -1,7 +1,7 @@
 ---
 id: circuitpython-sensor-hcsr04
 title: Sensor de Distância Ultrassônico HC-SR04
-slug: /franzininho-wifi/exemplos-circuitpython/sensor-de-distancia-ultrassonico-hcsr04
+slug: /franzininho-wifi/exemplos-circuitpython/sensor-hcsr04
 description: Nesse exemplo aprenderemos a ler valores de distância com o sensor HC-SR04 usando o CircuitPython.
 author: Wallace Brito
 ---
