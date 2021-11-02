@@ -36,7 +36,7 @@ import board
 from digitalio import DigitalInOut, Direction, Pull
 
 # Configura o pino do botão
-btn = DigitalInOut(board.IO6)      	# mapea para pino 6 
+btn = DigitalInOut(board.IO5)      	# mapea para pino 6 
 btn.direction = Direction.INPUT  	# configura como entrada
 btn.pull = Pull.UP                  # habilita pull-up interno
 
@@ -70,10 +70,10 @@ Trabalharemos como entradas e saídas digitais nesse exemplo. Para isso, precisa
 from digitalio import DigitalInOut, Direction
 ```
 
-O botão deve ser configurado como uma entrada digital no pino 6. Além disso, como não usamos resistor de pull-up externo devemos configurar o pull-up interno:
+O botão deve ser configurado como uma entrada digital no pino 5. Além disso, como não usamos resistor de pull-up externo devemos configurar o pull-up interno:
 ```python
 # Configura o pino do botão
-btn = DigitalInOut(board.IO6)      	# mapea para pino 6 
+btn = DigitalInOut(board.IO5)      	# mapea para pino 6 
 btn.direction = Direction.INPUT  	# configura como entrada
 btn.pull = Pull.UP                  # habilita pull-up interno
 ```
@@ -85,7 +85,7 @@ led = DigitalInOut(board.IO4)       # mapea para pino 4
 led.direction = Direction.OUTPUT   	# configura como saída
 ```
 
-No loop infinito testamos o valor do pio do botão, caso esteja em novel 0 significa que o usuário apertou. Assim toda vez que o botão é pressionado o valor do LED é invertido. Para evitar que o sejam realizadas diversas operações é aguardado que o usuário solte o botão antes de ler o botão novamente. Essa espera é feita com um loop 
+No loop infinito testamos o valor do pio do botão, caso esteja em nível 0 significa que o usuário apertou. Assim toda vez que o botão é pressionado o valor do LED é invertido. Para evitar que o sejam realizadas diversas operações é aguardado que o usuário solte o botão antes de ler o botão novamente. Essa espera é feita com um loop 
 while:
 
 ```python
