@@ -215,3 +215,4 @@ Caso queira saber mais sobre outras funcionalidades do simulador, dê uma olhada
 - [LED RGB ](https://wokwi.com/arduino/projects/306670612160447042)
 - [Simon Game](https://wokwi.com/arduino/projects/311426763532010048)
 - [Semáforo](https://wokwi.com/arduino/projects/301931601583931913)
+- [Painel de senhas para atendimento](https://wokwi.com/arduino/projects/314180422625919552)
