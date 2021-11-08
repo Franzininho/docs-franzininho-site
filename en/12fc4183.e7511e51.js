@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{73:function(n){n.exports=JSON.parse('{"allTagsPath":"/docs-franzininho-site/en/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/docs-franzininho-site/en/blog/tags/hola"}')}}]);
