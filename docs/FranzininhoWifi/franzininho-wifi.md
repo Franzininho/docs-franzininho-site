@@ -40,6 +40,9 @@ JTAG pads for advanced debugging access.
 
 ![Placa Franzininho WiFi back](img/back.jpeg)
 
+## Pinout
+
+![Pinout placa Franzininho WiFi](img/pinagem-franzininho-wifi.png)
 ## Licença
 
 O projeto é um hardware de código aberto e está disponível na licença de hardware aberto do CERN.

@@ -92,7 +92,7 @@ void app_main(void) // Main
 }// end Main
 ```
 
-Você encontra o projeto completo na documentação da Franzininho: [Hello_World](https://github.com/Franzininho/exemplos-esp-idf)
+Você encontra o projeto completo na documentação da Franzininho: [Hello_World](https://github.com/Franzininho/exemplos-esp-idf/tree/main/exemplos/Hello_World)
 
 Caso ainda não tenha instalado e configurado o IDF no seu computador ou tem dúvidas sobre as ferramentas, acesse o [tutorial de instalação](https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi-espidf/primeiros-passos)
 

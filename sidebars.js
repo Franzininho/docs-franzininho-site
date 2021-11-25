@@ -35,6 +35,18 @@ module.exports = {
           label: 'Exemplos Arduino',
           items: [
             'FranzininhoDIY/exemplos-arduino/pacote',
+            'FranzininhoDIY/exemplos-arduino/entradas-saidas-digitais',
+            'FranzininhoDIY/exemplos-arduino/entradas-analogicas',
+            'FranzininhoDIY/exemplos-arduino/saidas-pwm',
+            'FranzininhoDIY/exemplos-arduino/pisca-led',
+            'FranzininhoDIY/exemplos-arduino/brilho-led',
+            'FranzininhoDIY/exemplos-arduino/leitura-tecla',
+            'FranzininhoDIY/exemplos-arduino/tecla-liga-desliga',
+            'FranzininhoDIY/exemplos-arduino/led-rgb',
+            'FranzininhoDIY/exemplos-arduino/elefante-colorido',
+            'FranzininhoDIY/exemplos-arduino/sensor-luz-ldr',
+            'FranzininhoDIY/exemplos-arduino/semaforo',
+            'FranzininhoDIY/exemplos-arduino/theremim',
           ],
           collapsed: true
         },
@@ -97,7 +109,12 @@ module.exports = {
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-primeiros-passos',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-ferramentas',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-hello-world',
-
+			      'FranzininhoWifi/exemplos-circuitpython/circuitpython-serial-console',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-entradas-saidas-digitais',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-entradas-analogicas',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-display-oled-i2c',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-dht11',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-sensor-hcsr04'
           ],
           collapsed: true
         },
@@ -107,6 +124,10 @@ module.exports = {
           items: [
             'FranzininhoWifi/exemplos-arduino/arduino',
             'FranzininhoWifi/exemplos-arduino/arduino-blink',
+            'FranzininhoWifi/exemplos-arduino/arduino-neopixel',
+            'FranzininhoWifi/exemplos-arduino/arduino-dht11',
+            
+            
           ],
           collapsed: true
         },

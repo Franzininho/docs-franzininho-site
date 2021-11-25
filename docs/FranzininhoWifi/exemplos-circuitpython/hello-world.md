@@ -17,7 +17,7 @@ Nesse primeiro  exemplo faremos um blink LED, nosso “Hello, World!” com a pl
 - 1 resistor 330 Ω;
 - Jumpers.
 
-Circuito
+## Circuito
 Nosso primeiro circuito é bem simples. Realize a seguinte montagem:
 
 ![franzininho-wifi-hello-world](img/hello-world/0x00-Hello_world.png)
@@ -31,7 +31,8 @@ Obs. Provavelmente você encontrará outro código no arquivo code.py. Apague-o 
 ```python
 """ Hello, World! (Pisca LED)"""
 import board
-import timefrom digitalio import DigitalInOut, Direction
+import time
+from digitalio import DigitalInOut, Direction
 
 # Configurando o pino do LED, o led que configurei foi o pino 4 = IO4
 led = DigitalInOut(board.IO4)
@@ -97,4 +98,10 @@ Altere o tempo de intervalo para 0.1 e 1 e observe o efeito.
 ## Conclusão
 
 Neste primeiro exemplo de programação da  Franzininho WiFi com o CircuitPython fizemos um código simples em Python para piscar o LED em intervalos de 0,5 segundos. Esse exemplo serviu para nos ensinar como importar as bibliotecas, configurar o pino como saída digital e criar um loop infinito para piscar o LED. Você pode alterar o intervalo de tempo alterando o parâmetro na função sleep.
+
 Com esse exemplo dominado, podemos passar para a próxima etapa.
+
+| Autor | Diana Santos |
+|-------|--------------|
+| Autor | [Fábio Souza](https://github.com/FBSeletronica) |
+| Data: | 16/09/2021    |

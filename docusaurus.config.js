@@ -2,7 +2,7 @@ module.exports = {
   title: 'Franzininho',
   tagline: 'O projeto Franzininho tem o objetivo de incentivar as pessoas na tecnologia através da cultura maker e do faça você mesmo.',
   url: 'https://franzininho.github.io',
-  baseUrl: '/docs-franzininho-site/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
@@ -19,6 +19,7 @@ module.exports = {
       logo: {
         alt: 'Logo do site',
         src: 'img/logo.svg',
+        href: 'https://franzininho.com.br/',
       },
       items: [
         {
@@ -27,26 +28,25 @@ module.exports = {
           label: 'Documentação',
           position: 'left',
         },
+                {
+          href: 'https://franzininho.com.br/',
+          label: 'Site',
+          position: 'right',
+        },
+        {
+          href: 'https://franzininho.com.br/blog/',
+          label: 'Blog',
+          position: 'right',
+        },
+        {
+          href: 'https://franzininho.com.br/#contato',
+          label: 'Contato',
+          position: 'right',
+        },
         {
           type: 'localeDropdown',
           position: 'right',
         },
-     /* {
-          to: 'tutoriais/',
-          activeBasePath: 'tutoriais',
-          label: 'Tutoriais',
-          position: 'left',
-        },
-        {
-         label: "Tutoriais",
-         position: "left",
-         items: [
-           { label: "Montagem Franzininho DIY", to: "docs/documenting/standards" },
-           { label: "Programação Franzininho DIY Arduino", to: "docs/documenting/yaml-style-guide"},
-           { label: "Create a new page", to: "docs/documenting/create-page",
-           },
-         ],
-       },*/
       ],
     },
     footer: {
@@ -56,12 +56,12 @@ module.exports = {
           title: 'Documentação',
           items: [
             {
-              label: 'Projeto',
-              to: 'docs/',
+              label: 'Franzininho DIY',
+              to: 'docs/franzininho-diy/sobre',
             },
             {
-              label: 'Badge',
-              to: 'docs/badge/badge',
+              label: 'Franzininho WiFi',
+              to: 'docs/franzininho-wifi/franzininho-wifi',
             },
           ],
         },

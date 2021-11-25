@@ -20,6 +20,10 @@ Recomendamos as seguintes ferramentas para trabalhar com o CircuitPython:
 
 Nesse tutorial focaremos no Mu Editor pela simplicidade e facilidade do seu uso. Abaixo exibimos o processo de instalação para os sistemas operacionais [Windows](#windows) e [Linux](#linux).
 
+
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/BIs9uYHytJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Windows
 
 ### Instalando o Mu Editor
@@ -64,7 +68,9 @@ Passo 11: Pronto, agora é só se divertir!
 
 ![imagem10](img/instalando-ferramentas/0x09_Interface_MU.png)
 
-### Instalação de terminal serial para acesso ao REPL
+Passo 12: Abra o arquivo code.py e comece a se divertir com o Hello, World! apresentado na próxima seção. 
+
+### Instalação de terminal serial para acesso ao REPL (Opcional)
 
 A seguir apresentaremos a instalação de terminal serial para acesso ao REPL através da comunicação serial.
 
@@ -192,8 +198,10 @@ Passo 5: Pronto, agora é só se divertir!
 
 ![imagem3](img/instalando-ferramentas/0x09_Interface_MU.png)
 
+Passo 6: Abra o arquivo code.py e comece a se divertir com o Hello, World! apresentado na próxima seção. 
 
-### Instalação de terminal serial para acesso ao REPL
+
+### Instalação de terminal serial para acesso ao REPL (Opcional)
 
 A seguir apresentaremos a instalação de terminal serial para acesso ao REPL através da comunicação serial.
 
@@ -250,3 +258,18 @@ Para acessar esse arquivo, abra o dispositivo de armazenamento (CIRCUITPY):
 
 
 Agora veremos o que é possível fazer com o CircuitPyhton. Bora lá?
+
+
+## Ferramentas Alternativas
+
+### Franzininho WiFi: Configurando o Thonny IDE para trabalhar com CircuitPython
+
+<iframe width="100%" height="422" src="https://www.youtube.com/embed/Yetzf8qK4II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+| Autor | Diana Santos |
+|-------|--------------|
+| Autor | [Fábio Souza](https://github.com/FBSeletronica) |
+| Data: | 16/09/2021    |
