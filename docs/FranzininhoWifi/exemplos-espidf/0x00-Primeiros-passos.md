@@ -208,7 +208,7 @@ A primeira compilação pode demorar um pouco. Da até pra ir pegar um café ;)
 Após a compilação, conecte a Franzininho WiFi no computador. Antes de fazermos o upload é necessário entrar no modo DFU. Para entrar no modo DFU pressione as teclas na seguinte sequencia:
 
 1. pressione e segure a tecla BOOT
-2. pressione rapidamente e solte a tecla presente
+2. pressione rapidamente e solte a tecla RESET
 3. solte a tecla BOOT
 
 Dessa forma a placa entrará no modo DFU e poderá receber o firmware através da USB.
@@ -222,6 +222,8 @@ idf.py dfu-flash
 Caso tenha permissão de acesso a porta USB, acesse esse [link com as instruções de configurações](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/api-guides/dfu.html#udev-rule-linux-only)
 
 Após alguns segundos a placa estará gravada.
+
+Pressione novamente o botão RESET.
 
 ### Compilação, gravação e monitor em modo normal
 
