@@ -86,6 +86,12 @@ cd ~/esp/esp-idf
 ./install.sh
 ```
 
+Ou se tiver usando o Fish:
+```bash
+cd ~/esp/esp-idf
+./install.fish
+```
+
 ### Configurando as variáveis de ambientes
 
 As ferramentas instaladas ainda não foram adicionadas à variável de ambiente PATH. Para tornar as ferramentas utilizáveis na linha de comando, algumas variáveis de ambiente devem ser definidas. ESP-IDF fornece alguns scripts que ajudam nesse processo.
@@ -116,7 +122,12 @@ No terminal execute:
 . $HOME/esp/esp-idf/export.sh
 ```
 
-:::tip
+Ou no Fish(suportado apenas em versões a partir da 3.0.0):
+```bash
+. $HOME/esp/esp-idf/export.fish
+```
+
+:::important Importante
 Você precisa fazer isso toda vez que iniciar o terminal para usar o ESP-IDF.
 :::
 
@@ -185,7 +196,8 @@ Salve(S), Enter, enter, Saia do menu(ESC)
 
 Essa configuração permitirá que usemos a USB no próximo upload.
 
-:::tip Sempre que iniciar um projeto novo faça essas configuração para que continue usando a USB como interface de programação.
+:::important Importante
+Sempre que iniciar um projeto novo faça essas configuração para que continue usando a USB como interface de programação.
 
 :::
 
@@ -219,7 +231,9 @@ Para fazer a gravação, digite:
 idf.py dfu-flash
 ```
 
-Caso tenha permissão de acesso a porta USB, acesse esse [link com as instruções de configurações](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/api-guides/dfu.html#udev-rule-linux-only)
+:::tip Dica
+Caso a gravação através da USB não funcione, veja esse [link com as instruções de configurações da USB](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/api-guides/dfu.html#udev-rule-linux-only)
+:::
 
 Após alguns segundos a placa estará gravada.
 
