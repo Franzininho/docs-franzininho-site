@@ -47,6 +47,7 @@ module.exports = {
             'FranzininhoDIY/exemplos-arduino/sensor-luz-ldr',
             'FranzininhoDIY/exemplos-arduino/semaforo',
             'FranzininhoDIY/exemplos-arduino/theremim',
+            'FranzininhoDIY/exemplos-arduino/girassol-automatizado,
           ],
           collapsed: true
         },
@@ -126,8 +127,8 @@ module.exports = {
             'FranzininhoWifi/exemplos-arduino/arduino-blink',
             'FranzininhoWifi/exemplos-arduino/arduino-neopixel',
             'FranzininhoWifi/exemplos-arduino/arduino-dht11',
-            
-            
+
+
           ],
           collapsed: true
         },
