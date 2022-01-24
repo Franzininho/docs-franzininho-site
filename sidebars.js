@@ -47,7 +47,7 @@ module.exports = {
             'FranzininhoDIY/exemplos-arduino/sensor-luz-ldr',
             'FranzininhoDIY/exemplos-arduino/semaforo',
             'FranzininhoDIY/exemplos-arduino/theremim',
-            'FranzininhoDIY/exemplos-arduino/girassol-automatizado,
+            'FranzininhoDIY/exemplos-arduino/girassol-automatizado',
           ],
           collapsed: true
         },
