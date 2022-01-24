@@ -80,6 +80,11 @@ Este projeto foi feiro para colaborar no projeto Co.Lab da Red Hat, confira esse
 
 <iframe width="100%" height="422" src="https://youtu.be/ANmRyWnvq4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Referência
+
+ [Arduino Sunflower](https://create.arduino.cc/projecthub/Mako_/arduino-sunflower-c4fd84)
+
+
 
 | Autor | Diana Santos |
 |-------|--------------|
