@@ -90,7 +90,7 @@ module.exports = {
       type: 'category',
       label: 'Franzininho WiFi',
       items: [
-        'FranzininhoWifi/franzininho-wifi',
+        'FranzininhoWifi/franzininho-wifi-dev-edition',
         {
           type: 'category',
           label: 'ESP-IDF',

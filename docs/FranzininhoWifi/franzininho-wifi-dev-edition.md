@@ -1,17 +1,17 @@
 ---
-id: franzininho-wifi
-title: Placa Franzininho WiFi
-slug: /franzininho-wifi/franzininho-wifi
-description: Detalhes da Franzininho WiFi
+id: franzininho-wifi-dev-edition
+title: Placa Franzininho WiFi dev Edition
+slug: /franzininho-wifi/franzininho-wifi-dev-edition
+description: Detalhes da Franzininho WiFi Developer Edition
 ---
 
-A Franzininho WiFi é uma placa de desenvolvimento para avaliar os módulos ESP32-S2 (Wroom e Wrover) e desenvolver a nova geração de placas Franzininho. O projeto Franzininho foi criado para desenvolver habilidades em pessoas nas áreas de eletrônica e programação, por meio de atividades no formato DIY e em conjunto com a cultura maker, no Brasil.
+A Franzininho WiFi Developer Edition é uma placa de desenvolvimento para avaliar os módulos ESP32-S2 (Wroom e Wrover) e desenvolver a nova geração de placas Franzininho. O projeto Franzininho foi criado para desenvolver habilidades em pessoas nas áreas de eletrônica e programação, por meio de atividades no formato DIY e em conjunto com a cultura maker, no Brasil.
 
-![Placa Franzininho WiFi Front](img/placaFranzininhoWiFi.jpeg)
+![Placa Franzininho WiFi Developer Edition Front](img/placaFranzininhoWiFi.jpeg)
 
-Como não existem muitas placas no mercado brasileiro com ESP32-S2, desenvolvemos o Franzininho WiFi para servir como plataforma de desenvolvimento ESP32-S2 e nos ajudar a avaliar e validar aplicações com este SoC.
+Como não existem muitas placas no mercado brasileiro com ESP32-S2, desenvolvemos o Franzininho WiFi Developer Edition (em 2020) para servir como plataforma de desenvolvimento ESP32-S2 e nos ajudar a avaliar e validar aplicações com este SoC.
 
-![Placa Franzininho WiFi](img/front.jpeg)
+![Placa Franzininho WiFi Developer Edition](img/front.jpeg)
 
 ## Características
 
@@ -38,16 +38,16 @@ JTAG pads for advanced debugging access.
 - Dimensions: 72 mm x 30 mm
 - Works with [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/index.html) or [CircuitPython](https://circuitpython.org/)
 
-![Placa Franzininho WiFi back](img/back.jpeg)
+![Placa Franzininho WiFi Developer Edition back](img/back.jpeg)
 
 ## Pinout
 
-![Pinout placa Franzininho WiFi](img/pinagem-franzininho-wifi.png)
+![Pinout placa Franzininho WiFi Developer Edition](img/pinagem-franzininho-wifi.png)
 ## Licença
 
 O projeto é um hardware de código aberto e está disponível na licença de hardware aberto do CERN.
 
-A placa Franzininho WiFi é certificada na OSHWA:
+A placa Franzininho WiFi Developer Edition é certificada na OSHWA:
  [UID BR000006](https://certification.oshwa.org/br000006.html)
 
 ![oshwa](img/OSHW_mark_BR000006.png)
