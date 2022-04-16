@@ -94,6 +94,14 @@ module.exports = {
         'FranzininhoWifi/franzininho-wifi-dev-edition',
         {
           type: 'category',
+          label: 'Wokwi',
+          items: [
+            'FranzininhoWifi/wokwi/franzininho-wifi-wokwi-intro'
+          ],
+          collapsed: true
+        },
+        {
+          type: 'category',
           label: 'ESP-IDF',
           items: [
             'FranzininhoWifi/exemplos-espidf/franzininho-wifi-espidf-00',
