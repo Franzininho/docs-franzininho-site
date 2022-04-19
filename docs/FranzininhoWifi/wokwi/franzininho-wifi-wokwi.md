@@ -12,7 +12,7 @@ Você pode usar o Wokwi para aprender a programar o Franzininho WiFi, criar prot
 
 <div style={{textAlign: 'center'}}>
 
-[![Wokwi Franzininho WiFi](img/franzininho-wifi-board.svg)](https://wokwi.com/projects/328965993191703124)
+[![Wokwi Franzininho WiFi](img/franzininho-wifi-board.svg)](https://wokwi.com/projects/new/franzininho-wifi)
 
 </div>
 
