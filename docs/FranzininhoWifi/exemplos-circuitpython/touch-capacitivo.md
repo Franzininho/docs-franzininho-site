@@ -2,7 +2,7 @@
 id: circuitpython-touch-capacitivo
 title: Pinos de Toque Capacitivo
 slug: /franzininho-wifi/exemplos-circuitpython/touch-capacitivo
-description: 
+description: Neste exemplo, vamos fazer um “interruptor” por aproximação e, aprender como usar o módulo responsável pelos pinos de toque capacitivo. Ademais, veremos como ajustar a sensibilidade desse recurso.
 author: Mateus Adriano Ventura Vieira
 ---
 
