@@ -1,7 +1,7 @@
 ---
 id: circuitpython-pwm
 title: PWM - Pulse Width Modulation
-slug: /franzininho-wifi/exemplos-circuitpython/circuitpython-pwm
+slug: /franzininho-wifi/exemplos-circuitpython/pwm
 description: Neste artigo vamos aprender a usar o PWM no CircuitPython, uma técnica muito usada para controle de potência. Veja como é fácil aplicar.
 author: Mateus Adriano Ventura Vieira
 ---
@@ -161,4 +161,4 @@ Outros artigos da série.
 
 | Autor | Mateus Adriano Ventura Vieira |
 |-------|--------------|
-| Data: | 31/10/2021   |
+| Data: | 09/05/2022  |
