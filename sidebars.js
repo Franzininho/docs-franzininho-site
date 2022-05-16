@@ -126,7 +126,8 @@ module.exports = {
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-touch-capacitivo',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-display-oled-i2c',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-dht11',
-            'FranzininhoWifi/exemplos-circuitpython/circuitpython-sensor-hcsr04'
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-sensor-hcsr04',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-servo-motor',
           ],
           collapsed: true
         },
