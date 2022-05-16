@@ -122,10 +122,10 @@ module.exports = {
 			      'FranzininhoWifi/exemplos-circuitpython/circuitpython-serial-console',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-entradas-saidas-digitais',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-entradas-analogicas',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-pwm',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-display-oled-i2c',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-dht11',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-sensor-hcsr04'
-            'FranzininhoWifi/exemplos-circuitpython/pwm'
           ],
           collapsed: true
         },
