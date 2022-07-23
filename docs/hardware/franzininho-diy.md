@@ -1,7 +1,7 @@
 ---
 id: franzininho-diy
 title: Placa Franzininho DIY
-slug: /franzininho-diy/sobre
+slug: /hardware/franzininho-diy/
 description: Detalhes da Franzininho DIY
 ---
 
@@ -30,8 +30,6 @@ Houve uma alteração da numeração dos pinos 4 e 5 no silk a partir da V2RV2.
 Ainda é necessário ajustar no software
 :::
 
-
-
 ## Resumo de recursos
 
 - Microcontrolador: ATtiny85
@@ -46,6 +44,7 @@ Ainda é necessário ajustar no software
 ## Documentação
 
 Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. também pode ser programada em linguagem C usando IDE mais avançadas.
+
 - [Esquemático](https://github.com/Franzininho/franzininho-diy-board/raw/main/Franzininho.pdf)
 - [Repositório do Hardware](https://github.com/Franzininho/franzininho-diy-board)
 - [e-book Franzininho - Monte e Programe seu Próprio Arduino](http://eepurl.com/gbR4P1)

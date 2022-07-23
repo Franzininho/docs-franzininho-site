@@ -1,7 +1,7 @@
 ---
 id: franzino
 title: Placa Franzino
-slug: /Franzino/franzino
+slug: /hardware/franzino
 description: Detalhes da placa Franzino
 ---
 
@@ -25,7 +25,7 @@ A Franzino vem com o bootloader do Arduino UNO facilitando o processo de upload 
 
 A seguir é apresentada a pinagem para interface serial:
 
-![pinagem](img/pinout.png)
+![pinagem](img/franzino-pinout.png)
 
 Os pino D2 e D4 podem ser utilizados para uma comunicação soft serial, como pino de controle da comunicação RS485 ou outras aplicações de entrada ou saída.
 
@@ -33,7 +33,7 @@ Outra vantagem interessante é que as linhas de alimentação(VCC e GND) também
 
 Assim, com esse conector você pode facilmente ligar um conversor USB/Serial para comunicação com um computador, seja para upload dos sketchs quanto para troca de informações.
 
-![ligacao_conversor USB Serial](img/ligacao_conversor.jpg)
+![ligacao_conversor USB Serial](img/franzino-ligacao_conversor.jpg)
 
 Se o seu projeto não necessitar da comunicação USB/Serial durante o seu funcionamento, você poderá usar o mesmo conversor para fazer upload em outra Franzinos.
 
@@ -75,11 +75,11 @@ Não LIGAR o VCC do conversor USB/SERIAL a placa se a fonte externa estiver liga
 
 ## Esquemático
 
-![Esquemático](img/esquematico.png)
+![Esquemático](img/franzino-esquematico.png)
 
 ## Layout
 
-![Layout](img/layout.png)
+![Layout](img/franzino-layout.png)
 
 ## Licença
 

@@ -1,7 +1,7 @@
 ---
 id: franzininho-tiny
 title: Placa Franzininho Tiny
-slug: /franzininho-tiny/franzininho-tiny
+slug: /hardware/franzininho-tiny
 description: Detalhes da Franzininho Tiny
 ---
 
@@ -11,9 +11,10 @@ Para facilitar, escolhemos um microcontrolador que mantenha a compatibilidade co
 
 A Franzininho Tiny tem um form factor compatível com protoboard e já vem montada e pronta para programar:
 
-![Franzininho Tiny](img/placa-franzininho-tiny-proto.jpg)
+![Franzininho Tiny](img/franzininho-tiny-proto.jpg)
 
 ## Resumo de recursos
+
 - Microcontrolador: ATtiny841
 - Pinos de I/O: até 11 (alguns estão ligados a USB)
 - Entradas Analógicas: até 9
@@ -25,6 +26,7 @@ A Franzininho Tiny tem um form factor compatível com protoboard e já vem monta
 - Alimentação: USB(5V) ou externa (de 7,5V à 9V)
 
 ## Documentação
+
 - [Repositório do Hardware](https://github.com/Franzininho/Franzininho-Tiny)
 
 ## Projeto Open Hardware
@@ -32,6 +34,7 @@ A Franzininho Tiny tem um form factor compatível com protoboard e já vem monta
 Assim como a Franzininho DIY, a placa Franzininho tiny também foi publicada como projeto de hardware aberto. Para essa placa foi escolhida a CERN Open Hardware Licence, uma licenças mais adequada para projetos de hardware.
 
 Conforme definido no “how to” da licença, no repositório do projeto estão incluídos os seguintes arquivos:
+
 - LICENSE.TXT
 - cern_ohl_v_1_2_howto.pdf
 - CHANGES.TXT

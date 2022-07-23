@@ -1,13 +1,13 @@
 ---
 id: franzboy
 title: Placa FranzBoy
-slug: /FranzBoy/franzboy
+slug: /hardware/franzboy
 description: Detalhes da placa Franzboy
 ---
 
 A placa FranzBoy veio para integrar a família de placas Franzininho em uma nova abordagem. Com o formato de game retro, procura incentivar o desenvolvimento de jogos, e hacks diversos. Você pode se divertir e aprender muito com eletrônica e programação.
 
-![Placa FranzBoy](img/1.jpeg)
+![Placa FranzBoy](img/franzboy.jpeg)
 
 Possui um hardware enxuto onde é explorado (escovando bits) os recursos do Atmega328, em conjunto com Display OLED e teclas, em um formato de badge para você usar nos eventos.
 
@@ -24,7 +24,6 @@ Conforme definido no “how to” da licença, no repositório do projeto estão
 - PRODUCT.TXT
 
 O projeto está disponível em: <https://github.com/Franzininho/FranzBoy>
-
 
 ## Confira o video de apresentação da placa
 
