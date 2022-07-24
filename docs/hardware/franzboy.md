@@ -1,6 +1,6 @@
 ---
 id: franzboy
-title: Placa FranzBoy
+title: FranzBoy
 slug: /hardware/franzboy
 description: Detalhes da placa Franzboy
 ---

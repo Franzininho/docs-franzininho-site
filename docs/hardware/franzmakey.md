@@ -1,6 +1,6 @@
 ---
 id: franzmakey
-title: Placa FranzMakey
+title: FranzMakey
 slug: /hardware/franzmakey
 description: Detalhes da placa FranzMakey
 ---

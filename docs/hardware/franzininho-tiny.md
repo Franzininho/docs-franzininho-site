@@ -1,6 +1,6 @@
 ---
 id: franzininho-tiny
-title: Placa Franzininho Tiny
+title: Franzininho Tiny
 slug: /hardware/franzininho-tiny
 description: Detalhes da Franzininho Tiny
 ---

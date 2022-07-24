@@ -1,6 +1,6 @@
 ---
 id: franzininho-diy
-title: Placa Franzininho DIY
+title: Franzininho DIY
 slug: /hardware/franzininho-diy/
 description: Detalhes da Franzininho DIY
 ---

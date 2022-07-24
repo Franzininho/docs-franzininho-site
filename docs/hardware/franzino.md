@@ -1,6 +1,6 @@
 ---
 id: franzino
-title: Placa Franzino
+title: Franzino
 slug: /hardware/franzino
 description: Detalhes da placa Franzino
 ---

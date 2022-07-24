@@ -1,6 +1,6 @@
 ---
 id: franzininho-wifi
-title: Placa Franzininho WiFi
+title: Franzininho WiFi
 slug: /hardware/franzininho-wifi/
 description: Após um ano de desenvolvimento da placa Franzininho WiFi, chegamos a uma versão estável e pronta para produção.
 ---

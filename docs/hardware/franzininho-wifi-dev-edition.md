@@ -1,6 +1,6 @@
 ---
 id: franzininho-wifi-dev-edition
-title: Placa Franzininho WiFi dev Edition
+title: Franzininho WiFi dev Edition
 slug: /hardware/franzininho-wifi-dev-edition
 description: Detalhes da Franzininho WiFi Developer Edition
 ---
