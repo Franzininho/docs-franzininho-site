@@ -10,7 +10,7 @@ Aqui concentramos toda a documentação para os primeiros passos com placas e pr
 
 Você pode contribuir com a documentação da seguinte forma:
 - Correção dos materiais já publicados:
-A forma mais fácil é através da edição no próprio Github. Se você encontrar algum erro de digitação ou informação errada no texto, faaça o seguinte:
+A forma mais fácil é através da edição no próprio Github. Se você encontrar algum erro de digitação ou informação errada no texto, faça o seguinte:
     - Clique em "Edit this page" no final da página;
     - Edite o texto no Github;
     - Envie o commit.
