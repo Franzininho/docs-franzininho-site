@@ -167,3 +167,7 @@ Incoming Publish Message : {
 ```
 
 E é isso, agora você pode brincar de Internet das Coisas com sua Franzininho WiFi utilizando a AWS!
+
+| Autora | [Ana Carolina Cabral ](https://github.com/carolcabral) |
+|-------|-------------|
+| Data: | 07/01/2023  |
