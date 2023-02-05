@@ -19,7 +19,7 @@ Fique a vontade para colaborar na construção dos materiais e códigos.
 | Timer 0 - Interrupção          |    🟢   |                                         |
 | Contador de pulsos externos    |    🟢   |                                         |
 | Instrumento musical com Buzzer |    🟢   |                                         |
-| Interrupção externa            |    🔴   |                                         |
+| Interrupção externa            |    🟢   |                                         |
 | Timer0 CTC                     |    🔴   |                                         |
 | Timer0 PWM                     |    🔴   |                                         |
 | Timer 1                        |    🔴   |                                         |
