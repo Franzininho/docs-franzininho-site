@@ -128,6 +128,8 @@ module.exports = {
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-dht11',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-sensor-hcsr04',
             'FranzininhoWifi/exemplos-circuitpython/circuitpython-servo-motor',
+            'FranzininhoWifi/exemplos-circuitpython/circuitpython-sistema-de-irrigação',
+            
           ],
           collapsed: true
         },
