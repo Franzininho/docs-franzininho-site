@@ -39,7 +39,7 @@ Para o exemplo que vamos ver a seguir, realize a seguinte montagem:
 
 ## **Código-fonte**
 
-Para iniciar, é necessário já ter seguido o tutorial de**Primeiros passos**, que também se encontra na página da Franzininho em documentação,
+Para iniciar, é necessário já ter seguido o tutorial de **Primeiros passos**, que também se encontra na página da Franzininho em documentação,
 ter o CircuitPython instalado na placa e para esse projeto utilizamos o Mu editor. Para obter esse ambiente basta seguir os passos em **Instalando as ferramentas**.
 
 
@@ -95,8 +95,7 @@ while True:
 
 Após terminar de escrever, e analisar no ambiente de desenvolvimento. Basta salvar e apertar no serial para executar no mu-editor. Caso esteja utilizando outra IDE, basta executá-la no ambiente escolhido.
 
-## **Entendendo o Código Fonte**
-
+## **Entendendo o Código-fonte**
 O primeiro módulo que vamos importar, é o board. Ele possibilita o acesso aos pinos da placa:
 
 ```python
