@@ -2,7 +2,7 @@
 id: circuitpython-sistema-de-irrigação
 title: Sistema de irrigação automático
 slug: /franzininho-wifi/exemplos-circuitpython/irrigacao
-description: Confira nesse artigo como controlar um servo motor com a Franzininho WiFi no CircuitPython. Veja como é fácil! 
+description: Um sistema de irrigação automático é uma solução para ajudar a manter de forma sistemática a irrigação de suas plantas. 
 author: Giuliane Eulália Corrêa
 ---
 
