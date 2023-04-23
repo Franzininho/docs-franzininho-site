@@ -5,7 +5,7 @@ slug: arduino-uno
 description: Adaptador Arduino Uno para a placa Laboratório de Sistemas Embarcados e IoT
 ---
 
-<img width="500px" src="./../img/3d-adaptador.png"/>
+![](./../img/3d-adaptador.png)
 
 Este adaptador permite a utilização da placa Arduino Uno em conjunto com a placa _Laboratório de Sistemas Embarcados e IoT_ através de um remapeamento da pinagem do Arduino Uno e para a pinagem da Franzininho Wifi (utilizada no projeto da placa de laboratório). Para utilizar o adaptador basta conectá-lo ao Arduino como um shield e então conectar o adaptador na placa.
 
