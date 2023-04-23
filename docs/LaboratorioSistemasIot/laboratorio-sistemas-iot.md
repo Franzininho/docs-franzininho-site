@@ -5,7 +5,7 @@ slug: LaboratorioSistemasIot
 description: O que é a placa Laboratório de Sistemas Embarcados e IoT
 ---
 
-<img src="./img/3d-lab.png"/>
+![placa Laboratório de Sistemas Embarcados e IoT](img/3d-lab.png)
 
 A placa _Laboratório de Sistemas Embarcados e IoT_ é uma placa de circuito impresso para o ensino de programação em placas microcontroladas. Esta placa contém uma série de periféricos que permitem a exploração de conceitos relacionados ao uso de placas microcontroladas. A conexão desses periféricos já está de certa forma "embutida" na placa sendo necessária apenas a ativação dos componentes através da conexão de pinos de ativação associados ao periférico.
 
@@ -56,7 +56,7 @@ Além disso, também é possível usar a biblioteca laboratorioFW, que faz o map
 
 ## Periféricos e pinos de ativação
 
-<img src="./img/lab-numerado.png"/>
+![lab-numerado](img/lab-numerado.png)
 
 |              Periferico               |                     Pinos de Ativação                     | Código na imagem |
 | :-----------------------------------: | :-------------------------------------------------------: | :--------------: |
