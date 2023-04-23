@@ -176,5 +176,24 @@ module.exports = {
       items: ["Badge/badge"],
       collapsed: true,
     },
+    {
+      type: "category",
+      label: "Laboratório de Sistemas Embarcados e IoT",
+      items: ["LaboratorioSistemasIot/laboratorio-sistemas-iot",
+      {
+        type: "category",
+        label: "Adaptadores",
+        items: ["LaboratorioSistemasIot/adaptadores/adaptador-arduino"],
+        collapsed: true,
+      },
+      {
+        type: "category",
+        label: "Bibliotecas",
+        items: ["LaboratorioSistemasIot/bibliotecas/biblioteca-laboratorioFW", "LaboratorioSistemasIot/bibliotecas/biblioteca-laboratorioFW-ARDUNO"],
+        collapsed: true,
+      },
+    ],
+      collapsed: true,
+    },
   ],
 };
