@@ -107,5 +107,5 @@ Neste exemplo fazemos a leitura do sensor de temperatura e umidade escrevemos os
 Neste exemplo utilizamos o display OLED para mostrar um asterisco que pode ser controlado pelo módulo de joystick se movendo no display. Foi utilizada a biblioteca `SSD1306Wire`.
 
 :::info Obs.
-Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso de Letícia Pegoraro Garcez.
+Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso de [Letícia Pegoraro Garcez](https://github.com/LelePG).
 :::

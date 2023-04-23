@@ -79,5 +79,5 @@ Além disso, também é possível usar a biblioteca laboratorioFW, que faz o map
 
 
 :::info Obs.
-A placa _Laboratório de Sistemas Embarcados e IoT_ foi desenvolvida como o Trabalho de Conclusão de Curso de Letícia Pegoraro Garcez.
+A placa _Laboratório de Sistemas Embarcados e IoT_ foi desenvolvida como o Trabalho de Conclusão de Curso de [Letícia Pegoraro Garcez](https://github.com/LelePG).
 :::

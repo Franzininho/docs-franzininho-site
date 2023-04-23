@@ -19,5 +19,5 @@ Este adaptador utiliza o mesmo sistema de codificação de pinos de ativação d
 Para facilitar o uso deste adaptador foi desenvolvida a biblioteca laboratorioFW_ARDUNO para uso em conjunto com o placa que permite o uso dos códigos dos pinos de ativação dentro da programação.
 
 :::info Obs.
-Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso de Letícia Pegoraro Garcez.
+Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso de [Letícia Pegoraro Garcez](https://github.com/LelePG).
 :::

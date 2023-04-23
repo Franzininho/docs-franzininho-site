@@ -104,5 +104,5 @@ Neste exemplo fazemos a leitura dos sensores externos conectados nos conectores 
 Neste exemplo fazemos a leitura do sensor de temperatura e umidade escrevemos os dados lidos no display OLED. Para isso, são utilizadas as bibliotecas `DTH` e `U8glib`.
 
 :::info Obs.
-Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso de Letícia Pegoraro Garcez.
+Este projeto foi desenvolvido como parte do Trabalho de Conclusão de Curso de [Letícia Pegoraro Garcez](https://github.com/LelePG).
 :::
