@@ -43,11 +43,11 @@ Será aberta a IDE do Arduino:
 
 ![Circuito para Gravação](img/bootloader/IDE-Arduino.png)
 
-Antes de gravar na placa precisamos configurar a IDE para a placa Arduino UNO. Em Paca selecione Arduino UNO e em porta a porta Serial criada para o seu Arduino UNO:
+Antes de gravar na placa precisamos configurar a IDE para a placa Arduino UNO. Em Placa selecione Arduino UNO e em porta a porta Serial criada para o seu Arduino UNO:
 
 ![Circuito para Gravação](img/bootloader/IDE-Arduino-Configuracao.png)
 
-Pronto, agora pressione Upload(Careegar) e aguarde a gravação no Arduino UNO:
+Pronto, agora pressione Upload(Carregar) e aguarde a gravação no Arduino UNO:
 
 ![Circuito para Gravação](img/bootloader/IDE-Arduino-Upload.png)
 
@@ -58,7 +58,7 @@ Agora abra o terminal serial:
 :::tip Verifique se a velocidade está configurada em 9600. 
 :::
 
-Agora digite e G e pressione enviar. Após a gravação deve ser apresentada a seguinte mensagem no terminal:
+Agora digite G e pressione enviar. Após a gravação deve ser apresentada a seguinte mensagem no terminal:
 
 ![Circuito para Gravação](img/bootloader/IDE-Arduino-Gravando.png)
 
@@ -78,4 +78,4 @@ Agora que já tem a sua placa Franzininho DIY preparada você pode partir para a
 
 ## Gravar muitos chips
 
-Caso você necessite gravar muitos chips você pode gravar ser usar o PC. Verifique a [documentação do FranzBoot](https://github.com/Franzininho/FranzBoot#readme) para mais detalhes.
+Caso você necessite gravar muitos chips você pode gravar sem usar o PC. Verifique a [documentação do FranzBoot](https://github.com/Franzininho/FranzBoot#readme) para mais detalhes.
