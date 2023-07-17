@@ -73,7 +73,10 @@ module.exports = {
         {
           type: "category",
           label: "STM32CubeIDE",
-          items: ["franzininhoSTM32C0/exemplos-stm32cube-IDE/franzininho-stm32c0-stm32cubeide-todolist"],
+          items: [
+                  "franzininhoSTM32C0/exemplos-stm32cube-IDE/franzininho-stm32c0-stm32cubeide-todolist",
+                  "franzininhoSTM32C0/exemplos-stm32cube-IDE/config-franzininho-c0-stm32cubeide",
+                ],
           collapsed: true,
         },
         {
