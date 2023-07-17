@@ -27,9 +27,10 @@ Fique a vontade para colaborar na construção dos materiais e códigos. Outros 
 |                         |        |                                                                                         |
 
 
-Legenda:
+### Legenda:
 
 - 🟢 Feito
+- 🔵 Para revisar
 - 🟡 Em progresso
 - 🔴 Ainda não implementado
 
