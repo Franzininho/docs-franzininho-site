@@ -67,6 +67,14 @@ module.exports = {
     },
     {
       type: "category",
+      label: "Franzininho WiFi Lab01",
+      items: [
+              "FranzininhoWiFiLAB01/franzininho-wifi-lab01",
+            ],
+      collapsed: true,
+    },
+    {
+      type: "category",
       label: "Franzininho C0(STM32C0)",
       items: [
         "franzininhoSTM32C0/franzininho-stm32c0",
