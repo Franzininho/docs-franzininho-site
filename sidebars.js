@@ -11,7 +11,6 @@ module.exports = {
       label: "Franzininho WiFi",
       items: [
         "FranzininhoWifi/franzininho-wifi",
-        "FranzininhoWifi/franzininho-wifi-dev-edition",
         {
           type: "category",
           label: "Wokwi",
@@ -62,6 +61,7 @@ module.exports = {
           ],
           collapsed: true,
         },
+        "FranzininhoWifi/franzininho-wifi-dev-edition",
       ],
       collapsed: true,
     },

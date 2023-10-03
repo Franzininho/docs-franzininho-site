@@ -5,6 +5,10 @@ slug: /franzininho-wifi/franzininho-wifi-dev-edition
 description: Detalhes da Franzininho WiFi Developer Edition
 ---
 
+:::caution Atenção
+Essa placa foi feita apenas como protótipo. Não está em produção
+:::
+
 A Franzininho WiFi Developer Edition é uma placa de desenvolvimento para avaliar os módulos ESP32-S2 (Wroom e Wrover) e desenvolver a nova geração de placas Franzininho. O projeto Franzininho foi criado para desenvolver habilidades em pessoas nas áreas de eletrônica e programação, por meio de atividades no formato DIY e em conjunto com a cultura maker, no Brasil.
 
 ![Placa Franzininho WiFi Developer Edition Front](img/placaFranzininhoWiFi.jpeg)
