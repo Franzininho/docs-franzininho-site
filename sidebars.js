@@ -91,7 +91,8 @@ module.exports = {
           type: "category",
           label: "Arduino",
           items: [
-            "franzininhoSTM32C0/exemplos-arduino/franzininho-stm32c0-arduino-todolist",
+            "franzininhoSTM32C0/exemplos-arduino/franzininhoc0-arduino-todolist",
+            "franzininhoSTM32C0/exemplos-arduino/franzininhoc0-arduino-primeiros-passos",
           
           ],
           collapsed: true,
