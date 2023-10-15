@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'docs-franzininho-site',
   themeConfig: {
     image: 'img/logo.svg',
-    metadatas: [
+    metadata: [
       { property: 'og:image:width', content: '1200' },
       { property: 'og:image:height', content: '630' },
     ],
