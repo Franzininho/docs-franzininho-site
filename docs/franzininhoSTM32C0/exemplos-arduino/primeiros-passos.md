@@ -11,6 +11,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![imagem](img/primeiros-passos/Arduino_IDE_test.png)
 
 
-| Autor | nome do Autor |
-|-------|-------------|
-| Data: | 17/07/2023  |
+### Linux
+
+TBD
+
+
+| Autor | Daniel Quadros |
+| :---- | :------------- |
+| Data: | 15/10/2023     |
