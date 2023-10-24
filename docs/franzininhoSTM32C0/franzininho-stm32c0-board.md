@@ -16,7 +16,7 @@ Neste texto, apresentaremos todos os recursos disponíveis e detalhes do seu har
 ## Recursos de Hardware
 
 - Microcontrolador: 
-	- ][STM32C011F6P6](https://www.st.com/en/microcontrollers-microprocessors/stm32c011f6.html) - ARM Cortex M0+ @48MHz
+	- [STM32C011F6P6](https://www.st.com/en/microcontrollers-microprocessors/stm32c011f6.html) - ARM Cortex M0+ @48MHz
 	- Memória Flash: 32 kB
 	- Memória RAM: 6 kB
 - ADC: 12 bits (13 canais + 2 internos)
