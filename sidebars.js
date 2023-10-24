@@ -93,6 +93,7 @@ module.exports = {
           items: [
             "franzininhoSTM32C0/exemplos-arduino/franzininhoc0-arduino-todolist",
             "franzininhoSTM32C0/exemplos-arduino/franzininhoc0-arduino-primeiros-passos",
+            "franzininhoSTM32C0/exemplos-arduino/franzininhoc0-arduino-identificacao-pinos",
           
           ],
           collapsed: true,
