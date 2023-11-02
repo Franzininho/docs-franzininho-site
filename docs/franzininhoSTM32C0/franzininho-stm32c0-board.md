@@ -45,6 +45,10 @@ Neste texto, apresentaremos todos os recursos disponíveis e detalhes do seu har
 - RX_PA10
 - TX_PA11
 
+#### Pinout microcontrolador
+
+![Franzininho C0 Pinout stm32c11f6p6](img/pinout-stm32c11f6p6.png)
+
 ### Esquemático
 
 ![Schematic_Franzininho C0_2023-07-26.png](img/Franzininho_C0_Schematic.png)
