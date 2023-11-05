@@ -13,16 +13,16 @@ Fique a vontade para colaborar na construção dos materiais e códigos. Outros 
 | :---------------------- | :----- | :------------------------------------------------------------------------ |
 | Primeiros passos        | 🔵     | Ferramentas necessárias, Métodos de gravação, Repositório com os exemplos |
 | 01 - Blinky             | 🔵     | Piscando o LED usando delay                                               |
-| 02 - Exemplo Blinky Int | 🔴      | Piscando o LED usando interrupção de timer                                                                    |              |
+| 02 - Blinky Int         | 🔵     | Piscando o LED usando interrupção de timer                                                                    |              |
 | 03 - Hello World        | 🔵     | Enviando mensagem pela serial (UART)                                      |
 | 04 - E/S Digital        | 🔵     | Leitura de um botão e acionamento de um LED                               |
 | 05 - Debounce           | 🔵     | Leitura de um botão com realização de debounce                            |
-| 06 - ADC                | 🔴     |                                                                           |
+| 06 - ADC                | 🔵     | Leitura da posição de um potenciômetro                                    |
 | 07 - PWM                | 🔴     |                                                                           |
-| 08 - Dimmer             | 🔴     | Controlando o brilho do LED por um potenciômetro (ADC e PWM)              |
-| 09 - Servo              | 🔴     | Controlando a posição de um servo motor por um potenciômetro (ADC e PWM)  |
+| 08 - Dimmer             | 🔵     | Controlando o brilho do LED por um potenciômetro (ADC e PWM)              |
+| 09 - Servo              | 🔵     | Controlando a posição de um servo motor por um potenciômetro (ADC e PWM)  |
 | 10 - I2C (LCD)          | 🔵     | Conexão de display LCD alfanumérico via I2C                               |
-| 11 - I2C (OLED)         | 🔴     | Conexão de display OLED via I2C                                           |
+| 11 - I2C (OLED)         | 🔵     | Conexão de display OLED via I2C                                           |
 | 12 - SPI (OLED)         | 🔵     | Conexão de display OLED via SPI                                           |
 | Interrupção externa     | 🔴     |                                                                           |
 | Timers - PWM            | 🔴     |                                                                           |
