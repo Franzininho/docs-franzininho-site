@@ -61,6 +61,14 @@ module.exports = {
           ],
           collapsed: true,
         },
+        {
+          type: "category",
+          label: "MicroPython",
+          items: [
+            "FranzininhoWifi/exemplos-micropython/micropython-primeiros-passos",
+          ],
+          collapsed: true,
+        },
         "FranzininhoWifi/franzininho-wifi-dev-edition",
       ],
       collapsed: true,
