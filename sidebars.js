@@ -66,6 +66,7 @@ module.exports = {
           label: "MicroPython",
           items: [
             "FranzininhoWifi/exemplos-micropython/micropython-primeiros-passos",
+            "FranzininhoWifi/exemplos-micropython/micropython-entradas-saidas-digitais",
           ],
           collapsed: true,
         },
