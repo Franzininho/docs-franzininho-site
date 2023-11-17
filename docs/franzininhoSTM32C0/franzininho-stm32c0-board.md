@@ -37,7 +37,11 @@ Neste texto, apresentaremos todos os recursos disponíveis e detalhes do seu har
 - Dimensão: 38,1 mm x 20.32 mm
 - Licença: CERN Open Hardware Licence version 2
 
-### PINOUT
+### Pinout
+
+![Franzininho C0 Pinout](img/Pinout-Franzininho-C0.png)
+
+### Mapeamento de recursos na placa
 
 - Botão: PA8
 - LED1: PB6
@@ -45,34 +49,14 @@ Neste texto, apresentaremos todos os recursos disponíveis e detalhes do seu har
 - RX_PA10
 - TX_PA11
 
-#### Pinout microcontrolador
+
+### Pinout do microcontrolador
 
 ![Franzininho C0 Pinout stm32c11f6p6](img/pinout-stm32c11f6p6.png)
 
 ### Esquemático
 
 ![Schematic_Franzininho C0_2023-07-26.png](img/Franzininho_C0_Schematic.png)
-
-### BOM
-
-| ID |          Name         |      Designator     | Quantity |
-|:--:|:---------------------:|:-------------------:|:--------:|
-| 1  | 100nF                 | C1,C3,C6            | 3        |
-| 2  | 2.2uF                 | C2                  | 1        |
-| 3  | 1uF                   | C4,C5               | 2        |
-| 4  | NSR0320MW2T1G         | D1                  | 1        |
-| 5  | JFC0603-0500FS        | F1                  | 1        |
-| 6  | HDR-M-2.54_1x10       | J1,J2               | 2        |
-| 7  | HDR-M-2.54_1x4        | J3                  | 1        |
-| 8  | 16-213/G6C-AK2L2VY/3T | LED1,LED2,LED3,LED4 | 4        |
-| 9  | 4k7                   | R1                  | 1        |
-| 10 | 1k                    | R2,R3,R4            | 3        |
-| 11 | 10k                   | R5                  | 1        |
-| 12 | PTS810SJS250SMTRLFS   | SW1,SW2,SW3         | 3        |
-| 13 | CH340E                | U1                  | 1        |
-| 14 | STM32C011F6P6         | U2                  | 1        |
-| 15 | LDK220M33R            | U3                  | 1        |
-| 16 | 920-E64A2021S10100    | USB1                | 1        |
 
 
 ## Licença
