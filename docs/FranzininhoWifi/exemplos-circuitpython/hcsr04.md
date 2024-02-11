@@ -36,7 +36,7 @@ A tabela abaixo resume as conexões entre o sensor e a Franzininho:
 
 Neste exemplo, vamos fazer o uso de uma biblioteca que implementa os métodos necessários para uso do sensor.
 
-As bibliotecas para o CircuitPython podem ser obtidas através do endereço <https://circuitpython.org/libraries>. Escolha e baixe o arquivo de acordo com a versão do CircuitPyhthon que você tem instalado na Franzininho WiFi.
+As bibliotecas para o CircuitPython podem ser obtidas através do endereço [https://circuitpython.org/libraries](https://circuitpython.org/libraries). Escolha e baixe o arquivo de acordo com a versão do CircuitPyhthon que você tem instalado na Franzininho WiFi.
 
 ![Bibliotecas](img/display-oled-i2c/libraries.png)
 
@@ -80,7 +80,7 @@ import adafruit_hcsr04
 
 Em seguida criamos uma instância da classe HCSR04, passando como parâmetro **trigger_pin** sendo o pino 36, o **echo_pin** o pino 35 e o **timeout** sendo 0.5 segundos.
 O **trigger_pin** (em português: Gatilho) tem a função de disparar uma espécie de onda sonora ultrassônica, a qual irá colidir com algum obstáculo e retorna para o sensor fazendo com que o pino **echo_pin** envie pulsos para a Franzininho, o tempo desse processo será convertido em distância. O parâmetro **timeout** é o tempo máximo de leitura do sensor, que nesse caso é 0.5 segundos.
-Conforme podemos observar na pinagem, disponível em <https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi/franzininho-wifi> 
+Conforme podemos observar na pinagem, disponível em [https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi/franzininho-wifi](https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi/franzininho-wifi) 
 
 ```python
 sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.IO36, echo_pin=board.IO35, timeout=0.5)
