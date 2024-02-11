@@ -23,7 +23,7 @@ Conforme definido no “how to” da licença, no repositório do projeto estão
 - COPYRIGHT.TXT
 - PRODUCT.TXT
 
-O projeto está disponível em: <https://github.com/Franzininho/FranzBoy>
+O projeto está disponível em: [https://github.com/Franzininho/FranzBoy](https://github.com/Franzininho/FranzBoy)
 
 
 ## Confira o video de apresentação da placa

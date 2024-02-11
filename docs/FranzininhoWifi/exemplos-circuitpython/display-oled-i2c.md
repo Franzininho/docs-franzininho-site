@@ -36,7 +36,7 @@ Resumindo o que é mostrado nas Figuras 4.2 até 4.5, a conexão dos terminais d
 
 Como o display OLED é um componente com funcionamento bastante complexo, vamos fazer uso de uma biblioteca que implementa todas as funcionalidades, permitindo que nossos programas possam ser implementados de maneira bastante simples e produtiva.
 
-As bibliotecas para o CircuitPython podem ser obtidas através do endereço <https://circuitpython.org/libraries>. Escolha e baixe o arquivo de acordo com a versão do CircuitPyhthon que você tem instalado na Franzininho WiFi.
+As bibliotecas para o CircuitPython podem ser obtidas através do endereço [https://circuitpython.org/libraries](https://circuitpython.org/libraries). Escolha e baixe o arquivo de acordo com a versão do CircuitPyhthon que você tem instalado na Franzininho WiFi.
 
 ![Bibliotecas](img/display-oled-i2c/libraries.png)
 
@@ -81,7 +81,7 @@ Devemos importar as bibliotecas busio e adafruit_ssd1306, que serão responsáve
 import busio
 import adafruit_ssd1306
 ```
-A comunicação I2C será realizada através do terminais **IO9** e **IO8** da Franzininho WiFi, conforme podemos observar na pinagem, disponível em <https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi/franzininho-wifi> 
+A comunicação I2C será realizada através do terminais **IO9** e **IO8** da Franzininho WiFi, conforme podemos observar na pinagem, disponível em [https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi/franzininho-wifi](https://franzininho.github.io/docs-franzininho-site/docs/franzininho-wifi/franzininho-wifi) 
 ```python
 i2c = busio.I2C(scl=board.IO9, sda=board.IO8)
 ```

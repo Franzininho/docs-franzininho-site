@@ -86,8 +86,8 @@ Não LIGAR o VCC do conversor USB/SERIAL a placa se a fonte externa estiver liga
 ![CC SA 4.0](img/cc-sa-40.png)
 Esta obra está licenciada com uma Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional.
 
-Todos os arquivos de projeto estão disponíveis no Github: <https://github.com/Franzininho/Franzino>
+Todos os arquivos de projeto estão disponíveis no Github: [https://github.com/Franzininho/Franzino](https://github.com/Franzininho/Franzino)
 
 ## Referências
 
-Artigo no Embarcados: <https://www.embarcados.com.br/franzino-open-hardware-de-baixo-custo/>
+Artigo no Embarcados: [https://www.embarcados.com.br/franzino-open-hardware-de-baixo-custo](https://www.embarcados.com.br/franzino-open-hardware-de-baixo-custo)
