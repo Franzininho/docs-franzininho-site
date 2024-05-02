@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkFranzininho=self.webpackChunkFranzininho||[]).push([[5512],{4352:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome","unlisted":false},{"title":"Hello","permalink":"/blog/hello-world","unlisted":false},{"title":"Hola","permalink":"/blog/hola","unlisted":false}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkFranzininho=self.webpackChunkFranzininho||[]).push([[2720],{33788:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/en/blog/tags/hello","allTagsPath":"/en/blog/tags","count":2,"unlisted":false}')}}]);
