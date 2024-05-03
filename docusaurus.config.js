@@ -1,3 +1,5 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+
 module.exports = {
   title: 'Franzininho',
   tagline: 'O projeto Franzininho tem o objetivo de incentivar as pessoas na tecnologia através da cultura maker e do faça você mesmo.',
@@ -14,6 +16,10 @@ module.exports = {
       { property: 'og:image:width', content: '1200' },
       { property: 'og:image:height', content: '630' },
     ],
+    prism: {
+      theme: prismThemes.dracula,
+      darkTheme: prismThemes.github,
+    },
     navbar: {
       title: 'Franzininho',
       logo: {
