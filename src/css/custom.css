@@ -28,3 +28,8 @@ img {
   width: auto;
   height: auto;
 }
+
+iframe { 
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
