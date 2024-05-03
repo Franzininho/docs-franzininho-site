@@ -63,7 +63,7 @@ Verifique no pinout da Franzininho DIY quais os pinos possuem função de saída
 
 ## Simulação
 
-<iframe src="https://wokwi.com/arduino/projects/311359730520949312?view=diagram"></iframe>
+<iframe width="100%" height="458px"src="https://wokwi.com/arduino/projects/311359730520949312?view=diagram"></iframe>
 
 
 ## Video de Funcionamento

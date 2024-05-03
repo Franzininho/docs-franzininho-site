@@ -120,7 +120,7 @@ Note que no loop principal não fizemos nada. Todo o tratamento ficou na interru
 ### Simulação do exemplo
 - **Wokwi: **
 
-<iframe   src="https://wokwi.com/arduino/projects/306143631949955648?view=diagram"></iframe>
+<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/306143631949955648?view=diagram"></iframe>
 
 
 

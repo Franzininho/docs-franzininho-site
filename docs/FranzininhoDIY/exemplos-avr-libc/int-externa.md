@@ -88,7 +88,7 @@ int main()
 
 # Simulação
 
-<iframe   src="https://wokwi.com/projects/355838633796327425?view=diagram"></iframe>
+<iframe width="100%" height="458px" src="https://wokwi.com/projects/355838633796327425?view=diagram"></iframe>
 
 ## Desafio
 

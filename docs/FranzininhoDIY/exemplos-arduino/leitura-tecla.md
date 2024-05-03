@@ -46,7 +46,7 @@ digitalWrite(LED, val); //aciona LED conforme valor lido do botão
 
 ## Simulação
 
-<iframe   src="https://wokwi.com/arduino/projects/311373301712683584?view=diagram"></iframe>
+<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/311373301712683584?view=diagram"></iframe>
 
 
 ## Video de Funcionamento

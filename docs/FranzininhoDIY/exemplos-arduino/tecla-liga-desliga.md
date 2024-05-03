@@ -53,7 +53,7 @@ if ((estadoAtualBT != estadoAnteriorBotao)&& (estadoAtualBT == LOW)){       //Se
 
 ## Simulação
 
-<iframe   src="https://wokwi.com/arduino/projects/311373968060711489?view=diagram"></iframe>
+<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/311373968060711489?view=diagram"></iframe>
 
 
 ## Video de Funcionamento

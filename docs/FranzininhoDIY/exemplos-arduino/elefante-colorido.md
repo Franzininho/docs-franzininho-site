@@ -148,7 +148,7 @@ void loop() {
 
 ## Simulação (modo avançado)
 
-<iframe src="https://wokwi.com/arduino/projects/311376279774429761?view=diagram"></iframe>
+<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/311376279774429761?view=diagram"></iframe>
 
 ## Video de Funcionamento
 
