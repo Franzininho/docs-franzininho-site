@@ -26,7 +26,7 @@
             <guid>https://franzininho.github.io/en/blog/hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
-            <content:encoded><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://v2.docusaurus.io/"><strong>Docusaurus 2 alpha</strong></a>.</p>
+            <content:encoded><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://v2.docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2 alpha</strong></a>.</p>
 <p>This is a test post.</p>
 <p>A whole bunch of other information.</p>]]></content:encoded>
             <category>hello</category>

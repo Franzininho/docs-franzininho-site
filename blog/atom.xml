@@ -29,7 +29,7 @@
         <link href="https://franzininho.github.io/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://v2.docusaurus.io/"><strong>Docusaurus 2 alpha</strong></a>.</p>
+        <content type="html"><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://v2.docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2 alpha</strong></a>.</p>
 <p>This is a test post.</p>
 <p>A whole bunch of other information.</p>]]></content>
         <author>
