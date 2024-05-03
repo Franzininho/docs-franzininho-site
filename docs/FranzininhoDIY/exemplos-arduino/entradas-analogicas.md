@@ -61,4 +61,4 @@ void loop() {
 ```
 ### Simulação
 
-<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/310739786993238592?view=diagram"></iframe>
+<iframe src="https://wokwi.com/arduino/projects/310739786993238592?view=diagram"></iframe>

@@ -15,7 +15,7 @@ A placa Franzininho DIY está disponível para simulação no PICSimLab,
 
 Veja no video abaixo os passos para gravação e depuração da Franzininho DIY no PICSimLab:
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/OemWGwXNxE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe   src="https://www.youtube.com/embed/OemWGwXNxE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Timeline do video
 

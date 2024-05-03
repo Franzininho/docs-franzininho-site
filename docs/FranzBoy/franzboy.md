@@ -28,4 +28,4 @@ O projeto está disponível em: [https://github.com/Franzininho/FranzBoy](https:
 
 ## Confira o video de apresentação da placa
 
-<iframe width="828" height="466" src="https://www.youtube.com/embed/EFIQ9oZN7Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/EFIQ9oZN7Zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

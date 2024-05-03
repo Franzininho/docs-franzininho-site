@@ -93,7 +93,7 @@ void loop(){
 
 ### Simulação
 
-<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/310738934055305794?view=diagram"></iframe>
+<iframe src="https://wokwi.com/arduino/projects/310738934055305794?view=diagram"></iframe>
 
 A função `delay(ms)` espera um tempo em milissegundos. No caso do exemplo acima, 1000 ms = 1 segundo;
 
@@ -149,4 +149,4 @@ void loop (){
 
 ### Simulação
 
-<iframe width="100%" height="458px" src="https://wokwi.com/arduino/projects/310739108383162946?view=diagram"></iframe>
+<iframe src="https://wokwi.com/arduino/projects/310739108383162946?view=diagram"></iframe>
