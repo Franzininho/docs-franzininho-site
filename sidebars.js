@@ -68,6 +68,7 @@ module.exports = {
             "FranzininhoWifi/exemplos-micropython/micropython-primeiros-passos",
             "FranzininhoWifi/exemplos-micropython/micropython-entradas-saidas-digitais",
             "FranzininhoWifi/exemplos-micropython/micropython-timers",
+            "FranzininhoWifi/exemplos-micropython/micropython-display-oled",
           ],
           collapsed: true,
         },
