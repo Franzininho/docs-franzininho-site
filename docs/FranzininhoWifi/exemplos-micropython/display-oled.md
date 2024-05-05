@@ -1,6 +1,6 @@
 ---
 id: micropython-display-oled
-title: Explorando o display OLED na Franzininho WiFi LAB01 com MicroPython
+title: Display OLED
 slug: /franzininho-wifi/exemplos-micropython/display-oled
 description: Descubra como aproveitar ao máximo o display OLED SSD1306 da Franzininho WiFi Lab01 neste artigo!
 author: Sthefania Fernandes

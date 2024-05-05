@@ -1,6 +1,6 @@
 ---
 id: micropython-timers
-title: Trabalhando com timers na Franzininho WiFi usando MicroPython
+title: Timers
 slug: /franzininho-wifi/exemplos-micropython/timers
 description: Descubra como os timers periódicos e one-shot da Franzininho WiFi podem controlar e antecipar cenários nos sistemas embarcados. Use-os para piscar LEDs, ler sensores etc.
 author: Sthefania Fernandes

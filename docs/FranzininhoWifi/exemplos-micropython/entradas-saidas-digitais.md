@@ -1,6 +1,6 @@
 ---
 id: micropython-entradas-saidas-digitais
-title: Explore as entradas e saídas digitais da Franzininho WiFi no MicroPython
+title: Entradas e saídas digitais
 slug: /franzininho-wifi/exemplos-micropython/entradas-saidas-digitais
 description: Explore as entradas e saídas digitais da Franzininho WiFi com MicroPython. Controle LEDs e botões na Franzininho WiFi LAB01. 
 author: Sthefania Fernandes
