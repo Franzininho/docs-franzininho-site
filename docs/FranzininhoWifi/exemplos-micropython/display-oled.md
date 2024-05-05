@@ -354,3 +354,7 @@ Figura 3 – Saída da imagem no display
 Neste artigo, exploramos como trabalhar com telas OLED na Franzininho WiFi. Desde as funcionalidades mais básicas, como escrever texto na tela, até a exibição de imagens bitmap, fomos capazes de desvendar o potencial criativo e informativo dessas telas.
 
 À medida que você avança em seus projetos com a Franzininho WiFi Lab01, lembre-se de que você tem à sua disposição um recurso poderoso para melhorar a usabilidade de suas criações. Aqui fica a sugestão de usar sua criatividade e criar projetos mais complexos para exibir no seu display.
+
+| Autor | Sthefania Fernandes|
+|-------|--------------|
+| Data: | 15/12/2023    |
