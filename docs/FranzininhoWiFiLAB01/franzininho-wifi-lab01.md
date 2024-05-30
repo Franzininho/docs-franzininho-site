@@ -99,6 +99,7 @@ Conforme apresentado no artigo “[Como programar a Franzininho WiFi? Descubra a
 
 - ESP-IDF, Arduino, CircuitPython e MicroPython
 
+
 ### Exemplos de código:
 
 - Arduino: [https://github.com/Franzininho/Franzininho-WiFI-LAB01-Arduino](https://github.com/Franzininho/Franzininho-WiFI-LAB01-Arduino)
@@ -109,8 +110,8 @@ Conforme apresentado no artigo “[Como programar a Franzininho WiFi? Descubra a
 
 ## Onde adquirir a placa?
 
-Adquira sua placa em: [https://cursos.embarcados.com.br/cursos/franzininho-wifi-lab01/](https://cursos.embarcados.com.br/cursos/franzininho-wifi-lab01/)
+Entre em contato para verificar a disponilidade e canais de compra.
 
-Se você quiser equipar o laboratório da sua instituição com essa placa, entre em contato conosco para reservar com antecedência antes da produção.
+Se você quiser equipar o laboratório da sua instituição com essa placa, entre em contato conoscopara condições comerciais.
 
-Contato: contato@embarcados.com.br
+Contato: fabio.souza@embarcados.com.br
