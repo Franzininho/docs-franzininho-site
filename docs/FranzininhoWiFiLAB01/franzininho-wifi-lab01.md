@@ -104,7 +104,7 @@ Conforme apresentado no artigo “[Como programar a Franzininho WiFi? Descubra a
 
 - Arduino: [https://github.com/Franzininho/Franzininho-WiFI-LAB01-Arduino](https://github.com/Franzininho/Franzininho-WiFI-LAB01-Arduino)
 - CircuitPython: tbd
-- MicroPython: tbd
+- MicroPython: [Primeiros Passos com MicroPython](https://docs.franzininho.com.br/docs/franzininho-wifi/exemplos-micropython/primeiros-passos)
 - ESP-IDF: tbd
 
 
