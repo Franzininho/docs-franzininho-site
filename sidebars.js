@@ -71,6 +71,7 @@ module.exports = {
             "FranzininhoWifi/exemplos-micropython/micropython-display-oled",
             "FranzininhoWifi/exemplos-micropython/micropython-dht11",
             "FranzininhoWifi/exemplos-micropython/micropython-rgb-ldr",
+            "FranzininhoWifi/exemplos-micropython/micropython-registro-temperatura",
           ],
           collapsed: true,
         },
