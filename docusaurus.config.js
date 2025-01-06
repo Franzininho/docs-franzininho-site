@@ -34,14 +34,19 @@ module.exports = {
           label: 'Documentação',
           position: 'left',
         },
-                {
-          href: 'https://franzininho.com.br/',
-          label: 'Site',
+        {
+          label: 'Ferramentas',
           position: 'right',
+          items: [
+            {
+              label: 'Franzininho WiFi - Web EspTools',
+              href: 'https://franzininho.github.io/franzininho-webesptools/',
+            },
+          ],
         },
         {
-          href: 'https://franzininho.com.br/blog/',
-          label: 'Blog',
+          href: 'https://franzininho.com.br/',
+          label: 'Site',
           position: 'right',
         },
         {
