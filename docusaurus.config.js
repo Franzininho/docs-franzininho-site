@@ -45,14 +45,34 @@ module.exports = {
           ],
         },
         {
-          href: 'https://franzininho.com.br/',
-          label: 'Site',
-          position: 'right',
-        },
-        {
-          href: 'https://franzininho.com.br/#contato',
           label: 'Contato',
           position: 'right',
+          items: [
+            {
+              label: 'Site',
+              href: 'https://franzininho.com.br/',
+            },
+            {
+              label: 'Contato',
+              href: 'mailto:franzininho.suporte@gmail.com',
+            },
+            {
+              label: 'Discord',
+              href: 'https://discord.gg/H5kENmWGaz',
+            },
+            {
+              label: 'Grupo no Facebook',
+              href: 'https://www.facebook.com/groups/299236843857849/',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/franzininho/',
+            },
+            {
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/franzininho/',
+            }
+          ],
         },
         {
           type: 'localeDropdown',
