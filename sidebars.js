@@ -81,7 +81,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Franzininho WiFi Lab01",
+      label: "Franzininho WiFi LAB01",
       items: [
               "FranzininhoWiFiLAB01/franzininho-wifi-lab01",
             ],
