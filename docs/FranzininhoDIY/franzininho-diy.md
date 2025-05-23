@@ -68,7 +68,6 @@ Para reprodução do projeto ou derivações, é importante verificar os requisi
 
 ### Varejo
 
-- [Robocore](https://www.robocore.net/busca/Franzininho)
 - [Casa da Robótica](https://www.casadarobotica.com/loja/produto.php?loja=650361&IdProd=4275&parceiro=1821)
 
 ### Atacado
