@@ -26,8 +26,8 @@ Para a experiência completa, você precisará de uma placa Franzininho WiFi, Co
 Algumas ferramentas precisam ser instaladas no computador antes de prosseguir para as próximas etapas. Siga os links abaixo para obter as instruções para o seu sistema operacional:
 
 - [Windows](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/windows-setup.html)
-- [Linux](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/linux-setup.html)
-- [Mac OS](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/macos-setup.html)
+- [Linux](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/linux-macos-setup.html#step-1-install-prerequisites)
+- [Mac OS](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/linux-macos-setup.html#step-1-install-prerequisites)
 
 É muito importante a instalação de todos os pré-requisitos.
 
@@ -192,16 +192,27 @@ Agora selecione Channel for console output (Default: UART0)  --->
 E por fim, selecione (X) USB CDC:
 ![menuconfig](img/primeiros-passos-img/4.png)
 
-Salve(S), Enter, enter, Saia do menu(ESC)
-
-Essa configuração permitirá que usemos a USB no próximo upload.
-
 :::important Importante
-Sempre que iniciar um projeto novo faça essas configuração para que continue usando a USB como interface de programação.
+Sempre que iniciar um projeto novo realize essas configurações para que continue usando a USB como interface de programação.
 
 :::
 
-    
+Pressione ESC até voltar a tela inicial e acesse a opção Example Configuration --->
+![menuconfig](img/primeiros-passos-img/6.png)
+
+Acesse Blink LED type (...) --->
+![menuconfig](img/primeiros-passos-img/7.png)
+
+E selecione GPIO.
+![menuconfig](img/primeiros-passos-img/8.png)
+
+Agora volte a tela anterior (ESC) e configure a opção Blink GPIO number com o valor 21 para controlarmos o LED21 da Franzininho WiFi.
+![menuconfig](img/primeiros-passos-img/9.png)
+
+Por fim pressione Q e Y para sair do menuconfig salvando a configuração feita.
+
+Essa configuração permitirá que usemos a USB no próximo upload.
+
 Para mais detalhes acesse:
 <iframe src="https://www.youtube.com/embed/zg9IMDaoImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
