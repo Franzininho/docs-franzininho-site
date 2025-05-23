@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.2.1">
 <title data-rh="true">Primeiros Passos com ESP-IDF | Franzininho</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://franzininho.github.io/img/logo.svg"><meta data-rh="true" name="twitter:image" content="https://franzininho.github.io/img/logo.svg"><meta data-rh="true" property="og:url" content="https://franzininho.github.io/docs/franzininho-wifi/exemplos-espidf/primeiros-passos"><meta data-rh="true" property="og:locale" content="pt_BR"><meta data-rh="true" property="og:locale:alternate" content="en"><meta data-rh="true" name="docusaurus_locale" content="pt-BR"><meta data-rh="true" name="docsearch:language" content="pt-BR"><meta data-rh="true" property="og:image:width" content="1200"><meta data-rh="true" property="og:image:height" content="630"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Primeiros Passos com ESP-IDF | Franzininho"><meta data-rh="true" name="description" content="Este documento tem como objetivo ajudá-lo a configurar o ESP-IDF"><meta data-rh="true" property="og:description" content="Este documento tem como objetivo ajudá-lo a configurar o ESP-IDF"><link data-rh="true" rel="icon" href="/img/favicon.png"><link data-rh="true" rel="canonical" href="https://franzininho.github.io/docs/franzininho-wifi/exemplos-espidf/primeiros-passos"><link data-rh="true" rel="alternate" href="https://franzininho.github.io/docs/franzininho-wifi/exemplos-espidf/primeiros-passos" hreflang="pt-BR"><link data-rh="true" rel="alternate" href="https://franzininho.github.io/en/docs/franzininho-wifi/exemplos-espidf/primeiros-passos" hreflang="en"><link data-rh="true" rel="alternate" href="https://franzininho.github.io/docs/franzininho-wifi/exemplos-espidf/primeiros-passos" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Franzininho RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Franzininho Atom Feed"><link rel="stylesheet" href="/assets/css/styles.1985d027.css">
-<script src="/assets/js/runtime~main.220198f0.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.5ee6cf01.js" defer="defer"></script>
 <script src="/assets/js/main.0639c170.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -23,8 +23,8 @@
 <p>Algumas ferramentas precisam ser instaladas no computador antes de prosseguir para as próximas etapas. Siga os links abaixo para obter as instruções para o seu sistema operacional:</p>
 <ul>
 <li><a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/windows-setup.html" target="_blank" rel="noopener noreferrer">Windows</a></li>
-<li><a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/linux-setup.html" target="_blank" rel="noopener noreferrer">Linux</a></li>
-<li><a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/macos-setup.html" target="_blank" rel="noopener noreferrer">Mac OS</a></li>
+<li><a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/linux-macos-setup.html#step-1-install-prerequisites" target="_blank" rel="noopener noreferrer">Linux</a></li>
+<li><a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/linux-macos-setup.html#step-1-install-prerequisites" target="_blank" rel="noopener noreferrer">Mac OS</a></li>
 </ul>
 <p>É muito importante a instalação de todos os pré-requisitos.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="passo-2---instalação-do-esp-idf">Passo 2 - Instalação do ESP-IDF<a href="#passo-2---instalação-do-esp-idf" class="hash-link" aria-label="Link direto para o título" title="Link direto para o título">​</a></h2>
@@ -91,16 +91,24 @@
 <img decoding="async" loading="lazy" alt="menuconfig" src="/assets/images/5-0821b04d00bb4ccc716759540cf7954a.png" width="866" height="562" class="img_ev3q"></p>
 <p>E por fim, selecione (X) USB CDC:
 <img decoding="async" loading="lazy" alt="menuconfig" src="/assets/images/4-c250e820888c2d31288214e41376a1dd.png" width="866" height="562" class="img_ev3q"></p>
-<p>Salve(S), Enter, enter, Saia do menu(ESC)</p>
+<div class="theme-admonition theme-admonition-important admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Importante</div><div class="admonitionContent_BuS1"><p>Sempre que iniciar um projeto novo realize essas configurações para que continue usando a USB como interface de programação.</p></div></div>
+<p>Pressione ESC até voltar a tela inicial e acesse a opção Example Configuration ---&gt;
+<img decoding="async" loading="lazy" alt="menuconfig" src="/assets/images/6-0df3315f53f568243671f7138e7a23c0.png" width="866" height="562" class="img_ev3q"></p>
+<p>Acesse Blink LED type (...) ---&gt;
+<img decoding="async" loading="lazy" alt="menuconfig" src="/assets/images/7-327e96c760e6bf0abf4aadc64b584862.png" width="866" height="562" class="img_ev3q"></p>
+<p>E selecione GPIO.
+<img decoding="async" loading="lazy" alt="menuconfig" src="/assets/images/8-ff27b9174f29eb10f0496d10d4aa21ae.png" width="866" height="562" class="img_ev3q"></p>
+<p>Agora volte a tela anterior (ESC) e configure a opção Blink GPIO number com o valor 21 para controlarmos o LED21 da Franzininho WiFi.
+<img decoding="async" loading="lazy" alt="menuconfig" src="/assets/images/9-ed11927225c913d96cd560bd66d143b1.png" width="866" height="562" class="img_ev3q"></p>
+<p>Por fim pressione Q e Y para sair do menuconfig salvando a configuração feita.</p>
 <p>Essa configuração permitirá que usemos a USB no próximo upload.</p>
-<div class="theme-admonition theme-admonition-important admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Importante</div><div class="admonitionContent_BuS1"><p>Sempre que iniciar um projeto novo faça essas configuração para que continue usando a USB como interface de programação.</p></div></div>
 <p>Para mais detalhes acesse:</p>
 <iframe src="https://www.youtube.com/embed/zg9IMDaoImA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="compilando-o-projeto-em-modo-dfu">Compilando o projeto em modo DFU<a href="#compilando-o-projeto-em-modo-dfu" class="hash-link" aria-label="Link direto para o título" title="Link direto para o título">​</a></h3>
 <p>A primeira compilação nós vamos fazer usando o modo DFU, que já vem por padrão no ESP32-S2 permitindo o upload através da USB:</p>
 <p>Para crie a imagem DFU:</p>
 <div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">idf.py dfu</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copiar o código para a área de transferência" title="Copiar" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<p>A primeira compilação pode demorar um pouco. Da até pra ir pegar um caf é ;)</p>
+<p>A primeira compilação pode demorar um pouco. Da até pra ir pegar um café ;)</p>
 <p>Após a compilação, conecte a Franzininho WiFi no computador. Antes de fazermos o upload é necessário entrar no modo DFU. Para entrar no modo DFU pressione as teclas na seguinte sequencia:</p>
 <ol>
 <li>pressione e segure a tecla BOOT</li>
