@@ -71,10 +71,11 @@ while True:
 	leitura_LDR = ldr.read_u16() * fator_conversao
 	utime.sleep(1)
 	print(leitura_LDR)
-	if (leitura_LDR < 1):
-   	led_red.value(1)
+
+	if leitura_LDR < 1:
+   		led_red.value(1)
 	else:
-    	led_red.value(0)
+    		led_red.value(0)
 ```
 
 ## Explicação do código
