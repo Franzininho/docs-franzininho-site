@@ -44,7 +44,7 @@ The Franzininho WiFi can be programmed with the following environments and frame
 
 | Environment | Level | Documentation |
 | --- | --- | --- |
-| Arduino | Beginner / Intermediate | [Arduino Examples](/docs/franzininho-wifi/exemplos-arduino/pisca-led) |
+| Arduino | Beginner / Intermediate | [Arduino Examples](/docs/franzininho-wifi/exemplos-arduino/primeiros-passos) |
 | CircuitPython | Beginner / Intermediate | [CircuitPython Examples](/docs/franzininho-wifi/exemplos-circuitpython/primeiros-passos) |
 | MicroPython | Beginner / Intermediate | [MicroPython Examples](/docs/franzininho-wifi/exemplos-micropython/primeiros-passos) |
 | ESP-IDF | Advanced | [ESP-IDF Examples](/docs/franzininho-wifi/exemplos-espidf/primeiros-passos) |
