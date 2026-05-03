@@ -15,7 +15,7 @@ const algoliaConfig = process.env.ALGOLIA_APP_ID
 
 module.exports = {
   title: 'Franzininho',
-  tagline: 'Um ecossistema aberto para aprender, criar e evoluir em sistemas embarcados, IoT e inteligência artificial na prática.',
+  tagline: 'Um ecossistema aberto para aprender, criar e evoluir em sistemas embarcados, IoT e inteligência artificial embarcada na prática.',
   url: 'https://docs.franzininho.com.br/',
   baseUrl: '/',
   onBrokenLinks: 'throw',

@@ -195,13 +195,13 @@
     "message": "Franzininho Documentation"
   },
   "homepage.meta.description": {
-    "message": "Franzininho project documentation for hands-on learning with embedded systems, IoT, and artificial intelligence."
+    "message": "Franzininho project documentation for hands-on learning with embedded systems, IoT, and embedded artificial intelligence."
   },
   "homepage.hero.kicker": {
     "message": "Open source ecosystem for educational hardware"
   },
   "homepage.hero.subtitle": {
-    "message": "An open ecosystem to learn, create, and grow with embedded systems, IoT, and artificial intelligence through hands-on practice."
+    "message": "An open ecosystem to learn, create, and grow with embedded systems, IoT, and embedded artificial intelligence through hands-on practice."
   },
   "homepage.hero.primaryCta": {
     "message": "Explore documentation"
