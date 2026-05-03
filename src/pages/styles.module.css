@@ -1,38 +1,367 @@
 /* stylelint-disable docusaurus/copyright-header */
 
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
+  background: linear-gradient(
+      120deg,
+      rgba(20, 96, 52, 0.95),
+      rgba(35, 132, 87, 0.92)
+    ),
+    radial-gradient(
+      circle at 80% 10%,
+      rgba(255, 255, 255, 0.2),
+      transparent 30%
+    );
+  color: #fff;
   overflow: hidden;
+  padding: 5.5rem 0 4.5rem;
+  position: relative;
 }
 
-@media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.heroBanner::after {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.08) 1px,
+      transparent 1px
+    ),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-size: 42px 42px;
+  content: "";
+  inset: 0;
+  opacity: 0.45;
+  position: absolute;
+}
+
+.heroInner {
+  align-items: center;
+  display: grid;
+  gap: 3rem;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.75fr);
+  position: relative;
+  z-index: 1;
+}
+
+.heroContent {
+  max-width: 760px;
+}
+
+.heroKicker,
+.sectionHeader span,
+.communityInner span,
+.pathEyebrow {
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.heroKicker {
+  color: rgba(255, 255, 255, 0.78);
+}
+
+.heroTitle {
+  color: #fff;
+  font-size: clamp(3rem, 8vw, 5.7rem);
+  line-height: 1;
+  margin: 0.75rem 0 1rem;
+}
+
+.heroSubtitle {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.25rem;
+  line-height: 1.65;
+  margin: 0 0 2rem;
 }
 
 .buttons {
-  display: flex;
   align-items: center;
-  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
 }
 
-.features {
-  display: flex;
+.heroCta {
+  background: #ffffff;
+  border: 0;
+  box-shadow: 0 16px 36px rgba(5, 46, 28, 0.28);
+  color: #1f6c3f;
+  font-weight: 800;
+  padding: 0.95rem 1.6rem;
+}
+
+.heroCta:hover {
+  background: #f3fff7;
+  color: #174d2e;
+  transform: translateY(-2px);
+}
+
+.heroVisual {
   align-items: center;
-  padding: 2rem 0;
+  display: flex;
+  justify-content: center;
+  min-height: 340px;
+  position: relative;
+}
+
+.heroLogo {
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 999px;
+  box-shadow: 0 28px 80px rgba(5, 46, 28, 0.36);
+  max-width: min(320px, 75vw);
+  padding: 2.25rem;
   width: 100%;
+}
+
+.heroPanel {
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(10, 84, 49, 0.15);
+  border-radius: 8px;
+  bottom: 1.5rem;
+  box-shadow: 0 18px 45px rgba(4, 38, 24, 0.22);
+  color: #173c2d;
+  display: grid;
+  gap: 0.15rem;
+  padding: 1rem 1.25rem;
+  position: absolute;
+  right: 0;
+}
+
+.heroPanel span {
+  color: #567268;
+  font-size: 0.82rem;
+}
+
+.heroPanel strong {
+  font-size: 1.05rem;
+}
+
+.statsSection {
+  background: #f6fbf8;
+  border-bottom: 1px solid #dcece4;
+}
+
+.statsGrid {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  padding-bottom: 1.25rem;
+  padding-top: 1.25rem;
+}
+
+.statItem {
+  align-items: center;
+  background: #fff;
+  border: 1px solid #dbe8e1;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  min-height: 72px;
+  padding: 0.85rem 1rem;
   text-align: center;
 }
 
+.statItem strong {
+  color: #206b43;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.section {
+  padding: 4.5rem 0;
+}
+
+.sectionHeader {
+  margin: 0 auto 2rem;
+  max-width: 760px;
+  text-align: center;
+}
+
+.sectionHeader span,
+.communityInner span,
+.pathEyebrow {
+  color: #237145;
+}
+
+.sectionHeader h2,
+.communityInner h2 {
+  color: #173c2d;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.15;
+  margin: 0.5rem 0 0;
+}
+
+.pathGrid,
+.features {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.pathCard,
+.feature {
+  background: #fff;
+  border: 1px solid #dbe8e1;
+  border-radius: 8px;
+  box-shadow: 0 12px 35px rgba(16, 69, 43, 0.08);
+}
+
+.pathCard {
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  min-height: 240px;
+  padding: 1.5rem;
+  transition: border-color 180ms ease, box-shadow 180ms ease,
+    transform 180ms ease;
+}
+
+.pathCard:hover {
+  border-color: #2c8240;
+  box-shadow: 0 18px 42px rgba(16, 69, 43, 0.14);
+  color: inherit;
+  text-decoration: none;
+  transform: translateY(-3px);
+}
+
+.pathCard h3,
+.feature h3 {
+  color: #173c2d;
+  margin: 0.75rem 0;
+}
+
+.pathCard p,
+.feature p,
+.communityInner p {
+  color: #4a6258;
+  line-height: 1.65;
+}
+
+.pathAction {
+  color: #237145;
+  font-weight: 700;
+  margin-top: auto;
+}
+
+.featuresSection {
+  background: #f8faf7;
+}
+
+.feature {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.featureMedia {
+  align-items: center;
+  display: flex;
+  height: 160px;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+
 .featureImage {
-  height: 200px;
-  width: 200px;
+  height: 140px;
+  width: 140px;
+}
+
+.communitySection {
+  background: #173c2d;
+  color: #fff;
+  padding: 4rem 0;
+}
+
+.communityInner {
+  align-items: center;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: minmax(0, 1fr) auto;
+}
+
+.communityInner span,
+.communityInner h2,
+.communityInner p {
+  color: #fff;
+}
+
+.communityInner p {
+  margin-bottom: 0;
+  max-width: 720px;
+  opacity: 0.84;
+}
+
+.communityActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 4rem 0 3rem;
+  }
+
+  .heroInner,
+  .communityInner {
+    grid-template-columns: 1fr;
+  }
+
+  .heroVisual {
+    min-height: 260px;
+  }
+
+  .pathGrid,
+  .features {
+    grid-template-columns: 1fr;
+  }
+
+  .statsGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .statItem {
+    min-height: 64px;
+  }
+
+  .communityActions {
+    justify-content: flex-start;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .heroBanner {
+    padding: 3rem 0 2.5rem;
+  }
+
+  .heroTitle {
+    font-size: 3rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.05rem;
+  }
+
+  .buttons,
+  .buttons a,
+  .communityActions,
+  .communityActions a {
+    width: 100%;
+  }
+
+  .buttons a,
+  .communityActions a {
+    justify-content: center;
+  }
+
+  .section {
+    padding: 3.25rem 0;
+  }
+
+  .statsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .heroPanel {
+    left: 1rem;
+    right: 1rem;
+  }
 }

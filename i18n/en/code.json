@@ -190,5 +190,101 @@
   "theme.SearchBar.label": {
     "message": "Search",
     "description": "The ARIA label and placeholder for search button"
+  },
+  "homepage.meta.title": {
+    "message": "Franzininho Documentation"
+  },
+  "homepage.meta.description": {
+    "message": "Franzininho project documentation for hands-on learning with embedded systems, IoT, and artificial intelligence."
+  },
+  "homepage.hero.kicker": {
+    "message": "Open source ecosystem for educational hardware"
+  },
+  "homepage.hero.subtitle": {
+    "message": "An open ecosystem to learn, create, and grow with embedded systems, IoT, and artificial intelligence through hands-on practice."
+  },
+  "homepage.hero.primaryCta": {
+    "message": "Explore documentation"
+  },
+  "homepage.highlights.ariaLabel": {
+    "message": "Highlights"
+  },
+  "homepage.highlights.openSource": {
+    "message": "Open Source"
+  },
+  "homepage.highlights.maker": {
+    "message": "Maker"
+  },
+  "homepage.highlights.iot": {
+    "message": "IoT"
+  },
+  "homepage.highlights.embeddedSystems": {
+    "message": "Embedded Systems"
+  },
+  "homepage.highlights.ai": {
+    "message": "Artificial Intelligence"
+  },
+  "homepage.paths.kicker": {
+    "message": "Start here"
+  },
+  "homepage.paths.title": {
+    "message": "Choose a board, open the examples, and start building."
+  },
+  "homepage.paths.eyebrow": {
+    "message": "Documentation"
+  },
+  "homepage.paths.action": {
+    "message": "Open guide"
+  },
+  "homepage.paths.wifi.title": {
+    "message": "Franzininho WiFi"
+  },
+  "homepage.paths.wifi.description": {
+    "message": "Start with connectivity, ESP-IDF, Arduino, MicroPython, and CircuitPython."
+  },
+  "homepage.paths.lab01.title": {
+    "message": "Franzininho WiFi LAB01"
+  },
+  "homepage.paths.lab01.description": {
+    "message": "Experiment with IoT and embedded systems using sensors, interfaces, and integrated resources for the lab."
+  },
+  "homepage.paths.stm32.title": {
+    "message": "Franzininho C0"
+  },
+  "homepage.paths.stm32.description": {
+    "message": "Explore the STM32C0 family with examples for Arduino and STM32CubeIDE."
+  },
+  "homepage.features.kicker": {
+    "message": "Our foundation"
+  },
+  "homepage.features.title": {
+    "message": "Open technology for learning by making."
+  },
+  "homepage.features.openHardware.title": {
+    "message": "Open hardware"
+  },
+  "homepage.features.openHardware.description": {
+    "message": "Our boards and projects are open hardware, with full access to files for study, reproduction, and modification. You can understand how the hardware was designed, adapt it to your needs, and create new products from that foundation."
+  },
+  "homepage.features.openSource.title": {
+    "message": "Open source"
+  },
+  "homepage.features.openSource.description": {
+    "message": "We develop and use open source software, from libraries and examples to firmware and complete integrations. Code is a core part of the learning experience, with transparency to explore, modify, and improve each solution."
+  },
+  "homepage.features.openEducation.title": {
+    "message": "Open education"
+  },
+  "homepage.features.openEducation.description": {
+    "message": "We create practical materials and examples that support your growth, from the first project to real development challenges. Everything is built collaboratively with community support."
+  },
+  "homepage.community.kicker": {
+    "message": "Community"
+  },
+  "homepage.community.title": {
+    "message": "Learn, share projects, and grow together."
+  },
+  "homepage.community.description": {
+    "message": "The documentation is alive: examples, boards, and ideas grow through contributions from people who use, teach, and create with Franzininho."
   }
 }

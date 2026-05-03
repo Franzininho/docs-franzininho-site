@@ -2,7 +2,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 module.exports = {
   title: 'Franzininho',
-  tagline: 'O projeto Franzininho tem o objetivo de incentivar as pessoas na tecnologia através da cultura maker e do faça você mesmo.',
+  tagline: 'Um ecossistema aberto para aprender, criar e evoluir em sistemas embarcados, IoT e inteligência artificial na prática.',
   url: 'https://franzininho.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -25,7 +25,7 @@ module.exports = {
       logo: {
         alt: 'Logo do site',
         src: 'img/logo.svg',
-        href: 'https://franzininho.com.br/',
+        href: '/',
       },
       items: [
         {
