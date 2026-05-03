@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://franzininho.github.io/en/blog</id>
+    <id>https://docs.franzininho.com.br/en/blog</id>
     <title>Franzininho Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://franzininho.github.io/en/blog"/>
+    <link rel="alternate" href="https://docs.franzininho.com.br/en/blog"/>
     <subtitle>Franzininho Blog</subtitle>
-    <icon>https://franzininho.github.io/en/img/favicon.png</icon>
+    <icon>https://docs.franzininho.com.br/en/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://franzininho.github.io/en/blog/welcome</id>
-        <link href="https://franzininho.github.io/en/blog/welcome"/>
+        <id>https://docs.franzininho.com.br/en/blog/welcome</id>
+        <link href="https://docs.franzininho.com.br/en/blog/welcome"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
         <content type="html"><![CDATA[<p>Blog features are powered by the blog plugin. Simply add files to the <code>blog</code> directory. It supports tags as well!</p>
@@ -25,8 +25,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
-        <id>https://franzininho.github.io/en/blog/hello-world</id>
-        <link href="https://franzininho.github.io/en/blog/hello-world"/>
+        <id>https://docs.franzininho.com.br/en/blog/hello-world</id>
+        <link href="https://docs.franzininho.com.br/en/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://v2.docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2 alpha</strong></a>.</p>
@@ -41,8 +41,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hola]]></title>
-        <id>https://franzininho.github.io/en/blog/hola</id>
-        <link href="https://franzininho.github.io/en/blog/hola"/>
+        <id>https://docs.franzininho.com.br/en/blog/hola</id>
+        <link href="https://docs.franzininho.com.br/en/blog/hola"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>

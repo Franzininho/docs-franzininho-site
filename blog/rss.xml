@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Franzininho Blog</title>
-        <link>https://franzininho.github.io/blog</link>
+        <link>https://docs.franzininho.com.br/blog</link>
         <description>Franzininho Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>pt-BR</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://franzininho.github.io/blog/welcome</link>
-            <guid>https://franzininho.github.io/blog/welcome</guid>
+            <link>https://docs.franzininho.com.br/blog/welcome</link>
+            <guid>https://docs.franzininho.com.br/blog/welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
             <content:encoded><![CDATA[<p>Blog features are powered by the blog plugin. Simply add files to the <code>blog</code> directory. It supports tags as well!</p>
@@ -22,8 +22,8 @@
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
-            <link>https://franzininho.github.io/blog/hello-world</link>
-            <guid>https://franzininho.github.io/blog/hello-world</guid>
+            <link>https://docs.franzininho.com.br/blog/hello-world</link>
+            <guid>https://docs.franzininho.com.br/blog/hello-world</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
             <content:encoded><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://v2.docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2 alpha</strong></a>.</p>
@@ -34,8 +34,8 @@
         </item>
         <item>
             <title><![CDATA[Hola]]></title>
-            <link>https://franzininho.github.io/blog/hola</link>
-            <guid>https://franzininho.github.io/blog/hola</guid>
+            <link>https://docs.franzininho.com.br/blog/hola</link>
+            <guid>https://docs.franzininho.com.br/blog/hola</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
