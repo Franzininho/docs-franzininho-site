@@ -202,10 +202,6 @@ function Home() {
 
           <div className={styles.heroVisual} aria-hidden="true">
             <img src={logoUrl} alt="" className={styles.heroLogo} />
-            <div className={styles.heroPanel}>
-              <span>Franzininho</span>
-              <strong>open hardware</strong>
-            </div>
           </div>
         </div>
       </header>
