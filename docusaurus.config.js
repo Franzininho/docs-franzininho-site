@@ -1,9 +1,22 @@
 import {themes as prismThemes} from 'prism-react-renderer';
+require('dotenv').config();
+
+const algoliaConfig = process.env.ALGOLIA_APP_ID
+  ? {
+      algolia: {
+        appId: process.env.ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_SEARCH_API_KEY,
+        indexName: process.env.ALGOLIA_INDEX_NAME,
+        contextualSearch: true,
+        searchParameters: {},
+      },
+    }
+  : {};
 
 module.exports = {
   title: 'Franzininho',
   tagline: 'Um ecossistema aberto para aprender, criar e evoluir em sistemas embarcados, IoT e inteligência artificial na prática.',
-  url: 'https://franzininho.github.io',
+  url: 'https://docs.franzininho.com.br/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -20,6 +33,7 @@ module.exports = {
       theme: prismThemes.dracula,
       darkTheme: prismThemes.github,
     },
+    ...algoliaConfig,
     navbar: {
       title: 'Franzininho',
       logo: {
