@@ -58,6 +58,13 @@ Caso ainda não tenha instalado e configurado o ESP-IDF, acesse o [guia de prime
 
 ### Compilação e gravação
 
+:::important Console USB CDC
+Em projetos novos, configure o console para **USB CDC** antes de gravar:
+**Component config → ESP System Settings → Channel for console output → (X) USB CDC**
+
+Sem essa configuração, a porta USB não funcionará para monitoração.
+:::
+
 Configure o target (se ainda não tiver feito):
 
 ```bash

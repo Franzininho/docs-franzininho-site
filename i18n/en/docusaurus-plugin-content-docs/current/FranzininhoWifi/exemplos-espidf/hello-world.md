@@ -58,6 +58,13 @@ If you have not yet installed and configured ESP-IDF, see the [getting started g
 
 ### Build and Flash
 
+:::important USB CDC Console
+For new projects, configure the console to **USB CDC** before flashing:
+**Component config → ESP System Settings → Channel for console output → (X) USB CDC**
+
+Without this setting, the USB port will not work for monitoring.
+:::
+
 Set the target (if you have not done so already):
 
 ```bash
