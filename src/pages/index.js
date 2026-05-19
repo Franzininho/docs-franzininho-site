@@ -197,6 +197,14 @@ function Home() {
                   Explorar documentação
                 </Translate>
               </Link>
+              <Link
+                className={clsx("button button--lg", styles.heroCtaSecondary)}
+                href="https://discord.gg/H5kENmWGaz"
+              >
+                <Translate id="homepage.hero.secondaryCta">
+                  Comunidade
+                </Translate>
+              </Link>
             </div>
           </div>
 
@@ -235,6 +243,14 @@ function Home() {
               {paths.map((props, idx) => (
                 <PathCard key={idx} {...props} />
               ))}
+            </div>
+            <div className={styles.pathsFooter}>
+              <Link to={docsUrl}>
+                <Translate id="homepage.paths.seeAll">
+                  Ver toda a documentação
+                </Translate>
+                {" →"}
+              </Link>
             </div>
           </div>
         </section>

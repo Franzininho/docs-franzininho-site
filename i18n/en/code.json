@@ -206,6 +206,9 @@
   "homepage.hero.primaryCta": {
     "message": "Explore documentation"
   },
+  "homepage.hero.secondaryCta": {
+    "message": "Community"
+  },
   "homepage.highlights.ariaLabel": {
     "message": "Highlights"
   },
@@ -235,6 +238,9 @@
   },
   "homepage.paths.action": {
     "message": "Open guide"
+  },
+  "homepage.paths.seeAll": {
+    "message": "See all documentation"
   },
   "homepage.paths.wifi.title": {
     "message": "Franzininho WiFi"

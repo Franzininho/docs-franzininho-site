@@ -93,6 +93,37 @@
   transform: translateY(-2px);
 }
 
+.heroCtaSecondary {
+  border: 2px solid rgba(255, 255, 255, 0.65);
+  color: #ffffff;
+  font-weight: 700;
+  padding: 0.95rem 1.6rem;
+}
+
+.heroCtaSecondary:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: #ffffff;
+  color: #ffffff;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.pathsFooter {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.pathsFooter a {
+  color: var(--ifm-color-primary);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.pathsFooter a:hover {
+  color: var(--ifm-color-primary-dark);
+  text-decoration: none;
+}
+
 .heroVisual {
   align-items: center;
   display: flex;
