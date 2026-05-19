@@ -69,9 +69,7 @@ Se desejar fazer o download manualmente, consulte [estas instruções](https://d
 
 Além do ESP-IDF, você também precisa instalar as ferramentas usadas por ele: compilador, depurador, pacotes Python, etc.
 
-#### Windows
-
-O ESP-IDF Tools Installer instala todas as ferramentas automaticamente. Se preferir instalar manualmente, abra o Prompt de Comando:
+**Windows:** O ESP-IDF Tools Installer instala todas as ferramentas automaticamente. Se preferir instalar manualmente, abra o Prompt de Comando:
 
 ```bash
 cd %userprofile%\esp\esp-idf
@@ -85,7 +83,7 @@ cd ~/esp/esp-idf
 ./install.ps1
 ```
 
-#### Linux e macOS
+**Linux e macOS:**
 
 ```bash
 cd ~/esp/esp-idf
@@ -103,25 +101,19 @@ cd ~/esp/esp-idf
 
 As ferramentas instaladas ainda não estão no PATH. Para usá-las na linha de comando, você precisa carregar o script de configuração.
 
-#### Windows
-
-O ESP-IDF Tools Installer cria um atalho "ESP-IDF Command Prompt" no menu Iniciar que configura todas as variáveis automaticamente. Basta abrí-lo para trabalhar.
+**Windows:** O ESP-IDF Tools Installer cria um atalho "ESP-IDF Command Prompt" no menu Iniciar que configura todas as variáveis automaticamente. Basta abrí-lo para trabalhar.
 
 Caso precise configurar manualmente:
 
-**Prompt de Comando:**
-
 ```bash
+# Prompt de Comando
 %userprofile%\esp\esp-idf\export.bat
-```
 
-**Windows PowerShell:**
-
-```bash
+# Windows PowerShell
 .$HOME/esp/esp-idf/export.ps1
 ```
 
-#### Linux e macOS
+**Linux e macOS:**
 
 ```bash
 . $HOME/esp/esp-idf/export.sh
@@ -155,14 +147,14 @@ Agora que o ambiente está instalado, vamos usar o exemplo blink para validar tu
 
 Copie o projeto blink para preservar o original na pasta do IDF:
 
-#### Windows
+**Windows:**
 
 ```bash
 cd %userprofile%\esp
 xcopy /e /i %IDF_PATH%\examples\get-started\blink blink
 ```
 
-#### Linux e macOS
+**Linux e macOS:**
 
 ```bash
 cd ~/esp
@@ -199,7 +191,7 @@ Anote a porta — você vai precisar dela no Passo 4.
 
 Configure o target e abra o menuconfig:
 
-#### Windows
+**Windows:**
 
 ```bash
 cd %userprofile%\esp\blink
@@ -207,7 +199,7 @@ idf.py set-target esp32s2
 idf.py menuconfig
 ```
 
-#### Linux e macOS
+**Linux e macOS:**
 
 ```bash
 cd ~/esp/blink
@@ -309,4 +301,4 @@ Para trabalhar com a extensão do VS Code, assista ao vídeo:
 
 Com o ambiente configurado, explore o próximo exemplo:
 
-- [Hello World com ESP-IDF](hello-world) — entenda a estrutura de um projeto ESP-IDF e seus componentes básicos
+- [Hello World com ESP-IDF](hello-world.md) — entenda a estrutura de um projeto ESP-IDF e seus componentes básicos

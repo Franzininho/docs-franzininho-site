@@ -299,4 +299,4 @@ To use the VS Code extension instead, watch the video:
 
 With the environment set up, explore the next example:
 
-- [Hello World with ESP-IDF](hello-world) — understand the structure of an ESP-IDF project and its basic components
+- [Hello World with ESP-IDF](hello-world.md) — understand the structure of an ESP-IDF project and its basic components
