@@ -2,7 +2,7 @@
 id: circuitpython-primeiros-passos
 title: Primeiros Passos
 slug: /franzininho-wifi/exemplos-circuitpython/primeiros-passos
-description: Aprenda dar os primeiros passo no uso do CircuitPython na Franzininho WiFi
+description: Aprenda a dar os primeiros passos no uso do CircuitPython na Franzininho WiFi
 author: Diana Santos
 ---
 
@@ -26,11 +26,11 @@ CircuitPython é uma linguagem de programação projetada para simplificar a exp
 
 O CircuitPython traz o Python para dentro dos microcontroladores. Você pode saber mais sobre o projeto CircuitPython aqui: [learn.adafruit.com/circuitpython](http://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)
 
-A placa Franzininho WiFi foi [adicionada ao CircuitPython](https://circuitpython.org/downloads?q=franzininho) e todas as releases do CircuitPyhton serão compilados para ela. Esse foi um passo muito importante para o projeto e possibilitará o desenvolvimento de aplicações com o ESP32-S2 usando a linguagem Python.
+A placa Franzininho WiFi foi [adicionada ao CircuitPython](https://circuitpython.org/downloads?q=franzininho) e todas as releases do CircuitPython serão compilados para ela. Esse foi um passo muito importante para o projeto e possibilitará o desenvolvimento de aplicações com o ESP32-S2 usando a linguagem Python.
 
 ## Instalação
 
-Antes de começar a diversão de programar a Franzininho WIFI com o CircuitPython, precisamos realizar alguns passos para configuração. Nesta etapa gravaremos o firmware do CircuitPython na Franzininho WiFi e prepararemos o ambiente para você usar sua placa.
+Antes de começar a diversão de programar a Franzininho WiFi com o CircuitPython, precisamos realizar alguns passos para configuração. Nesta etapa gravaremos o firmware do CircuitPython na Franzininho WiFi e prepararemos o ambiente para você usar sua placa.
 
 :::info
 Se sua placa já está com o CircuitPython, você não precisa fazer essa etapa. Para verificar se sua placa está com CircuitPython plugue-a no computador e veja se é criado um dispositivo de armazenamento chamado CIRCUITPY. Caso contrário, faça o procedimento abaixo.

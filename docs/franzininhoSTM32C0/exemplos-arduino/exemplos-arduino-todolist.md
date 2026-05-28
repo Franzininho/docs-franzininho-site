@@ -5,7 +5,7 @@ slug: /franzininho-c0/arduino-todolist
 description: Todo list para exemplos com Arduino
 ---
 
-A tabela abaixo exibe o mapemento e status dos exemplos planejados para explorar a programação da placa Franzininho C0 na Arduino IDE usando o pacote STM32duino.
+A tabela abaixo exibe o mapeamento e status dos exemplos planejados para explorar a programação da placa Franzininho C0 na Arduino IDE usando o pacote STM32duino.
 
 Fique a vontade para colaborar na construção dos materiais e códigos. Outros exemplos podem ser adicionados. Converse na comunidade.
 

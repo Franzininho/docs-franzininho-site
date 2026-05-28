@@ -41,11 +41,11 @@ pin = digitalio.DigitalInOut(board.NEOPIXEL)
 pin.direction = digitalio.Direction.OUTPUT
 
 while True:
-    print("Digite a intesidade da cor vermelho:")
+    print("Digite a intensidade da cor vermelho:")
     r = int(input())
-    print("Digite a intesidade da cor verde:")
+    print("Digite a intensidade da cor verde:")
     g = int(input())
-    print("Digite a intesidade da cor azul:")
+    print("Digite a intensidade da cor azul:")
     b = int(input())
     cor = bytearray([r, g, b])
     neopixel_write.neopixel_write(pin, cor)
@@ -92,7 +92,7 @@ pin.direction = digitalio.Direction.OUTPUT
 
 Note que primeiro mapeamos o pino e depois configuramos a direção.
 
-Diferentemente de outros framework como Arduino, ESP-IDF e a maioria dos framework escrito em C/C++, o interpretador do Python já habilitar UART para a comunicação serial por padrão, dispensado a inicialização da serial como seria no Arduino por exemplo.
+Diferentemente de outros frameworks como Arduino, ESP-IDF e a maioria dos frameworks escritos em C/C++, o interpretador do Python já habilita a UART para a comunicação serial por padrão, dispensando a inicialização da serial como seria no Arduino por exemplo.
 
 Fragmento de código necessário para configurar a comunicação serial no Arduino:
 

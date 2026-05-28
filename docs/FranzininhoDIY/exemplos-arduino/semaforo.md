@@ -23,7 +23,7 @@ Faça a seguinte ligação no protoboard:
 
 ![circuito semaforo](img/semaforo/semaforo-circuito.png)
 
-Sketch
+## Sketch
 
 ```cpp
 /*

@@ -10,7 +10,7 @@ author: Sthefania Fernandes
 
 Neste artigo, exploraremos como utilizar o sensor DHT11, presente na Franzininho WiFi Lab01, em conjunto com um display OLED para criar um sistema de monitoramento de temperatura em tempo real utilizando MicroPython.
 
-Detalharemos como os coletar dados de temperatura e umidade e, em seguida, exibir essas informações no display OLED, juntamente da data e hora. O intuito é ter uma nova atualização a cada minuto para acompanhar as variações do ambiente observado.
+Detalharemos como coletar dados de temperatura e umidade e, em seguida, exibir essas informações no display OLED, juntamente da data e hora. O intuito é ter uma nova atualização a cada minuto para acompanhar as variações do ambiente observado.
 
 
 ## Sensor DTH11

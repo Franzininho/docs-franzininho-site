@@ -98,7 +98,7 @@ void loop()
 
 ## Análise do código
 
-Na primeira parte do código adicionamo as bibliotecas a serem usadas na aplicação e a instancia do DHT11:
+Na primeira parte do código adicionamos as bibliotecas a serem usadas na aplicação e a instancia do DHT11:
 ```cpp
 #define DHTPIN 2 
 #define DHTTYPE DHT11

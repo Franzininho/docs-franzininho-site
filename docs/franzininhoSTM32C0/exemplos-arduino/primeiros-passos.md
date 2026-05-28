@@ -9,7 +9,7 @@ Os passos a seguir mostram a instalação e configuração da IDE Arduino para u
 
 1. Instale a **IDE do Arduino** (se você não tiver instalada) de https://www.arduino.cc/en/software. As telas apresentadas foram capturadas com a versão 2.2.1 para Windows.
 
-2. Instale o **STM32CubeProgrammer** de https://www.st.com/en/development-tools/stm32cubeprog.html. Pode ser necessáro fazer um pequeno cadastro para baixar o instalador.
+2. Instale o **STM32CubeProgrammer** de https://www.st.com/en/development-tools/stm32cubeprog.html. Pode ser necessário fazer um pequeno cadastro para baixar o instalador.
 
 3. Execute a IDE do Arduino. Entre em **File**, **Preferences**, Additional Boards Manager URLs e acrescente `https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json`:
 

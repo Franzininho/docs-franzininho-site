@@ -5,7 +5,7 @@ slug: /franzininho-diy/exemplos-avr-libc/todo
 description: Mapeamento dos conteúdos para exemplos com a AVR LibC
 ---
 
-A tabela abaixo exibe o mapemento e status dos exemplos planejados para explorar a AVR LibC com a Franzininho DIY. 
+A tabela abaixo exibe o mapeamento e status dos exemplos planejados para explorar a AVR LibC com a Franzininho DIY. 
 
 Fique a vontade para colaborar na construção dos materiais e códigos.
 

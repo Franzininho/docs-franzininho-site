@@ -2,13 +2,13 @@
 id: arduino
 title: Primeiros Passos
 slug: /franzininho-wifi/exemplos-arduino/primeiros-passos
-description: Aprenda dar os primeiros passo no uso do Arduino na Franzininho WiFi
+description: Aprenda a dar os primeiros passos no uso do Arduino na Franzininho WiFi
 author: Fábio Souza
 ---
 
 A Franzininho WiFi foi adicionada recentemente a plataforma Arduino através do pacote para ESP32 da Espressif. Essa foi uma contribuição do Pedro Minatel para o projeto Franzininho. Pedro enviou um PR com a adição da Franzininho WiFi no modo CDC e também como MSC.  
 
-Nesse tutorial aprenderemos configurar a Arduino IDE e fazer o upload de código para a placa Franzininho WiFi.  
+Nesse tutorial aprenderemos a configurar a Arduino IDE e fazer o upload de código para a placa Franzininho WiFi.  
 
 Usamos como base para esse tutorial a documentação da Espressif para Arduino: [https://docs.espressif.com/projects/arduino-esp32/en/latest/](https://docs.espressif.com/projects/arduino-esp32/en/latest/)  
 
@@ -74,7 +74,7 @@ Colocando a placa em modo DFU
 
 Para fazer carregar o código na placa clique em Upload:
 
-![Uoload](img/primeiros-passos/05-upload.png)
+![Upload](img/primeiros-passos/05-upload.png)
 
 Abra o monitor serial e configure a velocidade para 115200 bps:
 

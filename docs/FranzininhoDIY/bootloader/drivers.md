@@ -7,7 +7,7 @@ description: Instalação dos drivers USB para correto funcionamento
 
 Até aqui você possui a placa pronta!
 
-Agora precisamos instalar os drivers necessário para que a USB da Franzininho DIY possa receber os códigos através da Arduino IDE.
+Agora precisamos instalar os drivers necessários para que a USB da Franzininho DIY possa receber os códigos através da Arduino IDE.
 
 A seguir são apresentados os passos para correta configuração, conforme o sistema operacional usado.
 

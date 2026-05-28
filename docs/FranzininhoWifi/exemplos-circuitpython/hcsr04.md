@@ -36,7 +36,7 @@ A tabela abaixo resume as conexões entre o sensor e a Franzininho:
 
 Neste exemplo, vamos fazer o uso de uma biblioteca que implementa os métodos necessários para uso do sensor.
 
-As bibliotecas para o CircuitPython podem ser obtidas através do endereço [https://circuitpython.org/libraries](https://circuitpython.org/libraries). Escolha e baixe o arquivo de acordo com a versão do CircuitPyhthon que você tem instalado na Franzininho WiFi.
+As bibliotecas para o CircuitPython podem ser obtidas através do endereço [https://circuitpython.org/libraries](https://circuitpython.org/libraries). Escolha e baixe o arquivo de acordo com a versão do CircuitPython que você tem instalado na Franzininho WiFi.
 
 ![Bibliotecas](img/display-oled-i2c/libraries.png)
 

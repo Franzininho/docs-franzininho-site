@@ -30,7 +30,7 @@ Digite o código abaixo no arquivo code.py que está no diretório CIRCUITPY:
 #Leitura de Entrada analógica -  Exemplo 2
 import time            #importa módulo de temporização
 import board            #importa módulo da placa
-from analogio import AnalogIn    #immport módulo de entrada analógica
+from analogio import AnalogIn    #import módulo de entrada analógica
 
 analog_in = AnalogIn(board.IO1) #mapeia pino analógico
 
@@ -111,7 +111,7 @@ Digite o seguinte código:
 #Leitura de Entrada analógica - Exemplo 3
 import time            #importa módulo de temporização
 import board            #importa módulo da placa
-from analogio import AnalogIn    #immport módulo de entrada analógica
+from analogio import AnalogIn    #import módulo de entrada analógica
 from digitalio import DigitalInOut, Direction
 
 analog_in = AnalogIn(board.IO1) #mapeia pino analógico

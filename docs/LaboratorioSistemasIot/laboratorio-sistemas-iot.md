@@ -9,7 +9,7 @@ description: O que é a placa Laboratório de Sistemas Embarcados e IoT
 
 A placa _Laboratório de Sistemas Embarcados e IoT_ é uma placa de circuito impresso para o ensino de programação em placas microcontroladas. Esta placa contém uma série de periféricos que permitem a exploração de conceitos relacionados ao uso de placas microcontroladas. A conexão desses periféricos já está de certa forma "embutida" na placa sendo necessária apenas a ativação dos componentes através da conexão de pinos de ativação associados ao periférico.
 
-Esta placa foi desevolvida para ser usada em conjunto com a placa Franzininho Wifi. Sendo assim, foram adicionadas na placa barras de pinos que permitam a conexão desta placa com facilidade. No entanto, é possível também utilizar a placa com outras placas microcontroladas, como a placa Arduino Uno através de um adaptador.
+Esta placa foi desenvolvida para ser usada em conjunto com a placa Franzininho Wifi. Sendo assim, foram adicionadas na placa barras de pinos que permitam a conexão desta placa com facilidade. No entanto, é possível também utilizar a placa com outras placas microcontroladas, como a placa Arduino Uno através de um adaptador.
 
 Além dos periféricos padrão, também estão disponíveis na placa conectores extra que permitem a utilização das portas da Franzininho Wifi para fazer conexões externas caso os periféricos da placa não sejam satisfatórios.
 
@@ -37,7 +37,7 @@ Além dos periféricos padrão, também estão disponíveis na placa conectores 
 
 Os pinos de ativação disponíveis na placa são dois pinos macho localizados nas trilhas entre um pino de um componente e o pino onde este componente se conecta no socket da placa microcontrolada. Para ativar um pino de ativação, basta fazer a ligação dos dois pinos macho através de um conector, o que permite que as conexões corretas sejam realizadas rapidamente.
 
-Estes pinos possuem uma codificação baseada no sistema hexadecimal que se encontra do lado do pino de ativação onde o primeiro algorismo indica a função do pino, e o segundo indica a numeração dele. A lista de pinos e funções pode ser vista na tabela abaixo:
+Estes pinos possuem uma codificação baseada no sistema hexadecimal que se encontra do lado do pino de ativação onde o primeiro algarismo indica a função do pino, e o segundo indica a numeração dele. A lista de pinos e funções pode ser vista na tabela abaixo:
 
 | Letra |              Significado              |
 | :---: | :-----------------------------------: |
@@ -50,7 +50,7 @@ Estes pinos possuem uma codificação baseada no sistema hexadecimal que se enco
 |   D   |   Pinos ligados em portas Digitais    |
 |   E   | Pinos ligados nas mesmas portas que D |
 
-Devido à essa codificação, os pinos de ativação acabaram com numerações que não possuem relação com os pinos da Franzininho Wifi. Visando sanar eventuais problemas ligados a essa relação, a correpondência entre os pinos de ativação e os pinos da Franzininho Wifi se encontra impressa na PCB.
+Devido à essa codificação, os pinos de ativação acabaram com numerações que não possuem relação com os pinos da Franzininho Wifi. Visando sanar eventuais problemas ligados a essa relação, a correspondência entre os pinos de ativação e os pinos da Franzininho Wifi se encontra impressa na PCB.
 
 Além disso, também é possível usar a biblioteca laboratorioFW, que faz o mapeamento dos pinos da placa Franzininho Wifi para os códigos dos pinos de ativação, facilitando assim ainda mais o uso desta ferramenta.
 

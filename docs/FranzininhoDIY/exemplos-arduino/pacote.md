@@ -47,7 +47,7 @@ Agora vamos carregar o Sketch para a placa. Clique no botão **Carregar**:
 
 Após a compilação será exibida a seguinte mensagem:
 
-![MEnsagem](img/pacote/mensagem.png)
+![Mensagem](img/pacote/mensagem.png)
 
 
 Conecte a placa na porta USB. Caso a placa ja esteja conectada pressione o botão de reset ao ver essa mensagem. O código será carregado para a placa:

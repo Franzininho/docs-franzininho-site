@@ -29,7 +29,7 @@ Veja no video abaixo os passos para gravação e depuração da Franzininho DIY 
 ## Links
 - Adicionar suporte da placa Franzininho na IDE Arduino (e Sloeber): https://raw.githubusercontent.com/lcgamboa/franzininho-arduino-package/master/package_franzininho_lcgamboa_index.json
 - Exemplos AVR libc: https://github.com/Franzininho/exemplos-avr-libc
-- Donwload do Sloeber IDE (Eclipse): https://eclipse.baeyens.it/
+- Download do Sloeber IDE (Eclipse): https://eclipse.baeyens.it/
 
 ## Observação
 - Para instalar o suporte ao GDB instalar o suporte ao "arduino megaAVR boards" no Sloeber (passo que deu errado no vídeo)

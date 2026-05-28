@@ -13,7 +13,7 @@ Ela é fornecida em formato de Kit para soldar, não recomendamos que você adqu
 
 ![Kit Franzininho DIY](img/kit-franzininho-diy.png)
 
-É uma excelente opção para oficinas de Soldagem eletrônica e primeiros passos com a programação Arduino. Com componentes fáceis de identificar e também de soldar, permite que qualquer pessoa com pouco ou nenhum conhecimento em soldagem consiga montar a sua placa tranquilamente e criar em pouco tempo projetos como, automação, robôs, jogos entre outros(Veja os exemplos em nossa documentação).
+É uma excelente opção para oficinas de Soldagem eletrônica e primeiros passos com a programação Arduino. Com componentes fáceis de identificar e também de soldar, permite que qualquer pessoa com pouco ou nenhum conhecimento em soldagem consiga montar a sua placa tranquilamente e criar em pouco tempo projetos como, automação, robôs, jogos entre outros (Veja os exemplos em nossa documentação).
 
 ![Oficina Franzininho DIY](img/oficina-franzininho-diy.jpg)
 
@@ -45,7 +45,7 @@ Ainda é necessário ajustar no software
 
 ## Documentação
 
-Ela pode ser programada diretamente na IDE do Arduino inclusive com Ardublock. também pode ser programada em linguagem C usando IDE mais avançadas.
+Ela pode ser programada diretamente na IDE do Arduino, inclusive com Ardublock. Também pode ser programada em linguagem C usando IDEs mais avançadas.
 - [Esquemático](https://github.com/Franzininho/franzininho-diy-board/raw/main/Franzininho.pdf)
 - [Repositório do Hardware](https://github.com/Franzininho/franzininho-diy-board)
 - [e-book Franzininho - Monte e Programe seu Próprio Arduino](http://eepurl.com/gbR4P1)

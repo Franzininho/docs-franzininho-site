@@ -6,7 +6,7 @@ description: Aprenda como gravar o MicroPython na Franzininho WiFi usando a ferr
 author: Sthefania Fernandes
 ---
 
-A Franzininho WIFI é uma placa de desenvolvimento de hardware de código aberto, baseada no ESP32-S2 e criada no Brasil. A sua finalidade principal é tornar o desenvolvimento de projetos eletrônicos mais acessível a makers, entusiastas e desenvolvedores brasileiros.
+A Franzininho WiFi é uma placa de desenvolvimento de hardware de código aberto, baseada no ESP32-S2 e criada no Brasil. A sua finalidade principal é tornar o desenvolvimento de projetos eletrônicos mais acessível a makers, entusiastas e desenvolvedores brasileiros.
 
 A placa pode ser programada de várias maneiras, adequando-se tanto a iniciantes quanto a desenvolvedores experientes.
 

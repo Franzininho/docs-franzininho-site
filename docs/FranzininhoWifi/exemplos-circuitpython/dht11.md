@@ -2,11 +2,11 @@
 id: circuitpython-dht11
 title: Sensor de temperatura e umidade DHT11
 slug: /franzininho-wifi/exemplos-circuitpython/dht11
-description: Nesse exemplo aprenderemos usar ler valores de temperatura e umidade com o sensor DHT11 usando o CircuitPython.
+description: Nesse exemplo aprenderemos a ler valores de temperatura e umidade com o sensor DHT11 usando o CircuitPython.
 author: Cláudio Luís Vieira Oliveira
 ---
 
-Nesse exemplo aprenderemos usar ler valores de temperatura e umidade com o sensor DHT11.
+Nesse exemplo aprenderemos a ler valores de temperatura e umidade com o sensor DHT11.
 
 ## Materiais necessários
 
@@ -29,7 +29,7 @@ Realize a montagem do circuito da maneira indicada pela figura a seguir:
 
 Para usar o sensor DHT com a Franzininho WiFi, precisamos instalar o módulo **adafruit_dht** na placa antes de criarmos nosso código.
 
-As bibliotecas para o CircuitPython podem ser obtidas através do endereço [https://circuitpython.org/libraries](https://circuitpython.org/libraries). Escolha e baixe o arquivo de acordo com a versão do CircuitPyhthon que você tem instalado na Franzininho WiFi.
+As bibliotecas para o CircuitPython podem ser obtidas através do endereço [https://circuitpython.org/libraries](https://circuitpython.org/libraries). Escolha e baixe o arquivo de acordo com a versão do CircuitPython que você tem instalado na Franzininho WiFi.
 
 Em seguida, copie o seguinte arquivo diretamente para a pasta **lib** do sistema de arquivos da Franzininho WiFi:
 - adafruit_dht.mpy

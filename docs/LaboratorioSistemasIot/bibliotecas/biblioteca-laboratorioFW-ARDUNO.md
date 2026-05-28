@@ -12,7 +12,7 @@ Nesta biblioteca é possível encontrar o mapeamento entre a pinagem da placa Ar
 
 ## Como instalar a biblioteca
 
-1. Faça o donwload da biblioteca em formato zip clicando em **Code** e depois em **Download ZIP**
+1. Faça o download da biblioteca em formato zip clicando em **Code** e depois em **Download ZIP**
 
 ![](./../img/download-zip.png)
 
@@ -28,12 +28,12 @@ Nesta biblioteca é possível encontrar o mapeamento entre a pinagem da placa Ar
 
 Para utilizar a biblioteca basta incluí-la no seu arquivo de código com a linha `#include<laboratorioFW_ARDUNO.h>`. Depois disso, você pode utilizar os códigos dos pinos de ativação na placa dentro do seu código.
 
-**Importante : Os algorismos do código do pino de ativação são separados por um caractere de `_`, ou seja o pino de ativação C0 pode ser acessado no código através do código C_0 e assim por diante.**
+**Importante : Os algarismos do código do pino de ativação são separados por um caractere de `_`, ou seja o pino de ativação C0 pode ser acessado no código através do código C_0 e assim por diante.**
 
 ## Exemplo de utilização:
 
 ```c
-#include <laborarotioFW_ARDUNO.h>
+#include <laboratorioFW_ARDUNO.h>
 
 #define led A_1
 

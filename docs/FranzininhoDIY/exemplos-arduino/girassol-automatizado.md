@@ -19,7 +19,7 @@ Nesse exemplo vamos fazer um girassol automatizado que se movimenta conforme a p
 ## Circuito
 
 
-No protoboard você deve inserir o foto resistores e o servo motoro, conforme a imagem abaixo:
+No protoboard você deve inserir os fotoresistores e o servo motor, conforme a imagem abaixo:
 
 ![Circuito](img/girassol-automatizado/girassol-atualizado.png)
 
@@ -36,11 +36,11 @@ Nesse exemplo é de um girassol automatizado com dois fotos resistores,  um serv
 
 #include <Servo.h>
 
-int sensor = A;
+int sensor = A1;
 int servoMotor = 1;
 
-int valorSensor =0;
-int analogServo = 90;
+int valorSensor = 0;
+int anguloServo = 90;
 
 Servo servo;
 
@@ -55,7 +55,7 @@ void loop() {
  {
    if(anguloServo < 170)anguloServo++;
  }
- if(valorSensor = >512)
+ if(valorSensor >= 512)
  {
    if(anguloServo > 10)anguloServo--;
  }
@@ -68,7 +68,7 @@ delay(50);
 
 ## Video explicativo
 
-Este projeto foi feiro para colaborar no projeto Co.Lab da Red Hat, confira esse e outros na plataforma:https://www.redhat.com/pt-br/colab-repo
+Este projeto foi feito para colaborar no projeto Co.Lab da Red Hat, confira esse e outros na plataforma:https://www.redhat.com/pt-br/colab-repo
 
 ### Co.Lab | Workshop: Robótica Educacional - Aprenda sobre Ciência da Natureza e Eletrônica (Parte 1)
 

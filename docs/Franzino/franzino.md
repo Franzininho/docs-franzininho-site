@@ -11,12 +11,12 @@ A placa Franzino é um Arduino standalone de baixo custo. Como seu próprio nome
 
 Diferente dos standalones disponíveis no mercado, a placa Franzino possui pinagem Arduino UNO Rev 3 e conector para fácil ligação da interface serial. A facilidade de acesso aos pinos da interface serial, possibilita que você ligue módulos de comunicação conforme a necessidade do projeto. Você conseguirá facilmente ligar conversores de níveis seriais como: USB, RS232, RS485 e até mesmo um módulo Bluetooth, sem a necessidade do uso de shields.
 
-A Franzino vem com o bootloader do Arduino UNO facilitando o processo de upload do seu scketch. Você poderá facilmente fazer o upload do seu sketch para placa usando um conversor USB/Serial, seguindo os mesmos passos que já está acostumado a fazer com a placa Arduino UNO.
+A Franzino vem com o bootloader do Arduino UNO facilitando o processo de upload do seu sketch. Você poderá facilmente fazer o upload do seu sketch para placa usando um conversor USB/Serial, seguindo os mesmos passos que já está acostumado a fazer com a placa Arduino UNO.
 
 ## Características
 
 - Pinagem Padrão UNO R3;
-- Microcontrolador ATmega328 pu ATmega328P;
+- Microcontrolador ATmega328 ou ATmega328P;
 - Alimentação: 7,5 V à 20 V DC;
 - Proteção contra inversão de polaridade da fonte;
 - Conector para ligação de interface serial;
@@ -27,7 +27,7 @@ A seguir é apresentada a pinagem para interface serial:
 
 ![pinagem](img/pinout.png)
 
-Os pino D2 e D4 podem ser utilizados para uma comunicação soft serial, como pino de controle da comunicação RS485 ou outras aplicações de entrada ou saída.
+Os pinos D2 e D4 podem ser utilizados para uma comunicação soft serial, como pino de controle da comunicação RS485 ou outras aplicações de entrada ou saída.
 
 Outra vantagem interessante é que as linhas de alimentação(VCC e GND) também estão disponíveis nesse conector.
 

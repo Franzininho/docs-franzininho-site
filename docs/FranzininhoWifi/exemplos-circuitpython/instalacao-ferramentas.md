@@ -248,7 +248,7 @@ Então aparecerá o conjunto de pinos disponíveis na Franzininho Wifi.
 
 ![imagem6](img/instalando-ferramentas/0x30_picocom_CircuitPython.png)
 
-Esse foi apenas uma experiência rápia para acesso ao REPL. Essa ferramenta nos ajudará a testar códigos ou dispositivos rapidamente.
+Esse foi apenas uma experiência rápida para acesso ao REPL. Essa ferramenta nos ajudará a testar códigos ou dispositivos rapidamente.
 
 Para editar códigos maiores e projetos que você precisa salvar, recomendamos que edite no arquivo code.py
 
@@ -257,7 +257,7 @@ Para acessar esse arquivo, abra o dispositivo de armazenamento (CIRCUITPY):
 ![imagem7](img/instalando-ferramentas/0x31_picocom_CircuitPython.png)
 
 
-Agora veremos o que é possível fazer com o CircuitPyhton. Bora lá?
+Agora veremos o que é possível fazer com o CircuitPython. Bora lá?
 
 
 ## Ferramentas Alternativas

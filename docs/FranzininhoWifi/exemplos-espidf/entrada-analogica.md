@@ -19,7 +19,7 @@ Nesse exemplo vamos entender como usar o Conversor Analógico-Digital  (Analog t
 
 ## Desenvolvimento
 
-Um potenciômetro é um dispositivo analógico rotativo operado mecanicamente por meio de Um potenciômetro é um dispositivo analógico rotativo operado mecanicamente por meio de 3 terminais, ele fornece uma quantidade variável de resistência quando seu eixo é girado. Quando uma tensão é aplicada nos terminais do potenciômetro, que está conectado a uma entrada analógica, conseguimos medir uma resistência produzida pelo potenciômetro como um valor analógico.
+Um potenciômetro é um dispositivo analógico rotativo operado mecanicamente por meio de 3 terminais, ele fornece uma quantidade variável de resistência quando seu eixo é girado. Quando uma tensão é aplicada nos terminais do potenciômetro, que está conectado a uma entrada analógica, conseguimos medir uma resistência produzida pelo potenciômetro como um valor analógico.
 
 ![potenciometro](img/0x03-entrada-analogica/1.png)
 
@@ -29,13 +29,13 @@ Conecte os três fios do potenciômetro à sua placa. O primeiro fio vai de um d
 
 Quando se gira o potenciômetro, altera-se a resistência, impactando diretamente no pino central do potenciômetro, portanto, muda-se a tensão. Quando o eixo é girado no sentido direito a tensão se aproxima de 3,3V, ao contrário se aproxima de 0. Essa tensão que você está lendo na entrada analógica.
 
-A Franzininho WIFI possui 20 entradas de ADC, sendo que o ADC1 possui 10 canais configurados do GPIO1 ao GPIO10, já o ADC2 possui 10 canais configurados do GPIO11 ao GPIO20. O conversor analógico-digital da ESP32-S2 que iremos utilizar possui 12bits de resolução, portanto, ele lê a tensão e a converte em um número entre 0 a 4095. A função adc1_get_raw() irá fazer a captura da quantidade de tensão aplicada ao pino do canal configurado.
+A Franzininho WiFi possui 20 entradas de ADC, sendo que o ADC1 possui 10 canais configurados do GPIO1 ao GPIO10, já o ADC2 possui 10 canais configurados do GPIO11 ao GPIO20. O conversor analógico-digital da ESP32-S2 que iremos utilizar possui 12bits de resolução, portanto, ele lê a tensão e a converte em um número entre 0 a 4095. A função adc1_get_raw() irá fazer a captura da quantidade de tensão aplicada ao pino do canal configurado.
 
 ### Esquemático
 
 ![esquemático](img/0x03-entrada-analogica/2.png)
 
-Em uma protoboard, conecte os três fios do potenciômetro na Franzininho WIFI. O primeiro vai de um dos pinos externos do potenciômetro para o GND. O segundo vai do outro pino externo do potenciômetro para 3,3 volts. O terceiro vai do pino do meio do potenciômetro ao pino analógico GPIO1.
+Em uma protoboard, conecte os três fios do potenciômetro na Franzininho WiFi. O primeiro vai de um dos pinos externos do potenciômetro para o GND. O segundo vai do outro pino externo do potenciômetro para 3,3 volts. O terceiro vai do pino do meio do potenciômetro ao pino analógico GPIO1.
 
 ### Código
 

@@ -105,7 +105,7 @@ void setup() {
   pinMode(green, OUTPUT);
   pinMode(blue, OUTPUT);
   
-  // inicializa LED em cor vemelha  e de máxima intensidade
+  // inicializa LED em cor vermelha e de máxima intensidade
   analogWrite(red, valor_r);
   analogWrite(green, valor_g);
   analogWrite(blue, valor_b);

@@ -380,7 +380,7 @@ De forma geral, todas as três formas de se fazer o código funcionam, e ao serv
 
 ## Glossário
 
-- Setar: colocar um novo valor em um registrador. Para um bit é convencionado setar, muda-lo para valor 1, e clear (limpar), muda-lo para valor 0
+- Setar: colocar um novo valor em um registrador. Para um bit é convencionado setar, mudá-lo para valor 1, e clear (limpar), mudá-lo para valor 0
 - Chave tactil/Push button: botão
 - Debounce: correção do efeito de bouncing (efeito que ocorre em chaves que fazem rápidas conexões e desconexões antes de se estabilizar)
 - Resetar: reiniciar

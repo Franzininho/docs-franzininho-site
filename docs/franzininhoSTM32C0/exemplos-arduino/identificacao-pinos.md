@@ -55,13 +55,13 @@ HardwareSerial Serial2(uart2);
 
 ## SPI
 
-A figura no alto da página indica os pinos utilizados por padrão para a interface spi, acessada através do objeto SPI que é parte da bioblioteca padrão SPI.
+A figura no alto da página indica os pinos utilizados por padrão para a interface spi, acessada através do objeto SPI que é parte da biblioteca padrão SPI.
 
 Veja detalhes no exemplo SPI.
 
 ## I^2^C
 
-No ambiente Arduino, a interface i^2^c é acessada através do objeto Wire, que é parte da bioblioteca padrão SPI.
+No ambiente Arduino, a interface i^2^c é acessada através do objeto Wire, que é parte da biblioteca padrão SPI.
 
 A opção "Generic STM32C0" usa como padrão os pinos PA9 e PA10 para a interface i2c. Como estes pinos estão ligados na Franzininho C0 aos conversor serial USB, é preciso reconfigurar os pinos através dos métodos setSCL e setSDA **antes** de chamar o método begin (veja o exemplo "I2C").
 

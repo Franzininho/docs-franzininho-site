@@ -92,7 +92,7 @@ int main()
 
 ## Desafio
 
-Faça com com que o LED ligue ao pressionar o botao e desligue quando soltar. Para isso você preciará configurar a interrução na borda de subinda.
+Faça com que o LED ligue ao pressionar o botão e desligue quando soltar. Para isso você precisará configurar a interrupção na borda de subida.
 
 | Autor | [Fábio Souza](https://github.com/FBSeletronica) |
 |-------|-------------|
